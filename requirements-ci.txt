@@ -1,0 +1,12 @@
+# Slim install for GitHub Actions runs (engine only — no dashboard).
+# streamlit/plotly (dashboard) and APScheduler/schedule (local scheduler) are
+# deliberately excluded: they aren't imported by `python main.py run|evening`,
+# and skipping them roughly halves the billable minutes per run.
+# Streamlit Cloud and local dev keep using the full requirements.txt.
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+certifi>=2024.0
+truststore>=0.9
+vaderSentiment>=3.3
+openpyxl>=3.1

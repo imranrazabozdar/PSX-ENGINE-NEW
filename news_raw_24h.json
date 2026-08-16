@@ -1,0 +1,411 @@
+{
+  "fetched_at": "2026-08-14T07:43:51.499196+00:00",
+  "window_hours": 24,
+  "cutoff": "2026-08-13T07:43:51.499196+00:00",
+  "universe": [
+    "PSO",
+    "TREET",
+    "FABL",
+    "AIRLINK",
+    "MEBL",
+    "SYS",
+    "LUCK",
+    "FFC",
+    "NRL",
+    "DGKC",
+    "OGDC",
+    "PPL",
+    "MARI",
+    "HUBC",
+    "ENGROH",
+    "EFERT",
+    "FCCL",
+    "MLCF",
+    "NML",
+    "PAEL",
+    "SEARL",
+    "HCAR",
+    "PRL",
+    "ATRL",
+    "SNGP",
+    "SSGC",
+    "SAZEW",
+    "FFL",
+    "CPHL",
+    "GHNI",
+    "GAL",
+    "KEL",
+    "PIBTL",
+    "TELE",
+    "DCL",
+    "GGL",
+    "BNL",
+    "ILP",
+    "FCL",
+    "JVDC",
+    "AGP",
+    "WAVES",
+    "TOMCL",
+    "IMAGE",
+    "SYM",
+    "FCEPL",
+    "KOHC",
+    "SLM",
+    "SLGL",
+    "THCCL"
+  ],
+  "allowlist": [
+    "brecorder.com",
+    "dawn.com",
+    "mettisglobal.news",
+    "profit.pakistantoday.com.pk",
+    "news.google.com"
+  ],
+  "count": 43,
+  "items": [
+    {
+      "symbol": "_macro",
+      "title": "SBP governor vows focus on stability, reforms and export growth",
+      "url": "https://www.brecorder.com/news/40434815/sbp-governor-vows-focus-on-stability-reforms-and-export-growth",
+      "published": "2026-08-14T12:41:08+05:00",
+      "summary": "State Bank of Pakistan Governor  Jameel Ahmad said on Friday that the SBP’s focus will remain on price stability, policy reforms, and creating a conducive economic environment for higher productivity, export growth, and job creation.\nHe said this while addressing the commemoration of the 79th Independence Day of Pakistan with a flag-hoisting ceremony at SBP Karachi.\nGovernor Ahmad said that Pakist",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Gold heads for weekly loss as investors unwind inflation-fuelled rally",
+      "url": "https://www.brecorder.com/news/40434794/gold-heads-for-weekly-loss-as-investors-unwind-inflation-fuelled-rally",
+      "published": "2026-08-14T12:33:38+05:00",
+      "summary": "Gold prices slipped on Friday and were headed for a weekly loss as investors locked in profits after mild US inflation data propelled bullion to its highest level in more than two months and weakened the case for a near-term Federal Reserve rate hike.\nSpot gold was down 0.5% at $4,326.75 per ounce, as of 0336 GMT.\nWhile US gold futures for December delivery slid nearly 1% to $4,382.50.\nBullion cli",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Shelton wins back-to-back Canadian Opens with victory over Nakashima",
+      "url": "https://www.brecorder.com/news/40434814/shelton-wins-back-to-back-canadian-opens-with-victory-over-nakashima",
+      "published": "2026-08-14T12:25:30+05:00",
+      "summary": "Ben Shelton won the Canadian Open for a second straight year with a 6-3 7-6(4) victory over fellow American Brandon Nakashima on Thursday, claiming his second Masters 1000 crown and picking up a seventh career title.\nThe all-American final was the first at Masters 1000 level since Andy Roddick beat Mardy Fish in Cincinnati in 2003 and offered an encouraging sign for US men’s tennis ahead of the US",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Tanzid Hasan scores ton as Bangladesh take 88-run lead over Australia",
+      "url": "https://www.brecorder.com/news/40434813/tanzid-hasan-scores-ton-as-bangladesh-take-88-run-lead-over-australia",
+      "published": "2026-08-14T12:20:17+05:00",
+      "summary": "Opener Tanzid Hasan scored his maiden century in his second Test as Bangladesh reached 286 for three at tea on day two of the series-opener against Australia in Darwin on Friday, taking a first-innings lead of 88 runs.\nLeft hander Tanzid became Bangladesh’s first century-maker in Australia in the nation’s third Test “Down Under” with 101 in 197 balls before slogging spinner Nathan Lyon to be caugh",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Investors sue Selena Gomez for alleged fraud over mental-health start-up",
+      "url": "https://www.brecorder.com/news/40434812/investors-sue-selena-gomez-for-alleged-fraud-over-mental-health-start-up",
+      "published": "2026-08-14T12:12:07+05:00",
+      "summary": "LOS ANGELES: Singer and actor Selena Gomez was sued on Thursday by investors who ​say the “Only Murders in the Building” star committed ‌fraud by failing to fulfill duties to build and promote her mental health start-up.\nThe plaintiffs invested nearly $1.2 million in ​Wondermind Global, which was launched in 2021 to ​help users strengthen their “mental fitness,” according to the ⁠lawsuit filed in ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Hormuz shipping traffic capped amid competing claims from US and Iran",
+      "url": "https://www.brecorder.com/news/40434811/hormuz-shipping-traffic-capped-amid-competing-claims-from-us-and-iran",
+      "published": "2026-08-14T11:58:44+05:00",
+      "summary": "SINGAPORE: Shipping traffic at the Strait of Hormuz fell below the month average towards the end of the week due to volatile sentiment between the United States and Iran, with both countries making competing claims over its control.\nThe Strait of Hormuz is “under Iran’s control and management”, the recently appointed head of Iran’s Basij paramilitary unit said on Thursday.\nMeanwhile, the United St",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Copper falls, set to snap six-week win streak on demand concerns",
+      "url": "https://www.brecorder.com/news/40434810/copper-falls-set-to-snap-six-week-win-streak-on-demand-concerns",
+      "published": "2026-08-14T11:50:31+05:00",
+      "summary": "SINGAPORE: Copper declined on Friday and was set to snap its longest run of weekly gains since 2020, as it and the wider industrial metals complex were weighed down by concerns about demand prospects.\nBenchmark three-month copper on the London Metal Exchange was down 0.56% at $14,069 a metric ton by 0300 GMT.\nThe metal is set to end the week near where it started, after a run of six consecutive we",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Jack Draper has 'very, very big' mountain to climb in bid to return to his best",
+      "url": "https://www.brecorder.com/news/40434809/jack-draper-has-very-very-big-mountain-to-climb-in-bid-to-return-to-his-best",
+      "published": "2026-08-14T11:46:20+05:00",
+      "summary": "Jack Draper’s comeback hit another obstacle on Thursday as the injury-ravaged Briton suffered a 6-3 7-5 first-round defeat by Martin Landaluce at the Cincinnati Open.\nDraper reached a career-high ranking of four in 2025 but had to cut short the season with a bone injury in his arm, and also dealt with a knee injury this year.\nHe returned to action at the Canadian Open following his withdrawal from",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Short-term JGB yields jump to multi-decade highs on BOJ rate-hike bets",
+      "url": "https://www.brecorder.com/news/40434808/short-term-jgb-yields-jump-to-multi-decade-highs-on-boj-rate-hike-bets",
+      "published": "2026-08-14T11:43:48+05:00",
+      "summary": "TOKYO: Japanese government bonds fell on Friday, sending shorter-term yields to historic highs, as expectations firmed around a Bank of Japan interest rate hike next month.\nHere are a few details:\nThe two-year yield, the one most sensitive to BOJ policy rates, added 0.5 basis point (bp) to 1.650%, the highest since May 1995. Yields move inversely to bond prices.\nThe five-year yield advanced 1.5 bp",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Wildfire descends on Croatian tourist town, injures at least",
+      "url": "https://www.brecorder.com/news/40434807/wildfire-descends-on-croatian-tourist-town-injures-at-least",
+      "published": "2026-08-14T11:42:03+05:00",
+      "summary": "A wildfire in Croatia driven by strong winds descended on the tourist town of Omis on Friday, forcing hundreds to evacuate and threatening homes and vehicles, local media reported.\nFlames enveloped settlements and trees and turned the night sky red above Omis, a scenic town on Croatia’s prized Dalmatian coast surrounded by trees and rocky hills.\nAround 19 people have been treated by ambulance serv",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Apple trains its own AI model for China market with Alibaba's support, sources say",
+      "url": "https://www.brecorder.com/news/40434806/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support-sources-say",
+      "published": "2026-08-14T11:38:12+05:00",
+      "summary": "Apple has trained a large language model specifically for the China market, three people familiar with the matter said, a departure from the iPhone maker’s strategy of relying on third-party models to power AI features in the country.\nThe AI model was developed in partnership with Alibaba Group and trained with the Chinese tech giant’s support, the people said, declining to be named as the informa",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "South Korean shares set to snap 7-week losing streak on AI optimism",
+      "url": "https://www.brecorder.com/news/40434805/south-korean-shares-set-to-snap-7-week-losing-streak-on-ai-optimism",
+      "published": "2026-08-14T11:25:45+05:00",
+      "summary": "SEOUL: Round-up of South Korean financial markets:\n South Korean shares looked set to snap a seven-week decline on Friday, rising to their highest level in three weeks as chipmakers gained on AI optimism.\nThe benchmark KOSPI was up 55.55 points, or 0.82%, at 6,868.89 as of 0132 GMT, after rising as much as 2.9% earlier in the session.\nThe index cut gains on caution ahead of a public holiday on Mon",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Philippine central bank governor says Q2 growth number is disappointing",
+      "url": "https://www.brecorder.com/news/40434804/philippine-central-bank-governor-says-q2-growth-number-is-disappointing",
+      "published": "2026-08-14T11:22:59+05:00",
+      "summary": "MANILA: Philippine central bank Governor Eli Remolona said on Friday that the most recent economic growth number was disappointing, but “it is not that bad”.\nThe Philippine economy grew 2.3% in the second quarter from a year earlier, its weakest pace since 2021, due to a slump in construction and softer domestic demand.",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Thai baht/US dollar weaker on Friday",
+      "url": "https://www.brecorder.com/news/40434803/thai-bahtus-dollar-weaker-on-friday",
+      "published": "2026-08-14T11:21:31+05:00",
+      "summary": "BANGKOK: The Thai baht weakened against the US dollar on Friday.\nAt 0210 GMT, the baht was 0.17% lower at 33.20 versus the dollar, after trading in a range of 33.165 to 33.250.\nIt ended the previous session at 33.1425 per dollar, as per LSEG data.",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Iga Swiatek beats Elena Rybakina in Toronto for first title of '26",
+      "url": "https://www.brecorder.com/news/40434802/iga-swiatek-beats-elena-rybakina-in-toronto-for-first-title-of-26",
+      "published": "2026-08-14T11:18:09+05:00",
+      "summary": "Seventh-seeded Iga Swiatek picked up her first tournament title of the season with a solid 6-2, 6-3 victory over second-seeded Elena Rybakina on Thursday at the National Bank Open in Toronto.\nSwiatek needed just 75 minutes and had a first-serve percentage of 80% while slaying Rybakina for the seventh time in 13 career meetings.\nSwiatek of Poland converted 4 of 5 break points and controlled most of",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "New Zealand withdraw support for FIFA boss Infantino, call for review",
+      "url": "https://www.brecorder.com/news/40434801/new-zealand-withdraw-support-for-fifa-boss-infantino-call-for-review",
+      "published": "2026-08-14T11:13:13+05:00",
+      "summary": "New Zealand has withdrawn support for FIFA President Gianni Infantino’s re-election and called for a review following the scrapping of the governing body’s plan to bring private equity into the World Cup.\n“New Zealand Football today announced that it has formally withdrawn its support for the candidature of Gianni Infantino as FIFA President at the 2027 FIFA Congress,” NZF said in a statement on F",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "US wheat heads for biggest weekly gain in one month on Black Sea disruptions",
+      "url": "https://www.brecorder.com/news/40434800/us-wheat-heads-for-biggest-weekly-gain-in-one-month-on-black-sea-disruptions",
+      "published": "2026-08-14T11:05:17+05:00",
+      "summary": "SINGAPORE: Chicago wheat futures rose on Friday and were poised for their biggest weekly rise in a month, as disruptions to Black Sea supplies linked to the Russia-Ukraine war underpinned prices.\nSoybeans and corn firmed, although forecasts of rains in the US Midwest limited the upside potential in prices.",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Australian shares fall as weaker metal prices weigh on miners",
+      "url": "https://www.brecorder.com/news/40434799/australian-shares-fall-as-weaker-metal-prices-weigh-on-miners",
+      "published": "2026-08-14T10:54:30+05:00",
+      "summary": "Australian shares fell on Friday as weaker metal prices weighed on mining stocks, offsetting gains in technology shares, while investors monitored developments in the US-Iran standoff over the Strait of Hormuz.\nThe S&amp;P/ASX 200 index lost 0.7% to 9,128.50 by 0028 GMT, on track for its largest weekly drop in nearly four months.\nThe benchmark lost 0.2% on Thursday.\nSentiment weakened after the US",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Indian bond bias stays positive, debt auction demand in focus",
+      "url": "https://www.brecorder.com/news/40434798/indian-bond-bias-stays-positive-debt-auction-demand-in-focus",
+      "published": "2026-08-14T10:51:04+05:00",
+      "summary": "MUMBAI: Indian government bonds remained firm in early trade on Friday, although the benchmark 10-year bond yield held above the key 6.75% level as investors looked to a weekly debt auction for fresh cues.\nThe yield on the benchmark 6.94% 2036 bond was at 6.7511% as of 10:00 a.m. IST, after closing at 6.7582% on Thursday.\nBond yields move inversely to prices.\nNew Delhi will raise 320 billion rupee",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "China, HK stocks decline as investors eye Unitree IPO; property sector weighs",
+      "url": "https://www.brecorder.com/news/40434797/china-hk-stocks-decline-as-investors-eye-unitree-ipo-property-sector-weighs",
+      "published": "2026-08-14T10:48:43+05:00",
+      "summary": "HONG KONG: China and Hong Kong stocks fell on Friday, pressured by weakening liquidity ahead of robot maker Unitree’s high-profile Shanghai IPO and contraction in property stocks.\nChina’s blue-chip CSI300 Index edged down 0.1% by the lunch break, while the Shanghai Composite Index dipped 0.2%.\nHong Kong benchmark Hang Seng declined 0.9%.\nAnalysts said caution ahead of interim earnings results kept",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "New Zealand dollar bounces after overnight wobble, Aussie drifts sideways",
+      "url": "https://www.brecorder.com/news/40434796/new-zealand-dollar-bounces-after-overnight-wobble-aussie-drifts-sideways",
+      "published": "2026-08-14T10:46:02+05:00",
+      "summary": "SYDNEY: The New Zealand dollar bounced on Friday after an overnight wobble as market pricing for an imminent rate hike remained firm, while the Aussie drifted sideways after a hawkish central bank week.\nThe kiwi edged up 0.2% on Friday to $0.5865, having slipped 0.1% overnight to as far as $0.5822 as data showed a sharp drop in one-year inflation expectations.\nFor the week, it is down 0.4%.\nHoweve",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Japanese shares climb on bets Fed to hold rates steady; Topix poised for record close",
+      "url": "https://www.brecorder.com/news/40434795/japanese-shares-climb-on-bets-fed-to-hold-rates-steady-topix-poised-for-record-close",
+      "published": "2026-08-14T10:41:40+05:00",
+      "summary": "TOKYO: Japan’s Nikkei share gauge climbed on Friday, extending a weekly advance, after softer US producer prices eased pressure for a near-term Federal Reserve interest rate hike and supported risk appetite.\nThe benchmark Nikkei 225 rose 0.85% to 68,889.01 by the midday break, set for a 5% gain for the week.\nThe broader Topix gained 0.69% to 4,204.99, poised for a record high close.\nUS stocks rall",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Palm flat as El Niño fears counter rising stock levels; still poised for second weekly gain",
+      "url": "https://www.brecorder.com/news/40434793/palm-flat-as-el-nino-fears-counter-rising-stock-levels-still-poised-for-second-weekly-gain",
+      "published": "2026-08-14T10:34:18+05:00",
+      "summary": "KUALA LUMPUR: Malaysian palm oil futures traded in a tight range on Friday, as pressure from higher inventories countered concerns over El Niño’s impact on production and firmer crude oil prices.\nThe benchmark palm oil contract for October delivery on the Bursa Malaysia Derivatives Exchange was up 3 ringgit, or 0.06%, at 4,727 ringgit ($1,158.01) a metric ton by the midday break.\nThe contract has ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say",
+      "url": "https://www.brecorder.com/news/40434792/us-could-not-verify-israeli-warnings-of-iran-plots-against-trump-sources-say",
+      "published": "2026-08-14T08:48:56+05:00",
+      "summary": "WASHINGTON: The US has received several warnings from Israel over the past year that Iran intended to assassinate President Donald Trump, ​including before a secret Air Force One ruse in Turkey, that US intelligence officials could not independently verify, according to a current US official and two former officials.\nThe warnings, passed to ‌US intelligence agencies and in some cases relayed direc",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Latvia shoots down drone in its airspace, Finland restricts parts of Baltic Sea",
+      "url": "https://www.brecorder.com/news/40434791/latvia-shoots-down-drone-in-its-airspace-finland-restricts-parts-of-baltic-sea",
+      "published": "2026-08-14T08:35:36+05:00",
+      "summary": "Fighter jets on a NATO air defence mission have shot down a drone ​that entered the airspace of Latvia, a ‌NATO and European Union member, early on Friday, Latvia’s armed forces said on X.\nThe armed forces also lifted an air ​threat alert for regions close to Russia.\nFinland, another ​EU and NATO member which also shares a ⁠border with Russia, temporarily restricted areas for aviation and ​maritim",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Thousands stranded at Japan's Narita airport after record rain kills four",
+      "url": "https://www.brecorder.com/news/40434790/thousands-stranded-at-japans-narita-airport-after-record-rain-kills-four",
+      "published": "2026-08-14T08:30:49+05:00",
+      "summary": "TOKYO: Record ‌rainfall left thousands of travellers stranded at Tokyo’s Narita airport on Friday as flooding in the surrounding area disrupted transport, knocked out power to homes and claimed at least four lives.\nMore than ​360 millimetres of rain fell in 24 hours in parts of Chiba prefecture, ​which adjoins the capital Tokyo, inundating roads and railways during one of ⁠Japan’s busiest holiday ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "url": "https://www.brecorder.com/news/40434789/chinese-chipmaker-smic-increases-prices-on-strong-ai-demand",
+      "published": "2026-08-14T08:26:55+05:00",
+      "summary": "BEIJING: China’s top foundry, ​Semiconductor Manufacturing International Corp, said on Friday that AI-related demand would continue to underpin orders for ‌its production, and that it had raised prices for its most sought-after capacity.\nCo-CEO Zhao Haijun said on an earnings call that SMIC raised prices following negotiations with customers in the first quarter, and that it would charge more for ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Indian rupee RBI-cushioned weakness may find relief from softer oil",
+      "url": "https://www.brecorder.com/news/40434788/indian-rupee-rbi-cushioned-weakness-may-find-relief-from-softer-oil",
+      "published": "2026-08-14T08:23:52+05:00",
+      "summary": "MUMBAI: The Indian rupee is likely to open slightly higher on Friday, with a pullback in oil prices offering relief ​to the currency after a week of persistent pressure.\nThe ‌Indian rupee is expected to open in 95.38-95.40 range, per traders, having settled at 95.44 to the dollar on Thursday.\nThe local currency’s roughly 0.2% weekly decline understates ​the extent of the strain, bankers said.\nThe ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Jared Kushner may visit Israel next week for talks on Gaza, source says",
+      "url": "https://www.brecorder.com/news/40434787/jared-kushner-may-visit-israel-next-week-for-talks-on-gaza-source-says",
+      "published": "2026-08-14T08:18:26+05:00",
+      "summary": "US President Donald Trump’s envoy and son-in-law, Jared Kushner, may visit Israel next week for talks on Gaza, a source familiar with the matter said on Thursday.\nThe plans were reported earlier by Axios, which ​also said that Kushner was planning to meet mediators from Egypt, Qatar and Turkiye ​as well next week in Cairo.\n“We agree with the Israelis on the goal ⁠of disarming Hamas but they have e",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Musk discloses 48.4% stake in SpaceX in regulatory filing",
+      "url": "https://www.brecorder.com/news/40434786/musk-discloses-484-stake-in-spacex-in-regulatory-filing",
+      "published": "2026-08-14T08:09:57+05:00",
+      "summary": "Elon Musk held a 48.4% stake in SpaceX as of June 30, a regulatory filing ​showed on Thursday, valuing his holding at ‌more than $900 billion at current market prices.\nThe rockets-to-AI company went public on June 12 after a record-setting IPO that raised $85.7 billion ​and vaulted the company’s market cap past $2 ​trillion.\nHowever, its valuation has since retreated ⁠as enthusiasm faded.\nMusk own",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Transporters’ issues almost resolved: Sindh CM",
+      "url": "https://www.dawn.com/news/2022659/transporters-issues-almost-resolved-sindh-cm",
+      "published": "2026-08-14T07:40:34+05:00",
+      "summary": "• Murad Ali Shah directs transport department to address remaining demands• KATI warns prolonged strike could disrupt production, essential supplies• LCCI calls for meaningful dialogue to end strike; says export containers worth $500 million stranded at factories\nKARACHI: As the goods transporters’ strike entered its sixth day on Thursday, continuing to disrupt industrial activity and exports, Sin",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Govt raises petrol price by Rs0.45, high-speed diesel by Rs1.16",
+      "url": "https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116",
+      "published": "2026-08-14T07:35:18+05:00",
+      "summary": "if (!window._rawHtmlListenerAttached) {\n    window._rawHtmlListenerAttached = true;\n    window.addEventListener('message', function(event) {\n        if (event.data && event.data.type === 'raw-html-resize' && event.data.id) {\n            var iframe = document.getElementById(event.data.id);\n            if (iframe) {\n                var height = Math.min(Math.max(event.data.height, 50), 9200);\n      ",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "_macro",
+      "title": "FBR imposes new penalties for customs delays",
+      "url": "https://www.dawn.com/news/2022656/fbr-imposes-new-penalties-for-customs-delays",
+      "published": "2026-08-14T07:29:33+05:00",
+      "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has notified new penalties for delays in filing goods declarations for home consumption and in removing consignments from warehousing, effective from Oct 1.\nThe new penalties were issued through a customs notification, SRO 1346 of 2026. The new schedule replaces last year’s notification and sets graded fines for importers and exporters who fail to meet",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Petroleum levy collection hits record Rs1.57tr",
+      "url": "https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr",
+      "published": "2026-08-14T07:23:46+05:00",
+      "summary": "• Cost of running civil govt rises 16pc, crosses Rs1tr for first time• Fiscal deficit shrinks to 2.6pc on the back of provincial surpluses, lower interest bill• Defence spending up 18pc; primary surplus reaches record 2.9pc of GDP\nISLAMABAD: With a record Rs1.567 trillion petroleum levy collection amid record consumer-end oil prices following US-Israel attacks on Iran, the cost of running the civi",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Govt rejects petroleum dealers’ monthly pricing demand",
+      "url": "https://www.dawn.com/news/2022737/govt-rejects-petroleum-dealers-monthly-pricing-demand",
+      "published": "2026-08-14T07:22:08+05:00",
+      "summary": "https://www.dawn.com/news/2022658",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "_macro",
+      "title": "PTI white paper on wheat crisis",
+      "url": "https://www.dawn.com/news/2022657/pti-white-paper-on-wheat-crisis",
+      "published": "2026-08-14T05:40:22+05:00",
+      "summary": "ISLAMABAD: While the government has decided to import one million tonnes of wheat, the PTI’s Kisan Wing on Thursday issued a white paper on the wheat crisis, detailing the factors responsible for the deteriorating condition of agriculture and farmers.\n\nThe white paper, presented at the Khyber Pakhtunkhwa House, also traces 79 years of policies and the history behind the rise and decline of wheat p",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Equities suffer marginal losses on profit-taking",
+      "url": "https://www.dawn.com/news/2022653/equities-suffer-marginal-losses-on-profit-taking",
+      "published": "2026-08-14T05:40:22+05:00",
+      "summary": "KARACHI: Investor sentiments on the Pakistan Stock Exchange (PSX) remained choppy on Thursday ahead of the long weekend due to the Independence Day holiday, resulting in the benchmark index closing in the red amid late profit-taking.\n\nTopline Securities Ltd said the index largely traded in the positive zone during the session, attributable to a decline in crude oil prices. However, sceptical inves",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "TOMCL",
+      "title": "Price to earnings forward of Organic Meat Company Limited – PSX:TOMCL - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk4wVGxZS1JDWEFuU1B1Ym1HckoyLXhKSEx3Zk15UExNeDd5UjRQQjAySkhlZEM5b0FfUDlkcHZaZnV0UldPZU5UdmdNbmE5OUhQSE1RalFUMTZucnA0aU9aYWszU2Q3SkczbVdielBDbXNkcGh4a0JSY05helNsNXZfc29xeFhGMEtEajZNVW1OOE90TmVwYlhsM3N3R1E?oc=5",
+      "published": "2026-08-13T20:57:29+00:00",
+      "summary": "Price to earnings forward of Organic Meat Company Limited – PSX:TOMCL&nbsp;&nbsp;TradingView",
+      "source": "google_news_rss"
+    },
+    {
+      "symbol": "OGDC",
+      "title": "OGDC Reaffirms Commitment to Pakistan’s Energy Security on Independence Day - ProPakistani",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmVFRmw4Y2VzbVhNR0doOWNFaWVjd2NsNjg2S0FzVTJmOG0zaDFSc2ZyZWxFSkxYNkQtWmpzYVE2MWpMc0xHY0V2R2xpcFNyRHhmNElWTFBXYm9zaGlYSTJYVGd5OUJMT2JEc0ZnenZLQkYzMFpYVjJUS1llSlpLWHF0cFVsWmpEeHVlTE1DXzFvbXpxam1tZUx6Y2tUQTZFazVYZy1pLXFvT2R0UzNr0gG0AUFVX3lxTE9iSlBGQ2RLR1NWYTUzSXVuYkhfNGlXWGViQm96OXEzS2tWZjlnXzRHYW5ncnpod2ZsNnJoYkdiT3FkaGg3TUF1S3lzbUVCUWZpU1pxWTM4X2NlN1duSWxwWl9ZN1ZhOHRPTXhrbnJ4U3NFNE4yZDBhQnFKVU1UV1ppWkdrWkx0cjlxRDVtVkpkSnkyWGZRcTJ3QU84dEF3eDN3QVhhYXpTWWEwcElrTFZsUUlDZw?oc=5",
+      "published": "2026-08-13T19:42:09+00:00",
+      "summary": "OGDC Reaffirms Commitment to Pakistan’s Energy Security on Independence Day&nbsp;&nbsp;ProPakistani",
+      "source": "google_news_rss"
+    },
+    {
+      "symbol": "FCL",
+      "title": "FAST cables sets new manufacturing benchmark with Pakistan’s first BASEC certification - profit.pakistantoday.com.pk",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORi01QWhLY1F4eV9nRkZNQUZ1eHRkNlgzd3ZRNE5PR2ZMTXhmT2h6Wm56TUVxd1JyRk9rbmNLcjUxSDlCQUN5dmJNb1M2R0tRakZ1VGNSX3ZfSGM0VVBCWTVUVWhEdlBleWpsWjd5ckJQV3NTeE90R1JMYmRVV2E2Z1VqRnNCQjk0N2pSSzEtZnJBdHB3TFVuUE9ZQWwxUjkxNlNOWjRPclU2OEdjcFJDS0NVaFB1SFZSWmRvUEdDbzk5OHkteVo2SzVNbDU?oc=5",
+      "published": "2026-08-13T17:07:57+00:00",
+      "summary": "FAST cables sets new manufacturing benchmark with Pakistan’s first BASEC certification&nbsp;&nbsp;profit.pakistantoday.com.pk",
+      "source": "google_news_rss"
+    },
+    {
+      "symbol": "KEL",
+      "title": "K-Electric announces maintenance shutdown on August 14 - MM News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9seWVIU05CcGJMRkVPNkFEeGNpZGgxSWtBVGhTTmlCLUpTZWtDV0VDYWYwcWVkbWlQcThNZnVNeGpsQ2tjWHJWMkJadmNucERvMVpIZHBkOTVzb0p6bm1uZ0NuZHlvdlRqUEZwMzhUcG1iblpKN3B4cTdGRHlJUQ?oc=5",
+      "published": "2026-08-13T13:21:03+00:00",
+      "summary": "K-Electric announces maintenance shutdown on August 14&nbsp;&nbsp;MM News",
+      "source": "google_news_rss"
+    },
+    {
+      "symbol": "PPL",
+      "title": "Petroleum dealers to shut pumps from Aug 15 as talks fail - Dialogue Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzVac2dqYVZ4NVhPNFZTTmNTNzY2dENicUc0QzYwekZha3hBVE5vdFVEWjB0bXNBQnVVcXI1R20wdmt1YXdJUFJtbW5wNmlvTDlKbWs2ZmR0eUZ5R3dZcVFkaWZQdFpNcmd6RWdGU3pMaHFWYVppZnNZbWllS2pLNGFVaUN5UmgzR21IRUJSekEwSjBiUUl5YmFXckNuenc?oc=5",
+      "published": "2026-08-13T11:48:18+00:00",
+      "summary": "Petroleum dealers to shut pumps from Aug 15 as talks fail&nbsp;&nbsp;Dialogue Pakistan",
+      "source": "google_news_rss"
+    },
+    {
+      "symbol": "PPL",
+      "title": "Pakistan Petroleum Dealers Declare Indefinite Strike Over Price Margins - streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSTRnTmVmdmI0M0lzUC1BRmxVR00xSDZCVmFLMllhVVI1NlFBVG1YVmFVeUE4bTJudE5IMGRncnl5ZUdMWTVMbExhR2hpb3JDdU1aYWo3ZUFKTGtZQUVaU2I5Vkk0b1RkaGotSkJ2QU9tWlRaYzlFcWh2VFNQa0YyaEtvRjI0aFcxQkNGWTNaWXJQa29QVWxtaUZ2R1ZpVkR6NV9HZXFHcGQ?oc=5",
+      "published": "2026-08-13T11:07:33+00:00",
+      "summary": "Pakistan Petroleum Dealers Declare Indefinite Strike Over Price Margins&nbsp;&nbsp;streamlinefeed.co.ke",
+      "source": "google_news_rss"
+    }
+  ]
+}

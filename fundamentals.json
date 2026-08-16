@@ -1,0 +1,200 @@
+{
+  "as_of": "2026-06-12",
+  "source": "stockanalysis.com (PSX)",
+  "data": {
+    "PSO": {
+      "pe": 3.76,
+      "roe": 15.62,
+      "de": 1.07,
+      "div_yield": 2.86,
+      "eps_growth": 211.15
+    },
+    "TREET": {
+      "pe": 21.94,
+      "roe": 3.42,
+      "de": 0.94,
+      "eps_growth": 33.47
+    },
+    "FABL": {
+      "pe": 6.09,
+      "roe": 20.2,
+      "div_yield": 7.33,
+      "eps_growth": -1.35
+    },
+    "AIRLINK": {
+      "pe": 11.07,
+      "roe": 32.91,
+      "de": 1.81,
+      "div_yield": 5.8,
+      "eps_growth": 25.97
+    },
+    "MEBL": {
+      "pe": 9.98,
+      "roe": 34.11,
+      "div_yield": 5.99,
+      "eps_growth": -9.31
+    },
+    "SYS": {
+      "pe": 19.06,
+      "roe": 22.4,
+      "de": 0.1,
+      "div_yield": 1.36,
+      "eps_growth": 35.55
+    },
+    "LUCK": {
+      "pe": 7.61,
+      "roe": 22.11,
+      "de": 0.43,
+      "div_yield": 0.93,
+      "eps_growth": 15.83
+    },
+    "FFC": {
+      "pe": 9.22,
+      "roe": 34.35,
+      "de": 0.3,
+      "div_yield": 6.68,
+      "eps_growth": -1.88
+    },
+    "NRL": {
+      "pe": 3.3,
+      "roe": 27.11,
+      "de": 0.92
+    },
+    "DGKC": {
+      "pe": 7.02,
+      "roe": 12.16,
+      "de": 0.19,
+      "div_yield": 1.03,
+      "eps_growth": 198.53
+    },
+    "OGDC": {
+      "pe": 8.74,
+      "roe": 11.35,
+      "de": 0.0,
+      "div_yield": 4.76,
+      "eps_growth": -7.12
+    },
+    "PPL": {
+      "pe": 7.68,
+      "roe": 10.94,
+      "de": 0.0,
+      "div_yield": 3.35,
+      "eps_growth": -12.05
+    },
+    "MARI": {
+      "pe": 11.51,
+      "roe": 25.06,
+      "de": 0.06,
+      "div_yield": 2.55,
+      "eps_growth": -5.0
+    },
+    "HUBC": {
+      "pe": 6.27,
+      "roe": 21.13,
+      "de": 0.29,
+      "div_yield": 7.06,
+      "eps_growth": -17.84
+    },
+    "ENGROH": {
+      "pe": 4.87,
+      "roe": 44.36,
+      "de": 1.33,
+      "eps_growth": 175.81
+    },
+    "EFERT": {
+      "pe": 11.47,
+      "roe": 55.94,
+      "de": 1.8,
+      "div_yield": 7.53,
+      "eps_growth": -1.42
+    },
+    "FCCL": {
+      "pe": 8.72,
+      "roe": 17.05,
+      "de": 0.33,
+      "div_yield": 2.39,
+      "eps_growth": 38.42
+    },
+    "MLCF": {
+      "pe": 8.06,
+      "roe": 14.94,
+      "de": 1.08,
+      "eps_growth": 18.9
+    },
+    "NML": {
+      "pe": 4.3,
+      "roe": 7.64,
+      "de": 0.53,
+      "div_yield": 1.39,
+      "eps_growth": 626.58
+    },
+    "PAEL": {
+      "pe": 8.94,
+      "roe": 8.57,
+      "de": 0.41,
+      "eps_growth": 53.22
+    },
+    "SEARL": {
+      "pe": 24.68,
+      "roe": 6.51,
+      "de": 0.21
+    },
+    "HCAR": {
+      "pe": 12.25,
+      "roe": 13.23,
+      "de": 0.09,
+      "div_yield": 3.24,
+      "eps_growth": 63.11
+    },
+    "PRL": {
+      "pe": 1.81,
+      "roe": 38.5,
+      "de": 0.4
+    },
+    "ATRL": {
+      "pe": 4.29,
+      "roe": 13.26,
+      "div_yield": 0.58,
+      "eps_growth": 148.06
+    },
+    "SNGP": {
+      "pe": 4.32,
+      "roe": 19.36,
+      "de": 2.66,
+      "div_yield": 3.03,
+      "eps_growth": -20.84
+    },
+    "SSGC": {
+      "roe": -16.9,
+      "de": 11.36,
+      "div_yield": 1.88
+    },
+    "SAZEW": {
+      "pe": 6.83,
+      "roe": 64.89,
+      "de": 0.0,
+      "div_yield": 2.49,
+      "eps_growth": 12.35
+    },
+    "FFL": {
+      "pe": 40.51,
+      "roe": 10.77,
+      "de": 0.58,
+      "eps_growth": 25.29
+    },
+    "CPHL": {
+      "pe": 16.12,
+      "roe": 13.28,
+      "de": 0.33,
+      "div_yield": 4.57,
+      "eps_growth": 31.94
+    },
+    "GHNI": {
+      "pe": 5.66,
+      "roe": 45.64,
+      "de": 0.0,
+      "div_yield": 1.09,
+      "eps_growth": 102.79
+    }
+  }
+}

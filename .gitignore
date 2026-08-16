@@ -1,0 +1,17 @@
+# Python virtual environment (NEVER push this — it's huge and machine-specific)
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Generated reports/exports (delivered by email; not needed in the repo)
+reports_out/
+
+# Local secrets — must never be committed
+.streamlit/secrets.toml
+.env
+
+# Keep psx_engine.db tracked: the Actions runner commits it so the dashboard
+# shows fresh data. (It is intentionally NOT ignored.)

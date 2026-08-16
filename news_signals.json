@@ -1,0 +1,138 @@
+{
+  "as_of": "2026-06-24T09:30:00+05:00",
+  "generated_by": "claude-news-routine",
+  "window_hours": 24,
+  "source_allowlist": [
+    "brecorder.com",
+    "dawn.com",
+    "mettisglobal.news",
+    "profit.pakistantoday.com.pk",
+    "news.google.com"
+  ],
+  "macro_summary": "Flow is thin and mixed. The dominant macro thread is continued de-escalation: oil extended its decline to four-month lows on expectations of smoother tanker flows through Hormuz, and Gulf equities eased alongside it (Business Recorder). The government separately confirmed the weekly oil-pricing mechanism stays in place -- OMCs get assurance of premium-based pricing to limit losses, though the same Dawn piece notes repeated revisions are discouraging foreign investment, i.e. partial reassurance after yesterday's Rs105bn OMC-loss warning, not a full resolution. Two real, named E&P operational positives landed: Mari Energies began Shams-1 gas supply to SNGPL, and OGDCL started gas production at the Sahito-1 discovery in Sindh. SIFC advanced the Machike-Tarru Jabba white-oil pipeline, a long-term logistics positive for the oil/refining chain. Separately, a Dawn 'Live Updates' page titled 'War returns to Iran with Israel, US strikes' appeared in today's PSO-tagged feed -- this is a live-blog headline, not corroborated by any other item in today's allowlisted flow (which otherwise points to de-escalation), so it is treated as ambiguous/low-confidence rather than a fresh escalation signal. PSX itself extended losses for a third straight session per Dawn's market wrap, despite the broader peace-process backdrop.",
+  "signals": {
+    "MARI": {
+      "score": 60,
+      "direction": "positive",
+      "materiality": "normal",
+      "confidence": "medium",
+      "summary": "Mari Energies commenced gas supply from its Shams-1 discovery to SNGPL -- a named, concrete production/revenue event corroborated across three allowlisted outlets.",
+      "headlines": [
+        "Mari Energies begins gas supply from Shams-1 discovery to SNGPL - Profit by Pakistan Today",
+        "Mari Energies commences Shams-1 gas supply to SNGPL - Business Recorder",
+        "Mari Energies begins gas supply from Shams-1 discovery to SNGPL - Mettis Global"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXRSQkFqRWRTTHRUQ3gzOENQYXRFQ1dNcWc1bjZXeEx4aDQ4ZHRnRVY3NEdaak5FWmZObzVXNGN1RzlVNGVxSVhzOUZoNmZ3Mlhuem50TElDZ0FkX05OWHp4dnJxTkhtQ25uNEFXWjhTbXVXdGltMmFfLWFjVFlUWTJ4eEtEcFVkTUQ5Uy16bXc0VWRoN0RuYzhQcThZSS1GbHhhLWF0eTFlWEtlWDNR?oc=5",
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14UHprNDJBb0NBbERQQ2hVR1lXTkdvQ21WRlFRZno2YndNYU1zdkdobmJwOFU0dVdpUWIwdDVUeUdIdldaa254NGVtbHhkaUhDSUwzNmNB0gFWQVVfeXFMTXhQems0MkFvQ0FsRFBDaFVHWVdOR29DbVZGUVFmejZid01hTXN2R2huYnA4VTR1V2lRYjB0NVR5R0h2V1prbng0ZW1seGRpSENJTDM2Y0E?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXRSQkFqRWRTTHRUQ3gzOENQYXRFQ1dNcWc1bjZXeEx4aDQ4ZHRnRVY3NEdaak5FWmZObzVXNGN1RzlVNGVxSVhzOUZoNmZ3Mlhuem50TElDZ0FkX05OWHp4dnJxTkhtQ25uNEFXWjhTbXVXdGltMmFfLWFjVFlUWTJ4eEtEcFVkTUQ5Uy16bXc0VWRoN0RuYzhQcThZSS1GbHhhLWF0eTFlWEtlWDNR?oc=5"
+      ]
+    },
+    "OGDC": {
+      "score": 58,
+      "direction": "positive",
+      "materiality": "normal",
+      "confidence": "medium",
+      "summary": "OGDCL started gas production at the Sahito-1 discovery well in Sindh, a fresh named operational positive, partially offset by oil prices extending their slide toward four-month lows.",
+      "headlines": [
+        "Gas production at Sahito-1 begins - Business Recorder",
+        "OGDCL starts gas production from Sahito-1 discovery well in Sindh - Profit by Pakistan Today",
+        "Oil prices extend decline on expectations of smoother crude flows via Hormuz - Business Recorder"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PMlhHRE9tUGRFajZtUmtadTlPTV83cFQ1RHdhWkhCS183TEd2aVZWMzYxSjVQX2RLWWFVQnRCMktDazN2Q0NtMXRuUDVNbk5w0gFWQVVfeXFMTXdkS1FFbHZuaFN1bFJZNEk5SE00LXd1cE9fVGlrN3hkUEhnN1hZQVV1MTF2Ny1uV1REMWExTnlTaTU2enNBV21VQlYyNlRSekZXV2k1SGc?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzNINkw0QndaQTA1LTNTbDJuTm1MRVA4SEJTV3NJUHpPNXN1TE9Mekc5b1NwVVc3N3dwdmxzSnNjaXNDcmRNaHlxVXdJenlFdEFWNmgyVGlXYWU3MEo2cGRWSTVqM0xXS2ZCSWxhSlZYcGtDSXVrZTZJbkhRWDd4cS0xcUNpQm5DTmwtVlZ4WXZvT3VZTTk1WlJWcnZqMzRyREhHLVN3dzZTUVVTLURyRnF3?oc=5"
+      ]
+    },
+    "PSO": {
+      "score": 51,
+      "direction": "positive",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Government reaffirmed the weekly oil-pricing mechanism stays, assuring OMCs of premium-based pricing to limit losses -- a partial reassurance after yesterday's Rs105bn loss warning -- but the same piece flags investor-confidence costs from repeated revisions, and a separate ambiguous war-escalation live-blog headline (uncorroborated elsewhere today) adds noise rather than a clear directional signal.",
+      "headlines": [
+        "Weekly oil pricing mechanism to stay - Dawn",
+        "SIFC clears way for strategic Machike-Tarru Jabba White Oil Pipeline - Business Recorder",
+        "Live Updates: War returns to Iran with Israel, US strikes - Dawn"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YW5ZSnFHSlpPRWZYTy1aeXVoU2ZFRHk1cGFKMUhPUkpEaTA2RG5jb0Jqd2Q0NWZxZzBxNl9aY2FFNmxOMXhSRkVXZEZRdTRKc2RFeDFxZWFQZjlZcVQzOGlGc3l1c0E2SVdnZE9NRE9yQkVoY25td1Vn?oc=5",
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vX1BqSGswUlJTMmFlWW1neVNfYWkwWnFldE5EZmZpUkFha3hCYWV1d0h5Vm9xeDFKMFVUZmtuWXpHeGF0Ty0zbUhVeEtGa1FC0gFWQVVfeXFMTTZrLWU0Z0hVRy1aSGFhRDhNSVM0cDcxZTdNVXVwc2ZxMGxCbzMxTDZJWGdNN1EtSFUxTVpOTFlPanFnQXlQMHZuYkRnRmR5cnA0Y1ZESnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5"
+      ]
+    },
+    "PPL": {
+      "score": 47,
+      "direction": "negative",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Gulf equities slipped as oil softened further on Iran-talks optimism, a near-term drag on E&P revenue assumptions, partially offset by the SIFC pipeline infrastructure advance.",
+      "headlines": [
+        "Gulf equities slip as oil softens on Iran talks, Fed rate fears weigh on sentiment - Profit by Pakistan Today",
+        "SIFC Advances Machike-Tarru Jabba White Oil Pipeline - Profit by Pakistan Today"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUlJVlBUSmFENVZCMjVaYzdIazFncVpFT05xWmlkaEZ1TUhBWlVOZnVlMWs4ckY4R2FFTS1iRDdFb1A5d1V3eGhWSDctWTVsX0R2aWVTTnJ3empBd2xpeTltckxGOEEwRHdTcmlub2V3aS02MmQySklDX3JDRGxuRzkxNDRvR0FkX216UWhkS3l3WVZvejdybWh5U3VhSHo4cmpVSE9fTlNDMXNIRE0xRmZ3YjJRTVMwN0w1X0N6YmNJcVpldUVR?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOC05X0xSaUxteHAzajJsaDNDbjY5Z1E5VzJzQnFGWWVhc0hONVlmbzVndmVUbVFqY0k0ZUMwaWVYZUs2QThDbTEwU25HTHFhX0czelk2ck9HZFlUUTVSdEx4T2w3MEV5V1d5OUVId2JMVWRZM0hNZTdFUDdsYlFiLU5nbGJhQnZpeWVLZWhsTjN1T1ByTkhxem5jdXV5OWlCNkVmR0pJYUZnaDNPQTFvQXZYVUFXRy1uTldfcm4xU05vdDhNZldMMVVfdWVsN2dWc3cwcS1YV19lTGpl?oc=5"
+      ]
+    },
+    "ATRL": {
+      "score": 54,
+      "direction": "positive",
+      "materiality": "low",
+      "confidence": "low",
+      "summary": "SIFC advanced the Machike-Tarru Jabba white-oil pipeline, a long-term logistics positive for refiners, but no near-term financial materiality.",
+      "headlines": [
+        "SIFC Advances Machike-Tarru Jabba White Oil Pipeline - Profit by Pakistan Today",
+        "SIFC clears way for strategic Machike-Tarru Jabba White Oil Pipeline - Business Recorder"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02ay1lNGdIVUctWkhhYUQ4TUlTNHA3MWU3TVV1cHNmcTBsQm8zMUw2SVhnTTdRLUhVMU1aTkxZT2pxZ0F5UDB2bmJEZ0ZkeXJwNGNWREp30gFWQVVfeXFMTTZrLWU0Z0hVRy1aSGFhRDhNSVM0cDcxZTdNVXVwc2ZxMGxCbzMxTDZJWGdNN1EtSFUxTVpOTFlPanFnQXlQMHZuYkRnRmR5cnA0Y1ZESnc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOC05X0xSaUxteHAzajJsaDNDbjY5Z1E5VzJzQnFGWWVhc0hONVlmbzVndmVUbVFqY0k0ZUMwaWVYZUs2QThDbTEwU25HTHFhX0czelk2ck9HZFlUUTVSdEx4T2w3MEV5V1d5OUVId2JMVWRZM0hNZTdFUDdsYlFiLU5nbGJhQnZpeWVLZWhsTjN1T1ByTkhxem5jdXV5OWlCNkVmR0pJYUZnaDNPQTFvQXZYVUFXRy1uTldfcm4xU05vdDhNZldMMVVfdWVsN2dWc3cwcS1YV19lTGpl?oc=5"
+      ]
+    },
+    "SNGP": {
+      "score": 54,
+      "direction": "positive",
+      "materiality": "low",
+      "confidence": "low",
+      "summary": "Mari's Shams-1 gas now flows into the SNGPL network -- a minor supply-side positive for SNGP, not a financial event for the company itself.",
+      "headlines": [
+        "Mari Energies commences Shams-1 gas supply to SNGPL - Business Recorder",
+        "Mari Energies begins gas supply from Shams-1 discovery to SNGPL - Mettis Global"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14UHprNDJBb0NBbERQQ2hVR1lXTkdvQ21WRlFRZno2YndNYU1zdkdobmJwOFU0dVdpUWIwdDVUeUdIdldaa254NGVtbHhkaUhDSUwzNmNB0gFWQVVfeXFMTXhQems0MkFvQ0FsRFBDaFVHWVdOR29DbVZGUVFmejZid01hTXN2R2huYnA4VTR1V2lRYjB0NVR5R0h2V1prbng0ZW1seGRpSENJTDM2Y0E?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXRSQkFqRWRTTHRUQ3gzOENQYXRFQ1dNcWc1bjZXeEx4aDQ4ZHRnRVY3NEdaak5FWmZObzVXNGN1RzlVNGVxSVhzOUZoNmZ3Mlhuem50TElDZ0FkX05OWHp4dnJxTkhtQ25uNEFXWjhTbXVXdGltMmFfLWFjVFlUWTJ4eEtEcFVkTUQ5Uy16bXc0VWRoN0RuYzhQcThZSS1GbHhhLWF0eTFlWEtlWDNR?oc=5"
+      ]
+    },
+    "SSGC": {
+      "score": 52,
+      "direction": "positive",
+      "materiality": "low",
+      "confidence": "low",
+      "summary": "New Sahito-1 gas production is a tangential, minor positive for the broader gas-distribution chain SSGC participates in.",
+      "headlines": [
+        "Gas production at Sahito-1 begins - Business Recorder",
+        "OGDCL starts gas production from Sahito-1 discovery well in Sindh - Profit by Pakistan Today"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PMlhHRE9tUGRFajZtUmtadTlPTV83cFQ1RHdhWkhCS183TEd2aVZWMzYxSjVQX2RLWWFVQnRCMktDazN2Q0NtMXRuUDVNbk5w0gFWQVVfeXFMTXdkS1FFbHZuaFN1bFJZNEk5SE00LXd1cE9fVGlrN3hkUEhnN1hZQVV1MTF2Ny1uV1REMWExTnlTaTU2enNBV21VQlYyNlRSekZXV2k1SGc?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzNINkw0QndaQTA1LTNTbDJuTm1MRVA4SEJTV3NJUHpPNXN1TE9Mekc5b1NwVVc3N3dwdmxzSnNjaXNDcmRNaHlxVXdJenlFdEFWNmgyVGlXYWU3MEo2cGRWSTVqM0xXS2ZCSWxhSlZYcGtDSXVrZTZJbkhRWDd4cS0xcUNpQm5DTmwtVlZ4WXZvT3VZTTk1WlJWcnZqMzRyREhHLVN3dzZTUVVTLURyRnF3?oc=5"
+      ]
+    },
+    "PIBTL": {
+      "score": 53,
+      "direction": "positive",
+      "materiality": "low",
+      "confidence": "low",
+      "summary": "Karachi Gateway Terminal flagged up to $100m in further port investment after a cargo surge tied to the Iran war period -- tangential, not a direct PIBTL financial event.",
+      "headlines": [
+        "KGTL plans up to $100m more investment in Karachi port after cargo surge from Iran war - Dawn"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PT0pnNnMxYVpFOElsUHA0N1k2SE5LbS05bUl1V0xldmd3cExBQnF3NzI2NG5WT1RwQ29WN0VNMzlJNVdtcmtKUQ?oc=5"
+      ]
+    }
+  }
+}
