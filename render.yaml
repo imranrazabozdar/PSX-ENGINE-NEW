@@ -1,0 +1,30 @@
+# Render blueprint for the PSX Research Terminal (Flask).
+#
+# ONE worker on purpose: scan progress, the watchlist and the regime cache all
+# live in module-level dicts in psx_pro_v2. A second worker would hold its own
+# copy and the UI would flip between two different scans. Concurrency comes
+# from threads instead.
+services:
+  - type: web
+    name: psx-research-terminal
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-terminal.txt
+    startCommand: >
+      gunicorn psx_pro_v2:app
+      --workers 1 --threads 8
+      --timeout 300
+      --bind 0.0.0.0:$PORT
+    healthCheckPath: /autostatus
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12"
+      # Set in the Render dashboard, not here.
+      - key: APP_PASSWORD
+        sync: false
+      - key: CAPITAL
+        value: "1000000"
+      - key: PSX_DB
+        value: psx_v2.db
+      - key: PSX_CACHE_DIR
+        value: .psx_cache

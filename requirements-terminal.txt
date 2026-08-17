@@ -1,0 +1,9 @@
+# PSX Research Terminal 2.0 (Flask) — separate from requirements.txt, which
+# belongs to the Streamlit engine and is what Streamlit Cloud installs.
+flask>=3.0
+gunicorn>=21.2
+pandas>=2.0
+numpy>=1.24
+psxdata>=0.1.0a5
+openpyxl>=3.1
+reportlab>=4.0

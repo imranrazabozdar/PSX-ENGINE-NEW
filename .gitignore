@@ -15,3 +15,7 @@ reports_out/
 
 # Keep psx_engine.db tracked: the Actions runner commits it so the dashboard
 # shows fresh data. (It is intentionally NOT ignored.)
+
+# Research Terminal 2.0 runtime artifacts (Flask app)
+psx_v2.db
+.psx_cache/
