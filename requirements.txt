@@ -10,3 +10,7 @@ streamlit==1.61.1
 streamlit-autorefresh>=1.0.1
 plotly>=5.18
 openpyxl>=3.1
+# Live PSX OHLCV for terminal_app.py (Research Terminal 2.0). The Shariah
+# engine does not use it; it is here because Streamlit Cloud installs this
+# file for whichever entry point it serves.
+psxdata>=0.1.0a5

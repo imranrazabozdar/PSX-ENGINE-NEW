@@ -4,18 +4,44 @@ This is the **Flask** terminal (`psx_pro_v2.py`), which is a different
 application from the Streamlit engine documented in `DEPLOY.md`. Both live in
 this repo and do not interfere with each other.
 
-| | Streamlit engine | Research Terminal 2.0 |
-|---|---|---|
-| Entry point | `app.py` → `dashboard.py` | `psx_pro_v2.py` |
-| Framework | Streamlit | Flask |
-| Host | Streamlit Community Cloud | Render (or any WSGI host) |
-| Requirements file | `requirements.txt` | `requirements-terminal.txt` |
-| Data | committed `psx_engine.db` | live PSX via `psxdata` + CSV cache |
+There are **three** apps in this repo. Pick the row you want to serve.
 
-**Streamlit Community Cloud cannot host this app.** It only serves Streamlit
-scripts. The Flask terminal needs an ordinary web host — the app already reads
-`$PORT` and probes `RENDER_SERVICE_NAME`, so Render is the path of least
-resistance.
+| | Shariah engine | Terminal (Streamlit) | Terminal (Flask) |
+|---|---|---|---|
+| Entry point | `app.py` → `dashboard.py` | **`terminal_app.py`** | `psx_pro_v2.py` |
+| Framework | Streamlit | Streamlit | Flask |
+| Host | Streamlit Cloud | **Streamlit Cloud** | Render / any WSGI host |
+| Requirements | `requirements.txt` | `requirements.txt` | `requirements-terminal.txt` |
+| Data | committed `psx_engine.db` | live PSX + CSV cache | live PSX + CSV cache |
+
+**Streamlit Community Cloud cannot host `psx_pro_v2.py`.** It only serves
+Streamlit scripts. Pointed at the Flask app it executes `app.run()` and hangs
+on a port nothing proxies — the page never finishes loading. Use
+`terminal_app.py` on Streamlit, or `psx_pro_v2.py` on Render.
+
+---
+
+## Deploy on Streamlit Community Cloud
+
+1. **share.streamlit.io** → your app → **⋮ → Settings**.
+2. Set **Main file path** to `terminal_app.py`.
+3. Set **Branch** to the branch that actually contains these files. They are on
+   `claude/hy-ju1227` — if the app is deploying from `main`, none of this code
+   is live no matter what the entry point says. Merge to `main` or repoint the
+   branch.
+4. Set `DASHBOARD_PASSWORD` under **Secrets** if you want the gate. It is the
+   same password and the same hashed-URL-token scheme as the Shariah dashboard,
+   so one password covers both.
+5. **Save** and let it reboot.
+
+`requirements.txt` carries `psxdata` for this reason — Streamlit Cloud installs
+that file for whichever entry point it serves.
+
+**Expect PSX to be blocked.** Streamlit Cloud runs on datacentre IPs and
+`dps.psx.com.pk` returns 403 to those. The app renders and tells you the feed
+is unreachable rather than showing an empty market as a calm one, but you will
+get no live bars. If that happens, run the terminal locally or on a host whose
+egress PSX accepts — this is a network-reachability problem, not a code one.
 
 ---
 
