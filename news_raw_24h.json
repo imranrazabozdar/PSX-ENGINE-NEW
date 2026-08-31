@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-28T21:15:31.447436+00:00",
+  "fetched_at": "2026-08-31T07:15:55.120714+00:00",
   "window_hours": 24,
-  "cutoff": "2026-08-27T21:15:31.447436+00:00",
+  "cutoff": "2026-08-30T07:15:55.120714+00:00",
   "universe": [
     "PSO",
     "TREET",
@@ -61,414 +61,326 @@
     "profit.pakistantoday.com.pk",
     "news.google.com"
   ],
-  "count": 51,
+  "count": 40,
   "items": [
     {
       "symbol": "_macro",
-      "title": "Govt cuts petrol price by Rs0.58, HSD by Rs0.17",
-      "url": "https://www.dawn.com/news/2025780/govt-cuts-petrol-price-by-rs058-hsd-by-rs017",
-      "published": "2026-08-28T23:56:13+05:00",
-      "summary": "if (!window._rawHtmlListenerAttached) {\n    window._rawHtmlListenerAttached = true;\n    window.addEventListener('message', function(event) {\n        if (event.data && event.data.type === 'raw-html-resize' && event.data.id) {\n            var iframe = document.getElementById(event.data.id);\n            if (iframe) {\n                var height = Math.min(Math.max(event.data.height, 50), 9200);\n      ",
+      "title": "PTA imposes Rs38.9mn fine on Jazz over corporate postpaid SIM violations",
+      "url": "https://www.brecorder.com/news/40437212/pta-imposes-rs389mn-fine-on-jazz-over-corporate-postpaid-sim-violations",
+      "published": "2026-08-31T12:09:05+05:00",
+      "summary": "The Pakistan Telecommunication Authority (PTA) has imposed a fine of Rs38.9 million on Pakistan Mobile Communication Limited (Jazz) for alleged violations in the issuance, verification, sale, activation and monitoring of around 400 Corporate Postpaid SIMs.\nThe enforcement order, issued under Section 23 of the Pakistan Telecommunication (Re-organization) Act, 1996, followed a complaint by M/s Targe",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "PM Shehbaz departs today for three-day Kyrgyzstan visit to attend SCO Summit",
+      "url": "https://www.brecorder.com/news/40437218/pm-shehbaz-departs-today-for-three-day-kyrgyzstan-visit-to-attend-sco-summit",
+      "published": "2026-08-31T12:08:31+05:00",
+      "summary": "Prime Minister Muhammad Shehbaz Sharif is scheduled to undertake a three-day official visit to the Kyrgyz Republic from Monday (today) till Wednesday, at the invitation of President of the Kyrgyz Republic Sadyr Nurgozhoevich Zhaparov.\nDuring the visit, the prime minister will participate in the SCO Council of Heads of State meeting, as well as bilateral engagements in the Kyrgyz Republic.\nDeputy P",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Trump says Iran's Kharg is being 'blown to smithereens, but gives no details",
+      "url": "https://www.brecorder.com/news/40437195/trump-says-irans-kharg-is-being-blown-to-smithereens-but-gives-no-details",
+      "published": "2026-08-31T12:06:40+05:00",
+      "summary": "WASHINGTON: Iran’s energy hub of Kharg Island is being blown to smithereens, US President Donald Trump said ​on Sunday, after forces hit two rocket launchers on another island in the first known American strikes on the Islamic Republic since late July.\nAttacking Kharg, which handled ‌90% of Iran’s oil exports before the war, launched by US and Israeli attacks on February 28, would severely disrupt",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Star Entertainment warns tough conditions to persist after annual loss",
+      "url": "https://www.brecorder.com/news/40437217/star-entertainment-warns-tough-conditions-to-persist-after-annual-loss",
+      "published": "2026-08-31T12:05:16+05:00",
+      "summary": "Australian casino operator Star Entertainment reported a bigger-than-expected annual loss on Monday and warned that conditions would stay tough as weak New South Wales table gaming revenue and a pending regulatory penalty weighed on its outlook.\nThe result adds to pressure on the company, which has faced mounting regulatory scrutiny since 2021 over alleged breaches of anti-money laundering and cou",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "North Korea says hostile US policy unchanged, nuclear arms to keep growing",
+      "url": "https://www.brecorder.com/news/40437216/north-korea-says-hostile-us-policy-unchanged-nuclear-arms-to-keep-growing",
+      "published": "2026-08-31T12:02:22+05:00",
+      "summary": "SEOUL: North Korea said on Monday the United States’ hostile policy remained unchanged and said its nuclear weapons were an absolute guarantee of sovereignty that would continue to be strengthened.\nA statement from its Foreign Ministry carried by state media KCNA also said expecting any easing of regional tensions was “meaningless” and that North Korea’s.",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
+      "url": "https://www.brecorder.com/news/40437215/openai-issued-warrants-worth-55-billion-in-sb-energy-wsj-reports",
+      "published": "2026-08-31T11:57:17+05:00",
+      "summary": "OpenAI was issued warrants worth an estimated $5.5 billion in power infrastructure firm SB Energy, the Wall Street Journal reported on Sunday, citing draft IPO documents reviewed by the Journal.\nReuters could not immediately verify the report.\nSB Energy and OpenAI did not immediately respond to Reuters requests for comment outside regular business hours.\nHere are some details:\nEarlier this month, ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Japan 2-year yields rise to 31-year high as auctions, rate hikes loom",
+      "url": "https://www.brecorder.com/news/40437214/japan-2-year-yields-rise-to-31-year-high-as-auctions-rate-hikes-loom",
+      "published": "2026-08-31T11:53:55+05:00",
+      "summary": "TOKYO: The two-year Japanese government bond (JGB) yield rose to a 31-year high on Monday amid rising bets on central bank rate hikes and an uncertain environment for debt auctions later in the week. Here are a few details:\nThe two-year yield, the one most sensitive to Bank of Japan policy rates, added 0.5 basis point (bp) to 1.730%, a level not seen since April 1995.\nThe benchmark 10-year JGB yie",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "South Africa pacer Rabada ruled out of Australia ODIs, under injury cloud for Tests",
+      "url": "https://www.brecorder.com/news/40437213/south-africa-pacer-rabada-ruled-out-of-australia-odis-under-injury-cloud-for-tests",
+      "published": "2026-08-31T11:50:18+05:00",
+      "summary": "MELBOURNE: Pace spearhead Kagiso Rabada has been ruled out of the ODI series against Australia and is a doubt for the following Test series against Pat Cummins’s team as he battles a hamstring injury.\nCricket South Africa (CSA) said Rabada had suffered a right hamstring strain and would miss the three ODIs starting September 24 in Durban.\n“His availability for the three-match Test series against A",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Kiwi braces for RBNZ decision, Aussie tries to steady after setback",
+      "url": "https://www.brecorder.com/news/40437211/kiwi-braces-for-rbnz-decision-aussie-tries-to-steady-after-setback",
+      "published": "2026-08-31T11:48:10+05:00",
+      "summary": "SYDNEY: The New Zealand dollar edged higher on Monday as traders braced for a widely expected interest rate hike at home, while the Aussie was trying to recover momentum after a US dollar induced setback.\nThe kiwi dollar rose 0.2% to $0.5919, after slipping 0.6% on Friday to finish 1% lower last week.\nIt has support at the $0.5860 and $0.5821 levels and is set to end August 0.6% higher.\nThe Reserv",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "China's factory activity improves but stays in contraction in August",
+      "url": "https://www.brecorder.com/news/40437210/chinas-factory-activity-improves-but-stays-in-contraction-in-august",
+      "published": "2026-08-31T11:45:20+05:00",
+      "summary": "BEIJING: China’s factory activity improved in August but remained in contraction for a second straight month, an official survey showed on Monday, in a further sign that economic growth has lost some steam due to persistently weak domestic demand.\nThe official manufacturing purchasing managers’ index (PMI) picked up to 49.8 from 49.2 in July, remaining below the 50-mark separating growth from cont",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "England captain Root shrugs off concerns over lbw run",
+      "url": "https://www.brecorder.com/news/40437209/england-captain-root-shrugs-off-concerns-over-lbw-run",
+      "published": "2026-08-31T11:44:04+05:00",
+      "summary": "England captain Joe Root is confident of working his way through a dip in form that has seen him trapped lbw nine times in his last 12 innings, and says his record of more than 14,000 test runs proves he knows how to navigate difficult spells.\nEngland’s leading test run-scorer with 14,208 runs, second only to India’s Sachin Tendulkar (15,921) on the all-time list, has passed 50 only twice during t",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "FIA opens case against Unity Foods over alleged funds misuse",
+      "url": "https://www.brecorder.com/news/40437208/fia-opens-case-against-unity-foods-over-alleged-funds-misuse",
+      "published": "2026-08-31T11:39:23+05:00",
+      "summary": "The Federal Investigation Agency (FIA) has registered a criminal case against the former management of Unity Foods Limited, a company listed on the Pakistan Stock Exchange (PSX), over alleged financial irregularities, including discrepancies of about Rs44.7 billion between published accounts and internal records, following an investigation by the Securities and Exchange Commission of Pakistan (SEC",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Thai baht/US dollar steady on Monday",
+      "url": "https://www.brecorder.com/news/40437207/thai-bahtus-dollar-steady-on-monday",
+      "published": "2026-08-31T11:37:49+05:00",
+      "summary": "BANGKOK: The Thai baht was little changed against the US dollar on Monday.\nAt 0155 GMT, the baht was 0.03% lower at 33.14 versus the dollar, after trading in a range of 33.140 to 33.200.\nIt ended the previous session at 33.13 per dollar, as per LSEG data.",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "China's yuan firms despite dollar rebound",
+      "url": "https://www.brecorder.com/news/40437206/chinas-yuan-firms-despite-dollar-rebound",
+      "published": "2026-08-31T11:36:17+05:00",
+      "summary": "SHANGHAI: China’s yuan strengthened on Monday, despite a rebound in the dollar triggered by hawkish comments from the US Federal Reserve on Friday, as analysts say exporters likely took advantage of the bounce to settle dollar receipts.\n“The yuan’s pace of appreciation has slowed, but the direction has not changed,” Huatai Futures said in a note.\n The onshore yuan changed hands at around 6.7200 pe",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Australian shares flat as gold miners' losses offset gains in banks",
+      "url": "https://www.brecorder.com/news/40437205/australian-shares-flat-as-gold-miners-losses-offset-gains-in-banks",
+      "published": "2026-08-31T11:35:04+05:00",
+      "summary": "Australian equities were flat on Monday, as gains in banks were offset by sharp losses in gold stocks, which slid after US Federal Reserve Chair Kevin Warsh’s hawkish comments fuelled US rate-hike hopes and dented demand for the non-yielding metal.\nThe S&amp;P/ASX 200 index was largely unchanged at 9,095.40, as of 0050 GMT.\nThe benchmark closed 0.6% higher on Friday.\nRate-sensitive financials rose",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Japan's Nikkei slides nearly 2% following hawkish Fed comments",
+      "url": "https://www.brecorder.com/news/40437204/japans-nikkei-slides-nearly-2-following-hawkish-fed-comments",
+      "published": "2026-08-31T11:33:34+05:00",
+      "summary": "TOKYO: Japan’s Nikkei share gauge fell nearly 2% on Monday on rising expectations for central bank rate hikes to tame inflation.\nThe benchmark Nikkei 225 fell 1.97% to 65,096.63 in early trading.\nThe broader Topix slipped 0.84% to 4,111.71.\nWall Street’s main indexes ended lower last week after Federal Reserve Chair Kevin Warsh reiterated the central bank’s focus on fighting inflation, increasing ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "China, Hong Kong stocks fall on weak economic data, new property rules",
+      "url": "https://www.brecorder.com/news/40437203/china-hong-kong-stocks-fall-on-weak-economic-data-new-property-rules",
+      "published": "2026-08-31T11:32:33+05:00",
+      "summary": "SHANGHAI: China and Hong Kong stocks slipped on Monday as fresh economic activity data highlighted persistent economic imbalances, while new rules to overhaul Beijing’s housing presales system weighed on real estate shares.  \nThe blue-chip CSI300 Index was down 0.8% by the midday break, while the Shanghai Composite Index lost 0.2%.\nIn Hong Kong, the Hang Seng Index declined 0.7%.\nOfficial data rel",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "South Korean shares track regional losses after Warsh's hawkish remarks",
+      "url": "https://www.brecorder.com/news/40437202/south-korean-shares-track-regional-losses-after-warshs-hawkish-remarks",
+      "published": "2026-08-31T11:30:47+05:00",
+      "summary": "SEOUL: Round-up of South Korean financial markets:\nSouth Korean shares fell on Monday in line with regional markets after US Federal Reserve Chair Kevin Warsh made hawkish comments that reinforced expectations the central bank could hike interest rates next month.\nThe won strengthened, while the benchmark bond yield rose.\nThe benchmark KOSPI was down 167.29 points, or 2.46%, at 6,621.59 as of 0104",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "India bonds slump on Fed rate hike bets, benchmark trades at discount",
+      "url": "https://www.brecorder.com/news/40437201/india-bonds-slump-on-fed-rate-hike-bets-benchmark-trades-at-discount",
+      "published": "2026-08-31T11:28:29+05:00",
+      "summary": "MUMBAI: Indian government bonds fell on Monday, with the benchmark paper slipping into discount, as hawkish comments from US central bank chief bolstered expectations of an interest rate hike next month, and as oil prices jumped above $90 a barrel.\nThe yield on the benchmark 6.94% 2036 bond was at 6.9480% as of 10:45 a.m. IST, after closing at 6.9108% on Friday. Earlier in the session, the yield t",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Iran’s Revolutionary Guards say supertanker struck by mines in Strait of Hormuz",
+      "url": "https://www.brecorder.com/news/40437200/irans-revolutionary-guards-say-supertanker-struck-by-mines-in-strait-of-hormuz",
+      "published": "2026-08-31T11:16:26+05:00",
+      "summary": "A supertanker caught fire and was brought to a complete halt after being struck by two naval mines in the southern Strait of Hormuz, Iran state TV reported on Monday, citing a statement by the Revolutionary Guards.\nThe Guards said the tanker had been attempting to pass through the waterway illegally.\nIt did not identify the vessel or provide information about its crew.\nIran says targeted US milita",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Iran says targeted US military in UAE, Jordan: state TV",
+      "url": "https://www.brecorder.com/news/40437199/iran-says-targeted-us-military-in-uae-jordan-state-tv",
+      "published": "2026-08-31T11:14:08+05:00",
+      "summary": "Iran said Monday it targeted US military targets in the United Arab Emirates (UAE) and Jordan following US strikes on Larak Island.\nIran’s military said that it attacked US military personnel at an air base in the UAE, state TV reported.\nTehran “targeted the areas where US helicopters and personnel are stationed at Al Minhad Base in the UAE, using dozens of attack drones,” the army said, adding th",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Gold hits near two-week low on Fed chief's hawkish stance",
+      "url": "https://www.brecorder.com/news/40437198/gold-hits-near-two-week-low-on-fed-chiefs-hawkish-stance",
+      "published": "2026-08-31T10:43:10+05:00",
+      "summary": "Gold fell on Monday to its lowest in nearly two weeks after US Federal Reserve Chair Kevin Warsh signalled that interest rate hikes may be needed to ease price pressures, while escalating Middle East tensions fuelled inflation fears.\nSpot gold fell 0.8% to $4,417.04 per ounce by 0406 GMT, hitting its weakest level since August 19.\nPrices dropped more than 3% on Friday.\nUS gold futures declined 1.4",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Pak Suzuki makes first export of Japanese-spec mini-vehicles to Brunei",
+      "url": "https://www.brecorder.com/news/40437197/pak-suzuki-makes-first-export-of-japanese-spec-mini-vehicles-to-brunei",
+      "published": "2026-08-31T10:23:16+05:00",
+      "summary": "Pakistan’s auto industry scored a key export win as Suzuki rolled out Alto and Every models made by its Pakistani subsidiary, Pak Suzuki Motor Company, in Brunei.\nThe launch, announced on August 27, “marks the first time for Suzuki to export from an overseas production base models having the same body size and engine displacement specifications as Japanese mini-vehicles,” the Japanese auto giant s",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "PSX: KSE-100 down over 400 points amid US-Iran conflict",
+      "url": "https://www.brecorder.com/news/40437196/psx-kse-100-down-over-400-points-amid-us-iran-conflict",
+      "published": "2026-08-31T09:57:25+05:00",
+      "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) amid escalating tensions in the Middle East, with the benchmark KSE-100 Index shedding over 400 points during the opening minutes of trading on Monday.\nAt 9:40am, the benchmark index was hovering at 177,242.03, down by 454.47 points or 0.26%.\nSelling was observed in key sectors, including automobile assemblers, cement, commercial b",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "The latest figures for large-sclae manufacturing present two contrasting signals",
+      "url": "https://www.dawn.com/news/2026347/the-latest-figures-for-large-sclae-manufacturing-present-two-contrasting-signals",
+      "published": "2026-08-31T08:58:35+05:00",
+      "summary": "https://www.dawn.com/news/2026315",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "Govt reduces petrol price by Re0.58, diesel by Re0.17 per litre",
-      "url": "https://www.brecorder.com/news/40436894/govt-reduces-petrol-price-by-re058-diesel-by-re017-per-litre",
-      "published": "2026-08-28T23:08:03+05:00",
-      "summary": "The federal government declined the price of petrol by Re0.58 per litre and High-Speed Diesel (HSD) by Re0.17 per litre for the next three days.\nAccording to a notification issued by the Ministry of Energy (Petroleum Division), the Oil and Gas Regulatory Authority (OGRA) on Friday revised the ex-depot prices of petroleum products under the government’s petroleum pricing mechanism.\n    \n        \n  ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Pakistan forms $10mn fund for startups",
-      "url": "https://www.brecorder.com/news/40436895/pakistan-forms-10mn-fund-for-startups",
-      "published": "2026-08-28T22:53:27+05:00",
-      "summary": "Federal Minister for IT and Telecom Shaza Fatima Khawaja on Friday announced a $10 million fund under the second phase of the Pakistan Startup Fund (PSF), as she met senior officials of the State Bank of Pakistan (SBP) and the Sindh government in the day to discuss measures to strengthen the country’s startup ecosystem and accelerate digitalisation of the national economy.\nSpeaking at the Fintech ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "SECP introduces unified framework for 'faster and easier' entry into Pakistan's capital market",
-      "url": "https://www.dawn.com/news/2025777/secp-introduces-unified-framework-for-faster-and-easier-entry-into-pakistans-capital-market",
-      "published": "2026-08-28T21:55:47+05:00",
-      "summary": "ISLAMABAD: The Securities and Exchange Commission of Pakistan (SECP) has introduced a unified digital investor onboarding framework to make entry into Pakistan’s capital market “faster and easier by reducing repetitive verification, simplifying documentation and setting clear timelines for opening investor accounts”.\nThe framework aims particularly to facilitate first-time and digital investors, w",
+      "title": "Pakistan’s cotton sector is shrinking and the numbers explain why",
+      "url": "https://www.dawn.com/news/2026346/pakistans-cotton-sector-is-shrinking-and-the-numbers-explain-why",
+      "published": "2026-08-31T08:46:57+05:00",
+      "summary": "https://www.dawn.com/news/2026319",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "10 of 12 parties prequalified for Fesco privatisation, K-Electric withdraws",
-      "url": "https://www.dawn.com/news/2025776/10-of-12-parties-prequalified-for-fesco-privatisation-k-electric-withdraws",
-      "published": "2026-08-28T21:44:18+05:00",
-      "summary": "ISLAMABAD: The Privatisation Commission Board on Friday approved the prequalification of 10 out of 12 interested parties (IPs) for the sale of Faisalabad Electric Supply Company (Fesco), after K-Electric (KE) withdrew its papers and a lone Chinese firm failed to demonstrate sufficient interest in the competition.\nThe development came after Prime Minister Shehbaz Sharif directed the relevant author",
+      "title": "NATO's Arctic moves pose 'direct threat' to Russia, foreign minister Lavrov says",
+      "url": "https://www.brecorder.com/news/40437194/natos-arctic-moves-pose-direct-threat-to-russia-foreign-minister-lavrov-says",
+      "published": "2026-08-31T08:12:27+05:00",
+      "summary": "Russia sees NATO activity in the Arctic as a direct security threat, Foreign Minister Sergei Lavrov said in ​an article published on Monday, as the alliance members boost ‌their presence in the region in the wake of Russia’s war on Ukraine.\nIn February, NATO launched a mission called Arctic Sentry to bolster its presence ​in the far north, underscoring the alliance’s increased focus on ​the Arctic",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran",
+      "url": "https://www.brecorder.com/news/40437193/bessent-expects-new-us-secondary-sanctions-weekly-aiming-to-increase-pressure-on-iran",
+      "published": "2026-08-31T08:07:18+05:00",
+      "summary": "ASHEVILLE: The US Treasury Department is likely ​to unveil weekly new secondary sanctions ‌aimed at increasing economic pressure on Iran, with an initial focus on banks, US ​Treasury Secretary Scott Bessent told ​Reuters on Sunday.\nAfter imposing penalties on the ⁠United Arab Emirates branches of Egypt’s ​Banque Misr on Friday over alleged ​financial links to Iran, Bessent said in an interview tha",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Indian shares set for cautious start; MSCI rejig, HDFC Bank in focus",
+      "url": "https://www.brecorder.com/news/40437192/indian-shares-set-for-cautious-start-msci-rejig-hdfc-bank-in-focus",
+      "published": "2026-08-31T08:02:53+05:00",
+      "summary": "Indian shares were set for a muted open on Monday, with investors bracing for potential volatility from MSCI’s index rejig under the new closing auction ​system, while an escalation in the Iran war and HDFC Bank’s ‌CEO resignation could also weigh on sentiment.\nGIFT Nifty futures were at 24,222.5 points, as of 8:11 a.m. IST, indicating a muted start for the Nifty 50.\nThe benchmark index closed at ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Rising Fed hike bets pressure Indian rupee, oil worries linger",
+      "url": "https://www.brecorder.com/news/40437191/rising-fed-hike-bets-pressure-indian-rupee-oil-worries-linger",
+      "published": "2026-08-31T07:58:56+05:00",
+      "summary": "MUMBAI: The Indian rupee is expected to open weaker on Monday after investors stepped up bets on a Federal Reserve rate hike at ​the next policy meeting following hawkish comments by Fed Chair ‌Kevin Warsh.\nThe Indian rupee is expected to open in the 95.55-95.60 range, per traders, having settled at 95.3775 to the dollar on Friday.\nThe odds of a Federal Reserve rate hike at ​the September 15-16 me",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Shares skid in Asia as oil, yields stay high",
+      "url": "https://www.brecorder.com/news/40437190/shares-skid-in-asia-as-oil-yields-stay-high",
+      "published": "2026-08-31T07:55:22+05:00",
+      "summary": "SYDNEY: Share markets slipped on Monday in Asia as fresh fighting broke ​out between the United States and Iran, lifting oil prices, while bond yields stayed elevated after investors narrowed the odds ‌on a US rate hike.\nBrent futures climbed 1.4% to $89.38 a barrel after US forces struck two of Iran’s launchers on its island of Larak on Sunday.\nIn response, Iran was attacking US forces stationed ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Why Pakistan's progress in stabilising the economy has not translated into a significant increase in investment",
+      "url": "https://www.dawn.com/news/2026321/why-pakistans-progress-in-stabilising-the-economy-has-not-translated-into-a-significant-increase-in-investment",
+      "published": "2026-08-31T07:50:53+05:00",
+      "summary": "https://www.dawn.com/news/2026310",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "SBP injects over Rs12.24 trillion in market",
-      "url": "https://www.brecorder.com/news/40436893/sbp-injects-over-rs1224-trillion-in-market",
-      "published": "2026-08-28T21:41:54+05:00",
-      "summary": "The State Bank of Pakistan (SBP) on Friday injected Rs12.240.8 trillion through Reverse Repo Purchase and Shariah Compliant Mudarabah based Open Market Operations (OMO) to maintain liquidity in the market.\nThe central bank conducted the Open Market Operation, Reverse Repo Purchase (Injection) for 7 and 14-day tenors on August 28, 2026, and injected Rs11.572.8 trillion against 35 bids while other R",
+      "title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160",
+      "url": "https://www.brecorder.com/news/40437189/dollar-near-two-week-high-as-warsh-boosts-rate-hike-bets-yen-slips-past-160",
+      "published": "2026-08-31T07:49:53+05:00",
+      "summary": "HONG KONG: The dollar held steady near a two-week high on Monday as markets ramped up bets on a rate ​hike after hawkish remarks by Federal Reserve Chair Kevin Warsh, while the yen slipped back through the closely watched ‌160-per-dollar level.\nThe US central bank will “have work to do” if policymakers don’t get the confidence they need that inflation is heading down to 2%, Federal Reserve Chairma",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "India signs deal with US to buy Javelin anti-tank missile systems",
-      "url": "https://www.brecorder.com/news/40436877/india-signs-deal-with-us-to-buy-javelin-anti-tank-missile-systems",
-      "published": "2026-08-28T21:20:56+05:00",
-      "summary": "NEW DELHI: The Indian Army has signed an agreement with the United States to purchase Javelin anti-tank missile systems, the U.S. Embassy in India said on Friday, without disclosing the value of the deal.\nThe medium-range guided missile system, jointly produced by Lockheed Martin and RTX, is designed for use against a range of targets, including armoured vehicles, the embassy said.\nThe missile sys",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "PC Board prequalifies 10 interested parties for FESCO privatisation",
-      "url": "https://www.brecorder.com/news/40436892/pc-board-prequalifies-10-interested-parties-for-fesco-privatisation",
-      "published": "2026-08-28T21:10:44+05:00",
-      "summary": "The Privatisation Commission (PC) Board approved on Friday the prequalification of interested parties (IPs) for the privatisation of the Faisalabad Electric Supply Company (FESCO), a statement said.\nThe meeting was chaired by Mr Muhammad Ali, Adviser to the Prime Minister on Privatisation and Chairman, Privatisation Commission.\n“The Board was informed that 12 Expressions of Interest (EOIs) had bee",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Rooftop solar isn’t energy transition",
-      "url": "https://www.brecorder.com/news/40436507/rooftop-solar-isnt-energy-transition",
-      "published": "2026-08-28T20:54:00+05:00",
-      "summary": "Drive through Lahore, Karachi or Peshawar today and the rooftops tell their own story: blue panels catching sunlight over car parks, small factories, shopfronts, entire housing colonies. Ask around and most people will tell you Pakistan is in the middle of an energy transition.\nLook more closely and a harder question surfaces: are we transforming the power system, or are millions of consumers simp",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Iran urges other nations not to join new US sanctions, mediators focus on reopening strait",
-      "url": "https://www.brecorder.com/news/40436891/iran-urges-other-nations-not-to-join-new-us-sanctions-mediators-focus-on-reopening-strait",
-      "published": "2026-08-28T20:27:38+05:00",
-      "summary": "DUBAI: Iran condemned the United States’ new economic sanctions on Friday as “state terrorism” and said other countries were legally obliged not to implement them.\nThe Iranian foreign ministry’s statement came as mediators stepped up efforts to reopen the Strait of Hormuz, which handled 20% of world oil supplies before the war began six months ago and whose status remains the biggest obstacle to a",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Rupee records marginal gain against US dollar",
-      "url": "https://www.brecorder.com/news/40436872/intra-day-update-rupee-records-gain-against-us-dollar",
-      "published": "2026-08-28T20:17:36+05:00",
-      "summary": "if (!window._rawHtmlListenerAttached) {\n    window._rawHtmlListenerAttached = true;\n    window.addEventListener('message', function(event) {\n        if (event.data && event.data.type === 'raw-html-resize' && event.data.id) {\n            var iframe = document.getElementById(event.data.id);\n            if (iframe) {\n                var height = Math.min(Math.max(event.data.height, 50), 9200);\n      ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Gold price per tola remains unchanged in Pakistan",
-      "url": "https://www.brecorder.com/news/40436868/gold-price-per-tola-remains-unchanged-in-pakistan",
-      "published": "2026-08-28T20:02:21+05:00",
-      "summary": "Gold prices in Pakistan remained stable on Friday in both the local and international markets.\nIn Pakistan, gold per tola price stood unchanged at Rs483,036.\nSimilarly, 10-gram gold was sold at the same rate of Rs414,125, according to rates shared by the All-Pakistan Gems and Jewellers Sarafa Association (APGJSA).\nOn Thursday, gold price per tola reached Rs483,036 after a decline of Rs3,500 during",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "KEL",
-      "title": "Chairman K-Electric acknowledges challenges but service upgrades - BOL News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMy1Ca0owUUhfRlVMOWZpQVNwcklqOUhTSC1sajlEZXRublJVNnE4V0tXX2l1WERVNW9UOUFyS0lGVGtTTU51LXcwY2J6c1NXUGlQd0dVcnV2eUxPYVV2M1Bod3hySEdOM1ZuQkEwWVEwOXhYTWVhMmVLTVVHQkxycXREcVUzRUU1NGVleXIxdzhwLUZZcGRxNm9LNWloQU1xZ1prdA?oc=5",
-      "published": "2026-08-28T20:01:25+00:00",
-      "summary": "Chairman K-Electric acknowledges challenges but service upgrades&nbsp;&nbsp;BOL News",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "_macro",
-      "title": "India's NBFC body asks RBI to ease restrictions on revolving credit",
-      "url": "https://www.brecorder.com/news/40436890/indias-nbfc-body-asks-rbi-to-ease-restrictions-on-revolving-credit",
-      "published": "2026-08-28T18:51:09+05:00",
-      "summary": "MUMBAI: The representative body of India’s non-banking finance companies (NBFCs) has urged the Reserve Bank of India to reconsider the proposed blanket restriction on revolving credit products offered by NBFCs, according to a letter seen by Reuters.\nEarlier this month, RBI proposed to curb NBFCs from offering revolving loan products, unless they are authorised to issue credit cards. A revolving lo",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Nepal and China resume flood rescue after lake threat eases, death toll tops 500",
-      "url": "https://www.brecorder.com/news/40436889/nepal-and-china-resume-flood-rescue-after-lake-threat-eases-death-toll-tops-500",
-      "published": "2026-08-28T18:47:27+05:00",
-      "summary": "NUWAKOT: Nepal and China resumed rescue operations that had been suspended briefly in the flood-hit Himalayas on Friday after risks from an overflowing lake were found to be manageable, easing fears of fresh devastation.\nWednesday’s catastrophic flood caused by a glacier collapse killed 547 people in Nepal and five in China’s Tibet, with almost 1,000 more missing in the two countries.\nA huge torre",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Baleba out up to three weeks with ankle injury, Carrick says",
-      "url": "https://www.brecorder.com/news/40436888/baleba-out-up-to-three-weeks-with-ankle-injury-carrick-says",
-      "published": "2026-08-28T18:39:02+05:00",
-      "summary": "Manchester United boss Michael Carrick said new signing Carlos Baleba is expected to be sidelined for up to three weeks with an ankle injury but stressed the issue was not a major concern ahead of Sunday’s Premier League clash with Ipswich Town.\nUnited completed the signing of the 22-year-old midfielder from Brighton &amp; Hove Albion in a deal worth around 60 million pounds ($81.48 million), with",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "India's 10-year bond yield scales over 2-month peak ahead of Warsh speech",
-      "url": "https://www.brecorder.com/news/40436887/indias-10-year-bond-yield-scales-over-2-month-peak-ahead-of-warsh-speech",
-      "published": "2026-08-28T18:02:39+05:00",
-      "summary": "MUMBAI: Indian government bonds extended losses on Friday, keeping the 10-year yield at a more than two-month high, as traders braced for Federal Reserve Chair Kevin Warsh’s first Jackson Hole address.\nGlobal markets will parse Warsh’s remarks later in the day for signals on the U.S. policy path and inflation strategy.\nHis comments could recalibrate expectations for Indian rates after hawkish minu",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "UEFA's legal move 'massive escalation' in bitter Infantino feud",
-      "url": "https://www.brecorder.com/news/40436886/uefas-legal-move-massive-escalation-in-bitter-infantino-feud",
-      "published": "2026-08-28T18:00:05+05:00",
-      "summary": "PARIS: UEFA’s intention to launch a legal suit accusing FIFA president Gianni Infantino of “criminal mismanagement” is a “massive escalation” of their feud, a former marketing director of the International Olympic Committee told AFP.\nUEFA, European football’s governing body, has urged Infantino to resign over his now-abandoned plan to bring private investment into the World Cup.\nOn Thursday, UEFA ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "All-round Tongue stars for England in second Test against Pakistan",
-      "url": "https://www.brecorder.com/news/40436885/all-round-tongue-stars-for-england-in-second-test-against-pakistan",
-      "published": "2026-08-28T17:56:51+05:00",
-      "summary": "LONDON: Josh Tongue shone with both bat and ball to put England on top of the second Test against Pakistan at Lord’s on Friday.\nThe fast bowler dismissed Abdullah Shafique on the stroke of lunch to leave Pakistan 16-2 on the second day, 274 runs behind England’s first-innings 290.\nTongue has yet to concede a run, with figures of one for none in 2.1 overs.\nThe No 11 batsman had earlier made 30 not ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "India's forex reserves hit record $729 billion on sustained capital inflows",
-      "url": "https://www.brecorder.com/news/40436884/indias-forex-reserves-hit-record-729-billion-on-sustained-capital-inflows",
-      "published": "2026-08-28T17:47:19+05:00",
-      "summary": "MUMBAI: India’s foreign exchange reserves climbed to a record high of $729.33 billion in the week to August 21, central bank data showed on Friday, boosted by persistent inflows from regulatory measures to boost the country’s balance of payments.\nIndia’s FX pile has risen for eight straight weeks, jumping by about $63 billion during this period and surpassing the previous peak hit in February.\nIn ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Sri Lankan shares end higher on gains in consumer staples stocks",
-      "url": "https://www.brecorder.com/news/40436883/sri-lankan-shares-end-higher-on-gains-in-consumer-staples-stocks",
-      "published": "2026-08-28T17:40:07+05:00",
-      "summary": "Sri Lankan shares closed higher on Friday, led by gains in the consumer staples sector.\nThe CSE All Share index settled up 0.17% at 21,315.91.\nFood retail and distribution firm Cargills (Ceylon) PLC and consumer goods conglomerate Hayleys PLC were top gainers on the CSE All Share index, in terms of index points.\nTrading volume in the CSE All Share index rose to 66.5 million shares from 27.2 millio",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "King Harald V, Norway's reform-minded head of state, dies at 89",
-      "url": "https://www.brecorder.com/news/40436882/king-harald-v-norways-reform-minded-head-of-state-dies-at-89",
-      "published": "2026-08-28T17:34:54+05:00",
-      "summary": "OSLO: Norway’s King Harald, a reformer who emerged from the shadow of his well-loved, extrovert father over more than three decades on the throne, died on Friday at the age of 89, the royal palace said, at a time of multiple crises for the Norwegian royal family.\n“King Harald passed away peacefully at Oslo University Hospital on Friday 28 August, 0635 (local time, 0435 GMT),” the royal palace said",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Hard-handed Indian official urges food firms to be ethical amid labelling, ingredients row",
-      "url": "https://www.brecorder.com/news/40436881/hard-handed-indian-official-urges-food-firms-to-be-ethical-amid-labelling-ingredients-row",
-      "published": "2026-08-28T17:21:08+05:00",
-      "summary": "NEW DELHI: One of India’s strictest food safety commissioners has urged companies to be more ethical and not maintain different nutrition standards in India and abroad, reacting to a Reuters story that revealed varying approaches on recipes and labelling.\nThe comments from Tukaram Mundhe, the Food Commissioner of India’s Maharashtra state, come amid anger and debate among consumers and health expe",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Zinc nears $4,000 and on track for biggest monthly jump since January",
-      "url": "https://www.brecorder.com/news/40436880/zinc-nears-4000-and-on-track-for-biggest-monthly-jump-since-january",
-      "published": "2026-08-28T17:16:41+05:00",
-      "summary": "Zinc struck a four-year high near the $4,000 mark on Friday and was on course for its biggest monthly climb since January as available stocks on the London Metal Exchange shrank, renewing investor concerns over market tightness.\nBenchmark three-month zinc on the London Metal Exchange was up 1.6% at $3,947 a metric ton as of 0900 GMT, after earlier touching $3,955, its highest since May 2022. Zinc,",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Palm logs weekly loss, snaps three-week winning streak",
-      "url": "https://www.brecorder.com/news/40436879/palm-logs-weekly-loss-snaps-three-week-winning-streak",
-      "published": "2026-08-28T17:11:34+05:00",
-      "summary": "KUALA LUMPUR: Malaysian palm oil futures rose more than 1% on Friday, lifted by firmer soyoil prices and worries over future output, but still logged a weekly loss to end its three-week winning streak.\nThe benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives Exchange was up 74 ringgit, or 1.54%, at 4,890 ringgit ($1,206.61) a metric ton at the close. The contract dec",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Indian shares post weekly loss as Fed jitters, closing auction weigh",
-      "url": "https://www.brecorder.com/news/40436878/indian-shares-post-weekly-loss-as-fed-jitters-closing-auction-weigh",
-      "published": "2026-08-28T17:06:53+05:00",
-      "summary": "Indian shares inched higher on Friday, but posted a third straight weekly loss, their longest falling streak in five months, on concerns over a new closing-auction mechanism and caution ahead of the Federal Reserve Chair’s speech.\nOn Friday, the Nifty 50 rose 0.35% to 24,175.65 points, while the BSE Sensex added 0.43% to 77,264.51. The IT index jumped 3.5%, supported by upbeat quarterly results fr",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "India's July industrial output growth slows to 6.7% y/y as mining contracts",
-      "url": "https://www.brecorder.com/news/40436876/indias-july-industrial-output-growth-slows-to-67-yy-as-mining-contracts",
-      "published": "2026-08-28T16:52:44+05:00",
-      "summary": "NEW DELHI: India’s industrial output growth slowed to 6.7% year-on-year in July, data showed on Friday, as mining activity contracted, with growth in manufacturing and electricity output also easing.\nEconomists polled by Reuters expected industrial output growth to slow to 6% in July from a revised 8.8% a month earlier.\nIn May, the government had shifted to producer prices from wholesale prices fo",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Indian rupee gains this week as dollar supply surges ahead of deposit window's close",
-      "url": "https://www.brecorder.com/news/40436875/indian-rupee-gains-this-week-as-dollar-supply-surges-ahead-of-deposit-windows-close",
-      "published": "2026-08-28T16:45:19+05:00",
-      "summary": "MUMBAI: The Indian rupee ended higher on Friday, rounding out a weekly gain, boosted by a spurt of dollar liquidity ahead of the closing of a special deposit window.\nThe Indian rupee ended at 95.3775, up 0.2% from Thursday’s close of 95.54. The currency reversed modest early losses in afternoon trade as deposit-related dollar inflows triggered stop-loss’s and unwinding in positions betting on rupe",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "KEL",
-      "title": "10 of 12 parties prequalified for Fesco privatisation, K-Electric withdraws - Dawn",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qVHhaS29QYXd1MGVJLXFXdGpxSEJkbUdtLVhhenY1eHJCbVVIQ29wbDl0UWgzczBtcV8xam9mR0FFdkJnUmptX9IBTkFVX3lxTE5TYm1tN2dVaG43U3dmdmlQQWFXYlZxNWV5WWhJZk13bk50aWNyRzE4dGJvM0xCWXNEdEcxVXFNVW9XalExZmFfazdIc2pQUQ?oc=5",
-      "published": "2026-08-28T16:44:18+00:00",
-      "summary": "10 of 12 parties prequalified for Fesco privatisation, K-Electric withdraws&nbsp;&nbsp;Dawn",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "_macro",
-      "title": "LeapFrog plans up to $100mn in India healthcare investments over two years",
-      "url": "https://www.brecorder.com/news/40436874/leapfrog-plans-up-to-100mn-in-india-healthcare-investments-over-two-years",
-      "published": "2026-08-28T16:03:50+05:00",
-      "summary": "Global private equity firm LeapFrog Investments plans to invest $80 million to $100 million in India’s healthcare sector over the next two years, a top executive told Reuters, as it seeks to benefit from the rising demand for medical services.\nExpanding insurance coverage and greater use of diagnostics and preventive care in a country with high rates of chronic disease have boosted healthcare spen",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "India plans bigger institutional role in public offers by small firms, sources say",
-      "url": "https://www.brecorder.com/news/40436873/india-plans-bigger-institutional-role-in-public-offers-by-small-firms-sources-say",
-      "published": "2026-08-28T15:59:48+05:00",
-      "summary": "MUMBAI: India’s markets regulator is considering applying some rules designed for large companies to public offers by smaller businesses, including a quota for institutional investors ahead of share sales, two sources with direct knowledge of the matter said.\nThe regulator is also mulling raising the limit on the size of companies that can list on platforms dedicated to small firms and mandating l",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "No one will be spared over PIMS fire: Mustafa Kamal",
-      "url": "https://www.brecorder.com/news/40436869/no-one-will-be-spared-over-pims-fire-mustafa-kamal",
-      "published": "2026-08-28T14:43:47+05:00",
-      "summary": "Health Minister Mustafa Kamal on Friday vowed that no one responsible for the fire at the Pakistan Institute of Medical Sciences (PIMS), which claimed the lives of 14 infants, would be spared, as he called for accountability and sweeping reforms in the country’s health sector.\nAddressing a session of the National Assembly, Kamal expressed profound grief over the tragedy and said the government was",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Govt, PSO explore measures to bolster strategic reserves amid global fuel volatility",
-      "url": "https://www.brecorder.com/news/40436871/govt-pso-explore-measures-to-bolster-strategic-reserves-amid-global-fuel-volatility",
-      "published": "2026-08-28T14:37:49+05:00",
-      "summary": "Pakistan is weighing measures to strengthen strategic fuel reserves and diversify its supplies as volatile global fuel prices and disruptions to key maritime corridors raise risks to the country’s energy security.\nThe development came during Federal Minister for Petroleum, Ali Pervaiz Malik, visit to PSO’s head office for high-level strategic and operational deliberations. During the meeting, disc",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Govt announces Rs5mn compensation for each family of PIMS fire victims",
-      "url": "https://www.brecorder.com/news/40436870/govt-announces-rs5mn-compensation-for-each-family-of-pims-fire-victims",
-      "published": "2026-08-28T14:36:21+05:00",
-      "summary": "The federal government has announced Rs5 million in financial assistance for each family of the infants who died in a recent fire at the Pakistan Institute of Medical Sciences (PIMS) Hospital in Islamabad.\nAccording to the state-run APP, the financial assistance is intended to provide some measure of support and solace to the grieving parents following the tragedy.\nThe government acknowledged that",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "KEL",
-      "title": "Karachi Power Outage Schedule: K-Electric to Shut Down 20 Feeders on August 29 - Times of Karachi",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PNHk1UXVRNFNyaWVfUzUzWEJKODVmZVk4RDJEd1RFZmtYeTdBZkh4R2hrbHhRcDlOTTd3SU1fNml5NXc4R2xmYVZJQVNSTlEwQjdiRnlTR2ZKTU9OdHh6M1pjNHpuYUdJOGFuQjVjSkdmLTRTUXdsWFZPOA?oc=5",
-      "published": "2026-08-28T14:34:24+00:00",
-      "summary": "Karachi Power Outage Schedule: K-Electric to Shut Down 20 Feeders on August 29&nbsp;&nbsp;Times of Karachi",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Tax reforms must be fully implemented within set timeframe: PM",
-      "url": "https://www.brecorder.com/news/40436867/tax-reforms-must-be-fully-implemented-within-set-timeframe-pm",
-      "published": "2026-08-28T14:09:26+05:00",
-      "summary": "Prime Minister Shehbaz Sharif on Friday directed authorities that the implementation of reform measures in the tax system should be fully completed within a specified timeframe.\nA weekly review meeting on the reforms of the Federal Board of Revenue (FBR), chaired by the PM, was held today in Islamabad, the Prime Minister’s Office (PMO) said.\nThe meeting was given a detailed briefing on the ongoing",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "LUCK",
-      "title": "Lucky Cement consortium submits EOI, cleared for FESCO due diligence - Mettis Global",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU2M2UDctNWIyT2Z4OFZpQ3k2bUZIX0Fld3ZidHVUdG5UOFdZb1RBMVNRSmE1ajlmYm9RSUNvVGpwWHNkX0NPTjRmR0w0TFE5SE1nbDJCamhnQW1pakdiZHY0VHdMSjFpRTJ1cy1ZelZWRS1lTHZhYzVPYzk2cDQ5WGdYNldQZzBZTXdyNGxURUhtVlE5OFpNUjdtQzNXdHNMeFZ1ag?oc=5",
-      "published": "2026-08-28T11:09:00+00:00",
-      "summary": "Lucky Cement consortium submits EOI, cleared for FESCO due diligence&nbsp;&nbsp;Mettis Global",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "PRL",
-      "title": "Saudi Aramco to help build new Pakistan refinery as OPEC sees global oil demand climbing - BOL News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM01XQUJ2amZhVjlyMFJyckF5UjJSaWZjdmZEOXNNamZ4UmpBaFRaOExJRk5jXzRfdVZwQ3doZjVXUTVrTUhLbHA2ZW9YZE5BT19Hc1MyN245U19UYTFoU2JmUHdQa3luUXRsOEJvU3k5S0V3Zk9zSUF3ZG56S3piMjBfcVFxS201VHNCMGk5VHVsT2s3bHBoY2t2VkxWM1k2NGJrWS1rNVZJanhHZll0V25oUkZlRUJneGVxQ1pERQ?oc=5",
-      "published": "2026-08-28T10:05:31+00:00",
-      "summary": "Saudi Aramco to help build new Pakistan refinery as OPEC sees global oil demand climbing&nbsp;&nbsp;BOL News",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "LUCK",
-      "title": "Privatization Commission Shortlists 10 FESCO Bidders, Including Engro Energy, Sapphire Fibres, Lucky Cement - Bloom Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnd6QXFJNlY4Y2drZWFXemEwSXI5N01USlBzbjgtTi1VYzV0RGdvU2ZzWDdGak12T2hZbzk1QkFYX2tVdmZadGZOT051Q0JzbnluTVU2NGplMTlDbjI1R0NYajRsUm9jQ09FaXRDTzdXdmFCSFlJa1RrNEdJV0szQ0NfNm9Ebk1rQ2VXa3hyWHdVOTM5R3Nrc3RiRVN4SWxueVRGQXJmOGlXWmxDMW9yaldCWXJNWlB5RGpvb0c4TlUyLTQ4UzYtWlBSMA?oc=5",
-      "published": "2026-08-28T09:23:06+00:00",
-      "summary": "Privatization Commission Shortlists 10 FESCO Bidders, Including Engro Energy, Sapphire Fibres, Lucky Cement&nbsp;&nbsp;Bloom Pakistan",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Exports to 5 Central Asian states fall 4.1pc in FY26",
-      "url": "https://www.dawn.com/news/2025665/exports-to-5-central-asian-states-fall-41pc-in-fy26",
-      "published": "2026-08-28T08:17:07+05:00",
-      "summary": "ISLAMABAD: Pakistan’s exports to five Central Asian Republics (CARs) shrank 4.10 per cent year-on-year in FY26.\n\nThe country’s exports to the region have yet to reach their full potential, apparently due to the closure of border trade stations with Afghanistan and land trade routes.\n\nPakistan’s bilateral trade with these five Central Asian states — Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan ",
+      "title": "Central Development Working Party clears five projects worth over Rs60 billion",
+      "url": "https://www.dawn.com/news/2026262/central-development-working-party-clears-five-projects-worth-over-rs60-billion",
+      "published": "2026-08-31T07:32:25+05:00",
+      "summary": "• Plans include Gwadar water scheme, Karachi neighbourhood project, Gilgit medical college, NDU campus and Orakzai road\n• Study on wastewater treatment in Gwadar ordered to prevent sewage from polluting sea           \n\nISLAMABAD: The Central Development Working Party (CDWP) has cleared five development projects involving an estimated cost of over Rs60 billion, including a multi-billion-rupee water",
       "source": "Dawn Business"
     },
     {
-      "symbol": "_macro",
-      "title": "Nepra rejects tariff review sans industry input",
-      "url": "https://www.dawn.com/news/2025668/nepra-rejects-tariff-review-sans-industry-input",
-      "published": "2026-08-28T07:56:54+05:00",
-      "summary": "ISLAMABAD: Amid a government request for about Rs36.52 billion in additional recovery from power consumers in September for using expensive LNG imports and a similar burden expected the following month, the National Electric Power Regulatory Authority (Nepra) on Thursday announced that it would reject the special tariff incentive package if it was finalised without consulting the industry.\nAt a pu",
-      "source": "Dawn Business"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Rate cuts shrink SBP profits in 2025-26",
-      "url": "https://www.dawn.com/news/2025669/rate-cuts-shrink-sbp-profits-in-2025-26",
-      "published": "2026-08-28T07:50:34+05:00",
-      "summary": "KARACHI: The State Bank of Pakistan (SBP) has remitted Rs1,932 billion to the federal government as profit for 2025-26, helping reduce its dependence on large domestic borrowings.\nWith the easing of monetary policy, the central bank’s profitability is also declining. From a peak of 22pc a few years ago, the benchmark interest rate has been reduced in intervals to 11.5pc. However, rising energy pri",
-      "source": "Dawn Business"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Jazz links 1,000 sites to 5G, seeks power-grid upgrades",
-      "url": "https://www.dawn.com/news/2025667/jazz-links-1000-sites-to-5g-seeks-power-grid-upgrades",
-      "published": "2026-08-28T07:23:07+05:00",
-      "summary": "ISLAMABAD: As the mobile network operator Jazz has linked 1,000 cell sites across the country to 5G, it has urged the government to upgrade power infrastructure, stressing that the new technology requires significantly more electricity than existing 4G networks.\n\nBriefing the media on Thursday, Jazz GSM President Kazim Mujtaba said the company planned to increase the number of 5G-enabled sites to ",
-      "source": "Dawn Business"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Equities turn flat after early rally",
-      "url": "https://www.dawn.com/news/2025662/equities-turn-flat-after-early-rally",
-      "published": "2026-08-28T07:19:38+05:00",
-      "summary": "KARACHI: After a mid-week holiday on account of Eid Miladun Nabi, the Pakistan Stock Exchange (PSX) recorded a jittery session on Thursday. Despite opening higher, the benchmark KSE 100 index came under late selling pressure, closing flat amid persistent geopolitical and political concerns.\n\nTopline Securities Ltd said the index opened on a strong footing, surging to an intraday high of 1,279 poin",
-      "source": "Dawn Business"
-    },
-    {
-      "symbol": "SAZEW",
-      "title": "Haval leads Sazgar Engineering’s Record FY26 Performance as Profit hits Rs. 23.6 Billion - theopinion.com.pk",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLV9abnFRcWlvVG9vZFFScnRmUmxLU3RvRlYtMTJtMzM3bTgzUk5zR1FNTkRyREk0cndPSVRoY3RaMzJ2SmN5b3VqbFFEbUFpVzJoM3g4TmhOME04TUc3TjFBbVpNcGhVbk9wdWs0Z29TdUg5UlNKbExqTmpjQ0M5d0VxVmpzN0ozSU4wdW0yLWJIX2U5X2xHd0VtT0NyUkMxWnRWQ0ZRbjNScXU1TWRzSXZUaEYwcWhT?oc=5",
-      "published": "2026-08-28T06:48:59+00:00",
-      "summary": "Haval leads Sazgar Engineering’s Record FY26 Performance as Profit hits Rs. 23.6 Billion&nbsp;&nbsp;theopinion.com.pk",
+      "symbol": "KOHC",
+      "title": "Kohat Cement joins FESCO privatization - Mettis Global",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tNHFEb1VtdGlkVV95bEJXZ2xZWjNxUFJYcEpIeUVuaVNEMV9ZOUtpRFhhTWdxWGM1MnJ5MlZNaGVVbllyRkJCMDl3ZGlONjZhTVV2OHB5Sl9GYUNXZ0xJb0g0YUJBUC1GMm9ENFNkRzFHMXVEWURYbG9n?oc=5",
+      "published": "2026-08-31T04:33:00+00:00",
+      "summary": "Kohat Cement joins FESCO privatization&nbsp;&nbsp;Mettis Global",
       "source": "google_news_rss"
     },
     {
-      "symbol": "SAZEW",
-      "title": "Sazgar Engineering achieves record annual profit and dividend payout in FY26 - Pkrevenue.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ibUxwdWdoQUFCNjhKTTZ6VTl5Mjc0OVQxQnhva0JlNGJ6N1NHTm42WFZwZ1ZXakQ0LVFkNUlCOTZZb3VxRGYyU1p0SkYxajN5MUh3RkptS0hEampDZzhnemV5aEhacktJUU9wNlU2d0pFcWRJN3FjNg?oc=5",
-      "published": "2026-08-28T06:33:00+00:00",
-      "summary": "Sazgar Engineering achieves record annual profit and dividend payout in FY26&nbsp;&nbsp;Pkrevenue.com",
+      "symbol": "_macro",
+      "title": "Islamabad, Riyadh agree to boost Pakistani agri and food exports to $3bn",
+      "url": "https://www.dawn.com/news/2026165/islamabad-riyadh-agree-to-boost-pakistani-agri-and-food-exports-to-3bn",
+      "published": "2026-08-30T23:42:54+05:00",
+      "summary": "Islamabad and Riyadh have agreed to boost Pakistani agricultural and food exports to Saudi Arabia up to $3 billion, the countries said in a joint statement on Sunday.\nThe statement, shared by the Prime Minister’s Office (PMO), said the agreement was reached after “successful” talks between Saudi Arabia’s agriculture ministry and Pakistan’s food security ministry, at the initiative of PM Shehbaz Sh",
+      "source": "Dawn Business"
+    },
+    {
+      "symbol": "AIRLINK",
+      "title": "Enterprise value to EBIT forward of Air Link Communication Ltd. – PSX:AIRLINK - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0tnOVJsdnlZZWRtelcxOHR6T3JUaUlzS2ZtNk9DTnF0bjNlM1RuV3E5cXItbVRTeUhSdjBsS2pxUjdJMml5NmprS0l4QlRUWjZpQ0QzRjJvUFVHQWpENjFnajl2QVhlR0JEeDlyMkw0aExlcWxjX25mQ1k1VUk2c0xpdERsQjhzekFreEs5d2ZveVkxdG1OeWJtN1MyVUJXYmRxMUdkeXNEVFk?oc=5",
+      "published": "2026-08-30T19:38:33+00:00",
+      "summary": "Enterprise value to EBIT forward of Air Link Communication Ltd. – PSX:AIRLINK&nbsp;&nbsp;TradingView",
       "source": "google_news_rss"
     },
     {
-      "symbol": "ENGROH",
-      "title": "Engro Holdings Profit Jumps 79% to Rs. 18.6 Billion in First Half of 2026 - Bloom Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjFLdUhsVHZYYXIxSHBmakRES0NlM0dnLUhfbGw3UDJxZ2EyV3NyN0tVU1V3RWNLMlRReUk1akMxNUs4dVJmdzdkTzV4ZFJxQnRRMDZMUEFiLXVHN1l2X1g1TlJ1X0hzcENjcXg5MnhnOFMtaTJUOTlFYkcyUEtyekcwX3AyLVBJZUVlTXVnWWdHdUtyTjEwNDQ0Y3dkMUk?oc=5",
-      "published": "2026-08-28T05:58:05+00:00",
-      "summary": "Engro Holdings Profit Jumps 79% to Rs. 18.6 Billion in First Half of 2026&nbsp;&nbsp;Bloom Pakistan",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "CPHL",
-      "title": "Citi Pharma Eyes Cannabis and Hemp Market in Pakistan and Abroad - ProPakistani",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGdQNVBpV1ViMTdGMWRKOHJPVFBDLXNMeHZMQ0ZCb0FzeHlUUGNRQzZrWVBJdE9idkdGVFZMZkhOdGwwQXE3NXdmZmhtNl9Tdkd5bEZaNnNIaWVOUXRwWVV0d1F1LVQtUzZEMG5sUS02al9uNkVrY2E3ZVdXSlZYajQwRC11VjNZcjBxRXFyNURDQ1N3WUhkQ1dYbjVwSUVCM2fSAacBQVVfeXFMT21QYXVCREE5ZDRXZnA1WlZVbDQ0eFdvWlExZkRCcUpzNWd4QjFUVkJKeHMxcU5BUzVXUUhBWWxSeHc4THlsd0UxYS12b2JjdXNXa3l2YU1kSmhnbTF0ajl0VkwyVmpnZ2VXTHkwNG8tQmV3eXdOX2VFcFRFaEllVnhzWFRkcTcwcXBhRUtlZm05SnhSampxM0Npb3lTSmdnY1E3cmxxMTA?oc=5",
-      "published": "2026-08-28T05:15:24+00:00",
-      "summary": "Citi Pharma Eyes Cannabis and Hemp Market in Pakistan and Abroad&nbsp;&nbsp;ProPakistani",
+      "symbol": "FABL",
+      "title": "Faysal Bank T-20 Cup, 2012/13 - Abbottabad Falcons Cricket Team Records & Stats - Cricinfo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdHBEZ05IQnFaX1V3U21JQmhudkxELU9mWHZfc0w4cmlKT2JNd3ZpNC1BbldjWU15bXVSOUc2Mk55OV9Gb0kzVFVrcm1DVFZ2NVRueTlqUWFjUUNaa2lkYWhMYTV0Vl9Ka1FHZTJBd0F4ckdzX0xQSnZCTGxJSk55YzdrcXB4VGFWb2xPSnJ5SnEtSXFBd21DUjVJcDNqV3F1Y2F2M3JITnNsQ1hFMC1zQVFPUVVGU010TlV3?oc=5",
+      "published": "2026-08-30T17:36:42+00:00",
+      "summary": "Faysal Bank T-20 Cup, 2012/13 - Abbottabad Falcons Cricket Team Records & Stats&nbsp;&nbsp;Cricinfo",
       "source": "google_news_rss"
     },
     {
       "symbol": "KEL",
-      "title": "K-Electric releases maintenance shutdown schedule for August 25 - MM News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjN2NkZ0NmlyMnVVeTUyb3M2ZmlBQXN6RmZaRVdxOUh6bVR3dFFiWHphbHB3X1hoc2JwTG52VURrRVdmdEJ3Z0lBejdENHdBZUhxN3FMZmFpZDF6amZ4MWRuUHp1NGhqYjRVbTdrRW1tc041Q2hVc1RiY1J6QzY2eDFFSk45M1dvMVE?oc=5",
-      "published": "2026-08-27T22:41:38+00:00",
-      "summary": "K-Electric releases maintenance shutdown schedule for August 25&nbsp;&nbsp;MM News",
+      "title": "Karachi Power Outage Schedule: K-Electric to Shut Down 37 Feeders on August 31 - Times of Karachi",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHaGRuNWhQQ2NfUFBrV2JZYko3Y1BRZ3FKNm5GTjhNZWYtdUlVeU5xVEhiZHFYR0pSODU5YVIxd0cydjZNSV9LMVhvblV0RE1EMVdGLXJZQ3ZZMkdaQ28tX2VkaDBXS1RTaWYwZmlQYjE1S2ZCQzNSbXBObw?oc=5",
+      "published": "2026-08-30T16:24:14+00:00",
+      "summary": "Karachi Power Outage Schedule: K-Electric to Shut Down 37 Feeders on August 31&nbsp;&nbsp;Times of Karachi",
       "source": "google_news_rss"
     },
     {
-      "symbol": "OGDC",
-      "title": "OGDC Announces Board Meeting on 4 September 2026 to Approve Full-Year Financial Results and Potential Dividend - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUFlhVXY0RTdTUWVjWTQwR3pwSndFNXFlVUhUREFkaHNtVDEtQmppcENTWUZSX3pteDQyc0E1TDlMT092X0F0VVdaYkRkMDdoQlpyYjNZbnBra19FM1gxUHc2Wm9nT1JuMUpTYXNKNXZpT2Y1cy1iTzVpelluYTV6bENDYXNpTUlqVEVsRURpNUVkclZxVjlhU0tDMG5UbEQ5ODBOZ3I4TVNVQjEtS2lEbUlQMzBRcDRxekdxeWxhaktESXZzT01iWnpuSDZDMWZWTF9ITl9tV3JSemt4ZVhpZHc0S1Y5MlVjRmZ6eXN3?oc=5",
-      "published": "2026-08-27T22:10:46+00:00",
-      "summary": "OGDC Announces Board Meeting on 4 September 2026 to Approve Full-Year Financial Results and Potential Dividend&nbsp;&nbsp;Kalkine Media",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "SAZEW",
-      "title": "Haval, GWM Distributor Sazgar Engineering Posts Record FY26 Profit - TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1VvN2FkZWh1QjFTTm9IMEFEUm1DYnNSMl9GYk15VGVCQW9hV292ZDR3M0JxSmpfTThxQ0k1cHJBekN0cm1iY1MwVG12emZ5RTJHMi1GdzFrVzNoalVEOWtLcndCRjJGM1ZqdlZQRUtTNVdhV1NJVTJMTTZpaFc5bEJKUm9OVE4wamE4WlBpRGN6YjhsRGc?oc=5",
-      "published": "2026-08-27T21:58:09+00:00",
-      "summary": "Haval, GWM Distributor Sazgar Engineering Posts Record FY26 Profit&nbsp;&nbsp;TechJuice",
+      "symbol": "KEL",
+      "title": "K-Electric maintenance shutdown schedule for August 31 - MM News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EaVBmZlhxanpCbW92aHhmYUdURFYydld1U1U5THNEWXBVMkVYQ1l4OUpLV2ZHNmNxZjNBSl9QWS0wWjhNVTBJOVFmeHlvMkZJVkFpNW9LRFI4SjNPMWxka2J6MmR3d0dGSkhmY1dYM3M1NHFpY1NXc2xPWWhHQQ?oc=5",
+      "published": "2026-08-30T16:02:20+00:00",
+      "summary": "K-Electric maintenance shutdown schedule for August 31&nbsp;&nbsp;MM News",
       "source": "google_news_rss"
     }
   ]

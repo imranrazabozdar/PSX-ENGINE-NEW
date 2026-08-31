@@ -1,137 +1,88 @@
 {
-  "as_of": "2026-08-28T21:15:45.410587+00:00",
+  "as_of": "2026-08-31T07:16:07.398024+00:00",
   "source": "news_raw_24h.json",
   "model": "local-financial-rule-engine-v1",
   "api_required": false,
   "signals": {
-    "CPHL": {
+    "AIRLINK": {
       "score": 50.0,
       "direction": "neutral",
       "materiality": "normal",
       "confidence": "low",
       "summary": "Mixed or insufficient financial evidence; treated as neutral.",
       "headlines": [
-        "Citi Pharma Eyes Cannabis and Hemp Market in Pakistan and Abroad - ProPakistani"
+        "Enterprise value to EBIT forward of Air Link Communication Ltd. – PSX:AIRLINK - TradingView"
       ],
       "sources": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGdQNVBpV1ViMTdGMWRKOHJPVFBDLXNMeHZMQ0ZCb0FzeHlUUGNRQzZrWVBJdE9idkdGVFZMZkhOdGwwQXE3NXdmZmhtNl9Tdkd5bEZaNnNIaWVOUXRwWVV0d1F1LVQtUzZEMG5sUS02al9uNkVrY2E3ZVdXSlZYajQwRC11VjNZcjBxRXFyNURDQ1N3WUhkQ1dYbjVwSUVCM2fSAacBQVVfeXFMT21QYXVCREE5ZDRXZnA1WlZVbDQ0eFdvWlExZkRCcUpzNWd4QjFUVkJKeHMxcU5BUzVXUUhBWWxSeHc4THlsd0UxYS12b2JjdXNXa3l2YU1kSmhnbTF0ajl0VkwyVmpnZ2VXTHkwNG8tQmV3eXdOX2VFcFRFaEllVnhzWFRkcTcwcXBhRUtlZm05SnhSampxM0Npb3lTSmdnY1E3cmxxMTA?oc=5"
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0tnOVJsdnlZZWRtelcxOHR6T3JUaUlzS2ZtNk9DTnF0bjNlM1RuV3E5cXItbVRTeUhSdjBsS2pxUjdJMml5NmprS0l4QlRUWjZpQ0QzRjJvUFVHQWpENjFnajl2QVhlR0JEeDlyMkw0aExlcWxjX25mQ1k1VUk2c0xpdERsQjhzekFreEs5d2ZveVkxdG1OeWJtN1MyVUJXYmRxMUdkeXNEVFk?oc=5"
       ]
     },
-    "ENGROH": {
-      "score": 66.7,
+    "FABL": {
+      "score": 60.0,
       "direction": "positive",
-      "materiality": "material_positive",
+      "materiality": "normal",
       "confidence": "low",
-      "summary": "Positive financial signals detected: profit",
+      "summary": "Positive financial signals detected: record",
       "headlines": [
-        "Engro Holdings Profit Jumps 79% to Rs. 18.6 Billion in First Half of 2026 - Bloom Pakistan"
+        "Faysal Bank T-20 Cup, 2012/13 - Abbottabad Falcons Cricket Team Records & Stats - Cricinfo"
       ],
       "sources": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjFLdUhsVHZYYXIxSHBmakRES0NlM0dnLUhfbGw3UDJxZ2EyV3NyN0tVU1V3RWNLMlRReUk1akMxNUs4dVJmdzdkTzV4ZFJxQnRRMDZMUEFiLXVHN1l2X1g1TlJ1X0hzcENjcXg5MnhnOFMtaTJUOTlFYkcyUEtyekcwX3AyLVBJZUVlTXVnWWdHdUtyTjEwNDQ0Y3dkMUk?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdHBEZ05IQnFaX1V3U21JQmhudkxELU9mWHZfc0w4cmlKT2JNd3ZpNC1BbldjWU15bXVSOUc2Mk55OV9Gb0kzVFVrcm1DVFZ2NVRueTlqUWFjUUNaa2lkYWhMYTV0Vl9Ka1FHZTJBd0F4ckdzX0xQSnZCTGxJSk55YzdrcXB4VGFWb2xPSnJ5SnEtSXFBd21DUjVJcDNqV3F1Y2F2M3JITnNsQ1hFMC1zQVFPUVVGU010TlV3?oc=5"
       ]
     },
     "KEL": {
-      "score": 49.2,
-      "direction": "neutral",
+      "score": 40.8,
+      "direction": "negative",
       "materiality": "normal",
-      "confidence": "low",
-      "summary": "Mixed or insufficient financial evidence; treated as neutral.",
+      "confidence": "medium",
+      "summary": "Negative financial signals detected: shutdown",
       "headlines": [
-        "Chairman K-Electric acknowledges challenges but service upgrades - BOL News",
-        "10 of 12 parties prequalified for Fesco privatisation, K-Electric withdraws - Dawn",
-        "Karachi Power Outage Schedule: K-Electric to Shut Down 20 Feeders on August 29 - Times of Karachi",
-        "K-Electric releases maintenance shutdown schedule for August 25 - MM News"
+        "Karachi Power Outage Schedule: K-Electric to Shut Down 37 Feeders on August 31 - Times of Karachi",
+        "K-Electric maintenance shutdown schedule for August 31 - MM News"
       ],
       "sources": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMy1Ca0owUUhfRlVMOWZpQVNwcklqOUhTSC1sajlEZXRublJVNnE4V0tXX2l1WERVNW9UOUFyS0lGVGtTTU51LXcwY2J6c1NXUGlQd0dVcnV2eUxPYVV2M1Bod3hySEdOM1ZuQkEwWVEwOXhYTWVhMmVLTVVHQkxycXREcVUzRUU1NGVleXIxdzhwLUZZcGRxNm9LNWloQU1xZ1prdA?oc=5",
-        "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qVHhaS29QYXd1MGVJLXFXdGpxSEJkbUdtLVhhenY1eHJCbVVIQ29wbDl0UWgzczBtcV8xam9mR0FFdkJnUmptX9IBTkFVX3lxTE5TYm1tN2dVaG43U3dmdmlQQWFXYlZxNWV5WWhJZk13bk50aWNyRzE4dGJvM0xCWXNEdEcxVXFNVW9XalExZmFfazdIc2pQUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PNHk1UXVRNFNyaWVfUzUzWEJKODVmZVk4RDJEd1RFZmtYeTdBZkh4R2hrbHhRcDlOTTd3SU1fNml5NXc4R2xmYVZJQVNSTlEwQjdiRnlTR2ZKTU9OdHh6M1pjNHpuYUdJOGFuQjVjSkdmLTRTUXdsWFZPOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjN2NkZ0NmlyMnVVeTUyb3M2ZmlBQXN6RmZaRVdxOUh6bVR3dFFiWHphbHB3X1hoc2JwTG52VURrRVdmdEJ3Z0lBejdENHdBZUhxN3FMZmFpZDF6amZ4MWRuUHp1NGhqYjRVbTdrRW1tc041Q2hVc1RiY1J6QzY2eDFFSk45M1dvMVE?oc=5"
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHaGRuNWhQQ2NfUFBrV2JZYko3Y1BRZ3FKNm5GTjhNZWYtdUlVeU5xVEhiZHFYR0pSODU5YVIxd0cydjZNSV9LMVhvblV0RE1EMVdGLXJZQ3ZZMkdaQ28tX2VkaDBXS1RTaWYwZmlQYjE1S2ZCQzNSbXBObw?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EaVBmZlhxanpCbW92aHhmYUdURFYydld1U1U5THNEWXBVMkVYQ1l4OUpLV2ZHNmNxZjNBSl9QWS0wWjhNVTBJOVFmeHlvMkZJVkFpNW9LRFI4SjNPMWxka2J6MmR3d0dGSkhmY1dYM3M1NHFpY1NXc2xPWWhHQQ?oc=5"
       ]
     },
-    "LUCK": {
+    "KOHC": {
       "score": 50.0,
       "direction": "neutral",
       "materiality": "normal",
       "confidence": "low",
       "summary": "Mixed or insufficient financial evidence; treated as neutral.",
       "headlines": [
-        "Lucky Cement consortium submits EOI, cleared for FESCO due diligence - Mettis Global",
-        "Privatization Commission Shortlists 10 FESCO Bidders, Including Engro Energy, Sapphire Fibres, Lucky Cement - Bloom Pakistan"
+        "Kohat Cement joins FESCO privatization - Mettis Global"
       ],
       "sources": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU2M2UDctNWIyT2Z4OFZpQ3k2bUZIX0Fld3ZidHVUdG5UOFdZb1RBMVNRSmE1ajlmYm9RSUNvVGpwWHNkX0NPTjRmR0w0TFE5SE1nbDJCamhnQW1pakdiZHY0VHdMSjFpRTJ1cy1ZelZWRS1lTHZhYzVPYzk2cDQ5WGdYNldQZzBZTXdyNGxURUhtVlE5OFpNUjdtQzNXdHNMeFZ1ag?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnd6QXFJNlY4Y2drZWFXemEwSXI5N01USlBzbjgtTi1VYzV0RGdvU2ZzWDdGak12T2hZbzk1QkFYX2tVdmZadGZOT051Q0JzbnluTVU2NGplMTlDbjI1R0NYajRsUm9jQ09FaXRDTzdXdmFCSFlJa1RrNEdJV0szQ0NfNm9Ebk1rQ2VXa3hyWHdVOTM5R3Nrc3RiRVN4SWxueVRGQXJmOGlXWmxDMW9yaldCWXJNWlB5RGpvb0c4TlUyLTQ4UzYtWlBSMA?oc=5"
-      ]
-    },
-    "OGDC": {
-      "score": 55.2,
-      "direction": "neutral",
-      "materiality": "normal",
-      "confidence": "low",
-      "summary": "Mixed or insufficient financial evidence; treated as neutral.",
-      "headlines": [
-        "OGDC Announces Board Meeting on 4 September 2026 to Approve Full-Year Financial Results and Potential Dividend - Kalkine Media"
-      ],
-      "sources": [
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUFlhVXY0RTdTUWVjWTQwR3pwSndFNXFlVUhUREFkaHNtVDEtQmppcENTWUZSX3pteDQyc0E1TDlMT092X0F0VVdaYkRkMDdoQlpyYjNZbnBra19FM1gxUHc2Wm9nT1JuMUpTYXNKNXZpT2Y1cy1iTzVpelluYTV6bENDYXNpTUlqVEVsRURpNUVkclZxVjlhU0tDMG5UbEQ5ODBOZ3I4TVNVQjEtS2lEbUlQMzBRcDRxekdxeWxhaktESXZzT01iWnpuSDZDMWZWTF9ITl9tV3JSemt4ZVhpZHc0S1Y5MlVjRmZ6eXN3?oc=5"
-      ]
-    },
-    "PRL": {
-      "score": 35.0,
-      "direction": "negative",
-      "materiality": "normal",
-      "confidence": "low",
-      "summary": "Negative financial signals detected: fine",
-      "headlines": [
-        "Saudi Aramco to help build new Pakistan refinery as OPEC sees global oil demand climbing - BOL News"
-      ],
-      "sources": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM01XQUJ2amZhVjlyMFJyckF5UjJSaWZjdmZEOXNNamZ4UmpBaFRaOExJRk5jXzRfdVZwQ3doZjVXUTVrTUhLbHA2ZW9YZE5BT19Hc1MyN245U19UYTFoU2JmUHdQa3luUXRsOEJvU3k5S0V3Zk9zSUF3ZG56S3piMjBfcVFxS201VHNCMGk5VHVsT2s3bHBoY2t2VkxWM1k2NGJrWS1rNVZJanhHZll0V25oUkZlRUJneGVxQ1pERQ?oc=5"
-      ]
-    },
-    "SAZEW": {
-      "score": 81.7,
-      "direction": "positive",
-      "materiality": "material_positive",
-      "confidence": "medium",
-      "summary": "Positive financial signals detected: profit, record, profit",
-      "headlines": [
-        "Haval leads Sazgar Engineering’s Record FY26 Performance as Profit hits Rs. 23.6 Billion - theopinion.com.pk",
-        "Sazgar Engineering achieves record annual profit and dividend payout in FY26 - Pkrevenue.com",
-        "Haval, GWM Distributor Sazgar Engineering Posts Record FY26 Profit - TechJuice"
-      ],
-      "sources": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLV9abnFRcWlvVG9vZFFScnRmUmxLU3RvRlYtMTJtMzM3bTgzUk5zR1FNTkRyREk0cndPSVRoY3RaMzJ2SmN5b3VqbFFEbUFpVzJoM3g4TmhOME04TUc3TjFBbVpNcGhVbk9wdWs0Z29TdUg5UlNKbExqTmpjQ0M5d0VxVmpzN0ozSU4wdW0yLWJIX2U5X2xHd0VtT0NyUkMxWnRWQ0ZRbjNScXU1TWRzSXZUaEYwcWhT?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ibUxwdWdoQUFCNjhKTTZ6VTl5Mjc0OVQxQnhva0JlNGJ6N1NHTm42WFZwZ1ZXakQ0LVFkNUlCOTZZb3VxRGYyU1p0SkYxajN5MUh3RkptS0hEampDZzhnemV5aEhacktJUU9wNlU2d0pFcWRJN3FjNg?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1VvN2FkZWh1QjFTTm9IMEFEUm1DYnNSMl9GYk15VGVCQW9hV292ZDR3M0JxSmpfTThxQ0k1cHJBekN0cm1iY1MwVG12emZ5RTJHMi1GdzFrVzNoalVEOWtLcndCRjJGM1ZqdlZQRUtTNVdhV1NJVTJMTTZpaFc5bEJKUm9OVE4wamE4WlBpRGN6YjhsRGc?oc=5"
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tNHFEb1VtdGlkVV95bEJXZ2xZWjNxUFJYcEpIeUVuaVNEMV9ZOUtpRFhhTWdxWGM1MnJ5MlZNaGVVbllyRkJCMDl3ZGlONjZhTVV2OHB5Sl9GYUNXZ0xJb0g0YUJBUC1GMm9ENFNkRzFHMXVEWURYbG9n?oc=5"
       ]
     },
     "_MACRO": {
-      "score": 50.3,
+      "score": 47.5,
       "direction": "neutral",
       "materiality": "normal",
       "confidence": "low",
       "summary": "Mixed or insufficient financial evidence; treated as neutral.",
       "headlines": [
-        "Govt cuts petrol price by Rs0.58, HSD by Rs0.17",
-        "Govt reduces petrol price by Re0.58, diesel by Re0.17 per litre",
-        "Pakistan forms $10mn fund for startups",
-        "SECP introduces unified framework for 'faster and easier' entry into Pakistan's capital market",
-        "10 of 12 parties prequalified for Fesco privatisation, K-Electric withdraws",
-        "SBP injects over Rs12.24 trillion in market",
-        "India signs deal with US to buy Javelin anti-tank missile systems",
-        "PC Board prequalifies 10 interested parties for FESCO privatisation"
+        "PTA imposes Rs38.9mn fine on Jazz over corporate postpaid SIM violations",
+        "PM Shehbaz departs today for three-day Kyrgyzstan visit to attend SCO Summit",
+        "Trump says Iran's Kharg is being 'blown to smithereens, but gives no details",
+        "Star Entertainment warns tough conditions to persist after annual loss",
+        "North Korea says hostile US policy unchanged, nuclear arms to keep growing",
+        "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
+        "Japan 2-year yields rise to 31-year high as auctions, rate hikes loom",
+        "South Africa pacer Rabada ruled out of Australia ODIs, under injury cloud for Tests"
       ],
       "sources": [
-        "https://www.dawn.com/news/2025780/govt-cuts-petrol-price-by-rs058-hsd-by-rs017",
-        "https://www.brecorder.com/news/40436894/govt-reduces-petrol-price-by-re058-diesel-by-re017-per-litre",
-        "https://www.brecorder.com/news/40436895/pakistan-forms-10mn-fund-for-startups",
-        "https://www.dawn.com/news/2025777/secp-introduces-unified-framework-for-faster-and-easier-entry-into-pakistans-capital-market",
-        "https://www.dawn.com/news/2025776/10-of-12-parties-prequalified-for-fesco-privatisation-k-electric-withdraws",
-        "https://www.brecorder.com/news/40436893/sbp-injects-over-rs1224-trillion-in-market",
-        "https://www.brecorder.com/news/40436877/india-signs-deal-with-us-to-buy-javelin-anti-tank-missile-systems",
-        "https://www.brecorder.com/news/40436892/pc-board-prequalifies-10-interested-parties-for-fesco-privatisation"
+        "https://www.brecorder.com/news/40437212/pta-imposes-rs389mn-fine-on-jazz-over-corporate-postpaid-sim-violations",
+        "https://www.brecorder.com/news/40437218/pm-shehbaz-departs-today-for-three-day-kyrgyzstan-visit-to-attend-sco-summit",
+        "https://www.brecorder.com/news/40437195/trump-says-irans-kharg-is-being-blown-to-smithereens-but-gives-no-details",
+        "https://www.brecorder.com/news/40437217/star-entertainment-warns-tough-conditions-to-persist-after-annual-loss",
+        "https://www.brecorder.com/news/40437216/north-korea-says-hostile-us-policy-unchanged-nuclear-arms-to-keep-growing",
+        "https://www.brecorder.com/news/40437215/openai-issued-warrants-worth-55-billion-in-sb-energy-wsj-reports",
+        "https://www.brecorder.com/news/40437214/japan-2-year-yields-rise-to-31-year-high-as-auctions-rate-hikes-loom",
+        "https://www.brecorder.com/news/40437213/south-africa-pacer-rabada-ruled-out-of-australia-odis-under-injury-cloud-for-tests"
       ]
     }
   }

@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-08-29",
+  "as_of": "2026-08-31",
   "source": "stockanalysis.com (PSX)",
   "data": {
     "PSO": {
-      "pe": 3.91,
+      "pe": 3.89,
       "roe": 15.62,
       "de": 1.07,
       "div_yield": 2.66,
@@ -29,16 +29,17 @@
       "eps_growth": 25.97
     },
     "MEBL": {
-      "pe": 11.19,
+      "pe": 11.29,
       "roe": 32.98,
-      "div_yield": 5.62,
+      "div_yield": 5.57,
       "eps_growth": -5.79
     },
     "SYS": {
-      "pe": 16.72,
-      "de": 0.1,
+      "pe": 16.71,
+      "roe": 22.81,
+      "de": 0.17,
       "div_yield": 1.55,
-      "eps_growth": 23.19
+      "eps_growth": 23.27
     },
     "LUCK": {
       "pe": 7.27,
@@ -48,22 +49,22 @@
       "eps_growth": 15.71
     },
     "FFC": {
-      "pe": 8.95,
+      "pe": 8.96,
       "roe": 34.45,
       "de": 0.39,
       "div_yield": 6.8,
       "eps_growth": 8.33
     },
     "NRL": {
-      "pe": 6.18,
+      "pe": 6.51,
       "roe": 11.55,
       "de": 0.85
     },
     "DGKC": {
-      "pe": 7.91,
+      "pe": 7.89,
       "roe": 10.76,
       "de": 0.39,
-      "div_yield": 0.93,
+      "div_yield": 0.47,
       "eps_growth": 27.94
     },
     "OGDC": {
@@ -81,7 +82,7 @@
       "eps_growth": -12.05
     },
     "MARI": {
-      "pe": 9.18,
+      "pe": 9.19,
       "roe": 28.78,
       "de": 0.05,
       "div_yield": 5.54,
@@ -91,7 +92,7 @@
       "pe": 5.51,
       "roe": 22.42,
       "de": 0.28,
-      "div_yield": 7.12,
+      "div_yield": 9.49,
       "eps_growth": 7.58
     },
     "ENGROH": {
@@ -108,20 +109,20 @@
       "eps_growth": -22.04
     },
     "FCCL": {
-      "pe": 8.62,
+      "pe": 8.54,
       "roe": 17.82,
       "de": 0.37,
       "div_yield": 2.71,
       "eps_growth": 21.55
     },
     "MLCF": {
-      "pe": 9.0,
+      "pe": 8.94,
       "roe": 15.21,
       "de": 0.88,
-      "eps_growth": 3.27
+      "eps_growth": 3.31
     },
     "NML": {
-      "pe": 4.33,
+      "pe": 4.29,
       "roe": 7.64,
       "de": 0.53,
       "div_yield": 1.38,
@@ -153,11 +154,11 @@
     "ATRL": {
       "pe": 4.52,
       "roe": 15.34,
-      "div_yield": 1.61,
+      "div_yield": 1.59,
       "eps_growth": 191.25
     },
     "SNGP": {
-      "pe": 4.45,
+      "pe": 4.4,
       "roe": 19.36,
       "de": 2.66,
       "div_yield": 2.94,
@@ -169,10 +170,10 @@
       "div_yield": 1.81
     },
     "SAZEW": {
-      "pe": 4.79,
+      "pe": 4.78,
       "roe": 70.75,
       "de": 0.12,
-      "div_yield": 2.74,
+      "div_yield": 2.78,
       "eps_growth": 44.49
     },
     "FFL": {
@@ -189,7 +190,7 @@
       "eps_growth": 31.94
     },
     "GHNI": {
-      "pe": 8.07,
+      "pe": 8.03,
       "roe": 45.64,
       "de": 0.0,
       "div_yield": 0.76,
@@ -208,7 +209,7 @@
       "de": 2.3
     },
     "PIBTL": {
-      "pe": 15.6,
+      "pe": 15.4,
       "roe": 10.48,
       "de": 0.29,
       "eps_growth": 409.34
@@ -256,7 +257,7 @@
       "eps_growth": 77.08
     },
     "AGP": {
-      "pe": 12.76,
+      "pe": 12.72,
       "roe": 26.4,
       "de": 0.73,
       "div_yield": 4.7,
@@ -302,10 +303,10 @@
       "eps_growth": -10.63
     },
     "SLM": {
-      "div_yield": 3.46
+      "div_yield": 3.45
     },
     "SLGL": {
-      "pe": 6.48,
+      "pe": 6.42,
       "roe": 12.63,
       "de": 0.14,
       "eps_growth": -32.96
