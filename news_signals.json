@@ -1,88 +1,184 @@
 {
-  "as_of": "2026-08-31T07:16:07.398024+00:00",
+  "as_of": "2026-10-08T11:00:22.167466+00:00",
   "source": "news_raw_24h.json",
   "model": "local-financial-rule-engine-v1",
   "api_required": false,
   "signals": {
-    "AIRLINK": {
+    "BNL": {
       "score": 50.0,
       "direction": "neutral",
       "materiality": "normal",
       "confidence": "low",
       "summary": "Mixed or insufficient financial evidence; treated as neutral.",
       "headlines": [
-        "Enterprise value to EBIT forward of Air Link Communication Ltd. – PSX:AIRLINK - TradingView"
+        "BNL Company Profile - Bunnys Ltd - Investify"
       ],
       "sources": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0tnOVJsdnlZZWRtelcxOHR6T3JUaUlzS2ZtNk9DTnF0bjNlM1RuV3E5cXItbVRTeUhSdjBsS2pxUjdJMml5NmprS0l4QlRUWjZpQ0QzRjJvUFVHQWpENjFnajl2QVhlR0JEeDlyMkw0aExlcWxjX25mQ1k1VUk2c0xpdERsQjhzekFreEs5d2ZveVkxdG1OeWJtN1MyVUJXYmRxMUdkeXNEVFk?oc=5"
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kVlJUSUVsLXMweWptaXpjMHRzZmJvMzkxUC05Ymt2VGdEeHpFZ2Z6ZkxSME1mQlh4cnRjVFVEV2wzZU5uRFJDSEIyM01HVTFfaXpTaVNTUQ?oc=5"
+      ]
+    },
+    "ENGROH": {
+      "score": 66.7,
+      "direction": "positive",
+      "materiality": "material_positive",
+      "confidence": "low",
+      "summary": "Positive financial signals detected: buyback",
+      "headlines": [
+        "Engro Holdings reports buyback of 196,676 shares - Investify"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE02NkliSEY0VmZYZEJGdHd1akNxUGE2ZTQ4blhXbllRd0JidTg0bk5XMEl6UXdKd19MbndkRGxtTUYwSGVMWmNsZkFNSHZhZkJkOFRmUl9ySGxkV2M5cWVmRFE1SDZvU01FS1Y0cw?oc=5"
       ]
     },
     "FABL": {
-      "score": 60.0,
-      "direction": "positive",
-      "materiality": "normal",
-      "confidence": "low",
-      "summary": "Positive financial signals detected: record",
-      "headlines": [
-        "Faysal Bank T-20 Cup, 2012/13 - Abbottabad Falcons Cricket Team Records & Stats - Cricinfo"
-      ],
-      "sources": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdHBEZ05IQnFaX1V3U21JQmhudkxELU9mWHZfc0w4cmlKT2JNd3ZpNC1BbldjWU15bXVSOUc2Mk55OV9Gb0kzVFVrcm1DVFZ2NVRueTlqUWFjUUNaa2lkYWhMYTV0Vl9Ka1FHZTJBd0F4ckdzX0xQSnZCTGxJSk55YzdrcXB4VGFWb2xPSnJ5SnEtSXFBd21DUjVJcDNqV3F1Y2F2M3JITnNsQ1hFMC1zQVFPUVVGU010TlV3?oc=5"
-      ]
-    },
-    "KEL": {
-      "score": 40.8,
-      "direction": "negative",
-      "materiality": "normal",
-      "confidence": "medium",
-      "summary": "Negative financial signals detected: shutdown",
-      "headlines": [
-        "Karachi Power Outage Schedule: K-Electric to Shut Down 37 Feeders on August 31 - Times of Karachi",
-        "K-Electric maintenance shutdown schedule for August 31 - MM News"
-      ],
-      "sources": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHaGRuNWhQQ2NfUFBrV2JZYko3Y1BRZ3FKNm5GTjhNZWYtdUlVeU5xVEhiZHFYR0pSODU5YVIxd0cydjZNSV9LMVhvblV0RE1EMVdGLXJZQ3ZZMkdaQ28tX2VkaDBXS1RTaWYwZmlQYjE1S2ZCQzNSbXBObw?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EaVBmZlhxanpCbW92aHhmYUdURFYydld1U1U5THNEWXBVMkVYQ1l4OUpLV2ZHNmNxZjNBSl9QWS0wWjhNVTBJOVFmeHlvMkZJVkFpNW9LRFI4SjNPMWxka2J6MmR3d0dGSkhmY1dYM3M1NHFpY1NXc2xPWWhHQQ?oc=5"
-      ]
-    },
-    "KOHC": {
       "score": 50.0,
       "direction": "neutral",
       "materiality": "normal",
       "confidence": "low",
       "summary": "Mixed or insufficient financial evidence; treated as neutral.",
       "headlines": [
-        "Kohat Cement joins FESCO privatization - Mettis Global"
+        "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice"
       ],
       "sources": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tNHFEb1VtdGlkVV95bEJXZ2xZWjNxUFJYcEpIeUVuaVNEMV9ZOUtpRFhhTWdxWGM1MnJ5MlZNaGVVbllyRkJCMDl3ZGlONjZhTVV2OHB5Sl9GYUNXZ0xJb0g0YUJBUC1GMm9ENFNkRzFHMXVEWURYbG9n?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXgyMWVDTGthOWFkcUNvTDJnbGJsbERlejd1WGNfcllfdFAxQkZSbld1c1l3WFZNR2pBNWdodVNBN1VOS04wbkxDdWpUMjh4bDRnQUpCSmE0R0JIdVlqUVFpUzhRZDlvbDlaT0dGYkVpUUlMbzN2WFliNkU1V3licjl2MHM0SHNLaVZwSWd3dzVRSjlmdGswZmRxYVRWRDY0Q2tHeDNjNV9wMGR5Uzdjd0NGd3NsODdCeFdqZA?oc=5"
       ]
     },
-    "_MACRO": {
-      "score": 47.5,
+    "FCCL": {
+      "score": 50.0,
       "direction": "neutral",
       "materiality": "normal",
       "confidence": "low",
       "summary": "Mixed or insufficient financial evidence; treated as neutral.",
       "headlines": [
-        "PTA imposes Rs38.9mn fine on Jazz over corporate postpaid SIM violations",
-        "PM Shehbaz departs today for three-day Kyrgyzstan visit to attend SCO Summit",
-        "Trump says Iran's Kharg is being 'blown to smithereens, but gives no details",
-        "Star Entertainment warns tough conditions to persist after annual loss",
-        "North Korea says hostile US policy unchanged, nuclear arms to keep growing",
-        "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
-        "Japan 2-year yields rise to 31-year high as auctions, rate hikes loom",
-        "South Africa pacer Rabada ruled out of Australia ODIs, under injury cloud for Tests"
+        "FCCL Share Price Today - Fauji Cement Company Ltd - Investify"
       ],
       "sources": [
-        "https://www.brecorder.com/news/40437212/pta-imposes-rs389mn-fine-on-jazz-over-corporate-postpaid-sim-violations",
-        "https://www.brecorder.com/news/40437218/pm-shehbaz-departs-today-for-three-day-kyrgyzstan-visit-to-attend-sco-summit",
-        "https://www.brecorder.com/news/40437195/trump-says-irans-kharg-is-being-blown-to-smithereens-but-gives-no-details",
-        "https://www.brecorder.com/news/40437217/star-entertainment-warns-tough-conditions-to-persist-after-annual-loss",
-        "https://www.brecorder.com/news/40437216/north-korea-says-hostile-us-policy-unchanged-nuclear-arms-to-keep-growing",
-        "https://www.brecorder.com/news/40437215/openai-issued-warrants-worth-55-billion-in-sb-energy-wsj-reports",
-        "https://www.brecorder.com/news/40437214/japan-2-year-yields-rise-to-31-year-high-as-auctions-rate-hikes-loom",
-        "https://www.brecorder.com/news/40437213/south-africa-pacer-rabada-ruled-out-of-australia-odis-under-injury-cloud-for-tests"
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5WVNfdmRuYURQdVg0T2NwaDktWWVwY3Vfa2lhSEktbXpWSTJTS3Etbk5WMm1PMzQ1NkJYNmVBZlk2QnVpRVhoMmhvTFlBS1pZOE5qekx3?oc=5"
+      ]
+    },
+    "KEL": {
+      "score": 55.7,
+      "direction": "neutral",
+      "materiality": "normal",
+      "confidence": "medium",
+      "summary": "Mixed or insufficient financial evidence; treated as neutral.",
+      "headlines": [
+        "Court Temporarily Suspends NEPRA Ruling Against K-Electric - ProPakistani",
+        "Sindh High Court suspends NEPRA tariff orders against K-Electric - Profit by Pakistan Today",
+        "Karachi Power Outage Alert: 65 K-Electric Feeders to Remain Shut on October 8 - Hamariweb.com",
+        "KEL AGM / EGM: K-Electric applies for extension to hold AGM and file audited financial statements - Investify",
+        "K-Electric | Shehryar Chishti | Fahad Haroon | Digital Technology Talks - Aaj English TV",
+        "K-Electric | Shehryar Chishti | Fahad Haroon | Digital Technology Talks - Aaj News",
+        "K-Electric chairman, Fahd Haroon discuss Pakistan’s digital growth - Aaj English TV",
+        "K-Electric chairman, Fahd Haroon discuss Pakistan’s digital growth - Aaj English TV"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHJjT3NHVW5YX1JDT0RzSFRjRFFoWGN5NnBUYjFNbl95b2VIWENJQnFGbHo2WFZZUGtMUGxLMkpVU1pSekM4U210TE5JaUZRN29TSjdBZTFxYXZNRm5IenZ5UWFaTWp0VW1BTWZUekNBV3Vfb1RLOVVjMGc0Qk1BMHh4ZF9DUHMzUXdtWHVPLUtnN3ZwcVQ5eUZn0gGfAUFVX3lxTE9NZkpOZGJFZjdkSXhuR2F6TEw3Z1hjOFBPUDZ6TE56dlNZSlBJVjhYOUJwMGlhcGhKT2VrVjdUeWh3UTFRSkN5RUJqMUwxdmRDYUp6ajJpZjV0VDNxckhZZjIzMmJSWnhYcF81MHFaSWVicG5YSXBFY0Z4aVFWTjA3X2NGWlRjeDlFVGRzQ3RVQ29Pb3ctV3hybmZpU0hSNA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWw1Y3o4cDNTWVA4YzFFdDJtZUpQNVlhUkZUYW51SEw1NE04MXZnRnFpM0d5cGwwY2pMMGZ6VklUTzNRUXkyUFg1QlpwUWZNSWtCdE9RVHpGUTQyY1RCY1FqeE1hbVJCNDJ3a0JkTjhVQ2R0Y2h5UlFRQWgwaG1EWHhjTmJLdW1mM05kUHZpeG10clljWk9BMG43elRSWUxRbngtUFJMenBmaF9yaGNPag?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelRJRW81LXVSUU9DakVFVFpCZk1YNEhBZ205ZGJxVTdFSXdfT2ZJWTd4cXZYZEtvcWVRTUY5NlMxUUdMaUJVdDJZQmJVSkdPelB5eWhmZHpaM3BrM3NSSW10d1BST2hGSXNONHZjVVgwdU1wS1Y2cXVIT25YOU9yLWlLd1hMNWJqdDh6QWVyZGZCVjhfTWFHcU45TVdLRHJ4SGlQVUNSX2x5YTVTaktiWmZXUWk?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTVBOckJoWlluS05fcFMtazR5YUVzTmpKNGc2T0R3QXc1bWNONHJ6UmduN1dvd01TYVFMMmtoYnVscnJUR1RNeEd4SjUzSzZfbXFDd1hBeVlqYm1QeFZYWk10QnRBYmZv?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1BjWHRjbTV1TTI3N2FLbGl3eVJWckNQQ0ZlTC1neVI1TEF4UE5mVzZ1TVROc2FtNXBxUXNZeXdaYzUtdGVUeGJqdVFtSGVEQTlhSUlycVMzb1Vpc1dMZ1ZrMmlCbVFKSGs1V0xsMmppRFozS25LMEVaVDNBXzRIMV9OVndLVlVSb0JqQXhlNEJCa1NObWhaOUZtRW1WWTdEbEJXMVZLTXRHWW9rR2p6eG53?oc=5",
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wQWhBWjRleDgxYVBnTjZXdjdXZ2hjTDRoNEkyaFBsX2dhbklEWjBTOGZqcWFwQTQ1SjQ3UDJlMXVsZjhUZGZ4Z2s3SnE?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXhaV1Nqb0ZJMXRRVVNUaUxOVnp0SXNWaXBDYWo4a2l1SVBFQWxiNS1xQmwtdkdOYU5ZY0VsTDRpaWg5dWZBcThoRG1hczJTU0lSYnhaTFRuNTJvcGlRb3Y3M0pXMG5uYVBydDVWRkFMa2FrbTlkek9YNjh4eXoyeGZyOENKY3IxM3d0WGNhQXlWWDc1eTF3WGc2bUI5UmFZNG1pQw?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENk55QjBsRjZqQkstdzQ0dHRYNHY0ZFh0QXB4cGRmZEx2czlabzNoNkpyemQ3RWdnM3Z1UU8zMWtVUzhJa2k5WTdLZFhuc2Mta1Nn?oc=5"
+      ]
+    },
+    "LUCK": {
+      "score": 50.0,
+      "direction": "neutral",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Mixed or insufficient financial evidence; treated as neutral.",
+      "headlines": [
+        "Lucky Cement led consortium submits bid interest for Pakistan's GEPCO privatization - Bol News",
+        "Lucky Cement-Led Consortium Pre-Qualified for GEPCO Privatisation Due Diligence - Energy Update"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzhZeHFtZHZGWXRpWEdjMDVlQkZkcW9fcDAxbkl6bGtZMDBxYkdtMFRFSWdMVTZ4VGtFeFFSd1Z1MEd3aEo2YkY1WW9MUXNlWEJZdEstREtuUWgtNzFfaF9tNFpla0djLXF2M2RwX050aGhiVFkzYTVyd25KMWVteExoYTMzNWFINjBpVGdjN1NIX1lhNEwweXdwLW1xcDlvVFdiSkV4Rm9jR0hGR19hV0ZzZDdOZw?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0NNeWtxalp5N2h6clZzamQ3cU15MWUxclhaWlNnWTVhbnctbGJBcWdwSldyRHpXSFdFemhWMUt1T19nTFRkQ3Fubk1DZld2aFh5NFJvRUZEMDJuU24xTGVoRExyM3BTRHI4aWFyUkllOXJVQjBIV0lUcUptLVFRd1RDWVB3MXVfd2EwbnFXV240Ti1oWjlrZkpzTWh4SEQzRU1MY2h2cGVxR0lZR01MQ253?oc=5"
+      ]
+    },
+    "MEBL": {
+      "score": 50.0,
+      "direction": "neutral",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Mixed or insufficient financial evidence; treated as neutral.",
+      "headlines": [
+        "Meezan Bank to Launch Two Shariah Compliant Credit Cards in 2027 - TechJuice",
+        "Meezan Bank Announces App Downtime on First Day of Ramadan - TechJuice",
+        "Just Rs 27,000 Down Payment for iPhone 18 Pro! Here’s Meezan Bank’s Complete Plan - MM News"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSU1JbE9jS2NqM1BmMmRHeC1PbUlFbC1xUTdXVzFLTHhIOXlqMEJZcG1qbXZray16NlRNa1VNRUo3QUVaQW92dXpfZjdoLTZFekxVd21nVVJ0QmlGUGhpQ3haekk1VU84eUp2TzB1U3lTZm84Qkt0V3NJbmpSR21tMjNjRWljbTVmejRXMHpHLVpPdEpl?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjNKV3hadDQ2U1B6NUZTaF9HQWtZSWZObnZMc1I5ejYtWU15R3hGeXhnT3cydjhUWWRkMGl0UFhlNnh0RU85ak10aVQwTnVUZG5XSkRoYlBQQUhyWmw4QnhadWdiaFNnQVRHMTl4UXFVbzZONzNnd1Z4RmM2STZHVTgxNzBDR0huOVY2Mg?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNi0yRkdyMmNSVnNvb0hBT3hvMWxjVU1nZGpOS2ZHSjBiNklpZmx1ek9oM1RjYl8zbDdsMWQ1RC1nTzYzRGlIVWh3MXotS0JSS2ZCVTlFb05DWF85Y2w5OVZmUk1yV1BZYzJYREx1LWJ5RXpNR2N1eEh4MlFTa1hFaTh3ZW83bnE4dmtkVUdxYkFZOW9BSGhMTmZDODQ?oc=5"
+      ]
+    },
+    "MLCF": {
+      "score": 50.0,
+      "direction": "neutral",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Mixed or insufficient financial evidence; treated as neutral.",
+      "headlines": [
+        "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXgyMWVDTGthOWFkcUNvTDJnbGJsbERlejd1WGNfcllfdFAxQkZSbld1c1l3WFZNR2pBNWdodVNBN1VOS04wbkxDdWpUMjh4bDRnQUpCSmE0R0JIdVlqUVFpUzhRZDlvbDlaT0dGYkVpUUlMbzN2WFliNkU1V3licjl2MHM0SHNLaVZwSWd3dzVRSjlmdGswZmRxYVRWRDY0Q2tHeDNjNV9wMGR5Uzdjd0NGd3NsODdCeFdqZA?oc=5"
+      ]
+    },
+    "PRL": {
+      "score": 35.0,
+      "direction": "negative",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Negative financial signals detected: fine",
+      "headlines": [
+        "PRL Share Price Today - Pakistan Refinery Ltd - Investify"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfeWRzYXEtbG1LVVlqaC1zVjlCNUJpcm9oZGZHMjMyZmp2cTkxU29PTTNxdHJvc0UwWC1tc3djdjQwQ3VDUjhQTzEyOWZ1ZFRHendzNg?oc=5"
+      ]
+    },
+    "TREET": {
+      "score": 70.0,
+      "direction": "positive",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Positive financial signals detected: record, order",
+      "headlines": [
+        "Treet Corporation Limited: performance and outlook - Business Recorder"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWjVyUlVJT3VmYVhRdmJFci1UNmlpblBUX2tjaW9hVDBqU2YydnVGN21jZ1cyYjZzamw4dzc3WVB5NnZFdnlYV1ZSaEpwdVlU0gFWQVVfeXFMT1FOYVpGSENSQThwMVdQeWtYMURLdmxsRkprLXBQMF9oUlhYM0FDYzlxd3BOMVk2UnBMelI4Q19zNmhmZmtreS1qV0hYQzZaWDhTSW1MMmc?oc=5"
+      ]
+    },
+    "_MACRO": {
+      "score": 47.2,
+      "direction": "neutral",
+      "materiality": "normal",
+      "confidence": "low",
+      "summary": "Mixed or insufficient financial evidence; treated as neutral.",
+      "headlines": [
+        "Bahrain working to 'speed up' approval of Pak-GCC free trade pact, foreign minister says",
+        "Rupee records gain against US dollar",
+        "Nepra notifies consumers of Rs1.11 per unit higher fuel costs in Oct billing",
+        "KE secures interim relief from Sindh High Court in NEPRA tariff dispute",
+        "Gold price increase by Rs600 per tola in Pakistan",
+        "Govt says World Bank poverty figures reflect regional reclassification",
+        "European shares dip as banks hit over 3-month low, oil prices weigh",
+        "T20 ties have softened on-field rivalries, says Harmer"
+      ],
+      "sources": [
+        "https://www.dawn.com/news/2035648/bahrain-working-to-speed-up-approval-of-pak-gcc-free-trade-pact-foreign-minister-says",
+        "https://www.brecorder.com/news/40443272/intra-day-update-rupee-records-gain-against-us-dollar",
+        "https://www.dawn.com/news/2035673/nepra-notifies-consumers-of-rs111-per-unit-higher-fuel-costs-in-oct-billing",
+        "https://www.brecorder.com/news/40443273/ke-secures-interim-relief-from-sindh-high-court-in-nepra-tariff-dispute",
+        "https://www.brecorder.com/news/40443271/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+        "https://www.brecorder.com/news/40443270/govt-says-world-bank-poverty-figures-reflect-regional-reclassification",
+        "https://www.brecorder.com/news/40443269/european-shares-dip-as-banks-hit-over-3-month-low-oil-prices-weigh",
+        "https://www.brecorder.com/news/40443268/t20-ties-have-softened-on-field-rivalries-says-harmer"
       ]
     }
   }

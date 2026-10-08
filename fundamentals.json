@@ -1,318 +1,317 @@
 {
-  "as_of": "2026-08-31",
+  "as_of": "2026-10-08",
   "source": "stockanalysis.com (PSX)",
   "data": {
     "PSO": {
-      "pe": 3.89,
-      "roe": 15.62,
-      "de": 1.07,
-      "div_yield": 2.66,
-      "eps_growth": 211.15
+      "pe": 6.55,
+      "roe": 11.42,
+      "de": 1.45,
+      "div_yield": 2.81,
+      "eps_growth": 54.99
     },
     "TREET": {
-      "pe": 20.99,
-      "roe": 3.42,
-      "de": 0.94,
-      "eps_growth": 33.47
+      "pe": 11.45,
+      "roe": 8.63,
+      "de": 0.92,
+      "eps_growth": 49.01
     },
     "FABL": {
-      "pe": 6.53,
+      "pe": 6.33,
       "roe": 19.47,
-      "div_yield": 6.77,
-      "eps_growth": 10.18
+      "div_yield": 6.96,
+      "eps_growth": 7.93
     },
     "AIRLINK": {
-      "pe": 9.51,
-      "roe": 32.91,
-      "de": 1.81,
-      "div_yield": 6.72,
-      "eps_growth": 25.97
+      "pe": 7.65,
+      "roe": 32.66,
+      "de": 2.28,
+      "div_yield": 7.47,
+      "eps_growth": 31.12
     },
     "MEBL": {
-      "pe": 11.29,
+      "pe": 10.81,
       "roe": 32.98,
-      "div_yield": 5.57,
+      "div_yield": 5.82,
       "eps_growth": -5.79
     },
     "SYS": {
-      "pe": 16.71,
+      "pe": 15.07,
       "roe": 22.81,
       "de": 0.17,
-      "div_yield": 1.55,
+      "div_yield": 1.7,
       "eps_growth": 23.27
     },
     "LUCK": {
-      "pe": 7.27,
+      "pe": 6.72,
       "roe": 22.38,
       "de": 0.39,
-      "div_yield": 1.14,
+      "div_yield": 1.23,
       "eps_growth": 15.71
     },
     "FFC": {
-      "pe": 8.96,
+      "pe": 8.78,
       "roe": 34.45,
       "de": 0.39,
-      "div_yield": 6.8,
-      "eps_growth": 8.33
+      "div_yield": 6.86,
+      "eps_growth": 9.15
     },
     "NRL": {
-      "pe": 6.51,
+      "pe": 8.33,
       "roe": 11.55,
       "de": 0.85
     },
     "DGKC": {
-      "pe": 7.89,
+      "pe": 6.9,
       "roe": 10.76,
       "de": 0.39,
-      "div_yield": 0.47,
+      "div_yield": 0.54,
       "eps_growth": 27.94
     },
     "OGDC": {
-      "pe": 8.99,
-      "roe": 11.35,
+      "pe": 5.61,
+      "roe": 16.9,
       "de": 0.0,
-      "div_yield": 4.71,
-      "eps_growth": -7.12
+      "div_yield": 5.38,
+      "eps_growth": 42.65
     },
     "PPL": {
-      "pe": 8.18,
-      "roe": 10.94,
+      "pe": 6.14,
+      "roe": 13.18,
       "de": 0.0,
-      "div_yield": 3.15,
-      "eps_growth": -12.05
+      "div_yield": 5.45,
+      "eps_growth": 8.6
     },
     "MARI": {
-      "pe": 9.19,
+      "pe": 8.88,
       "roe": 28.78,
       "de": 0.05,
-      "div_yield": 5.54,
+      "div_yield": 5.82,
       "eps_growth": 32.9
     },
     "HUBC": {
-      "pe": 5.51,
+      "pe": 5.24,
       "roe": 22.42,
       "de": 0.28,
-      "div_yield": 9.49,
-      "eps_growth": 7.58
+      "div_yield": 9.98,
+      "eps_growth": 7.59
     },
     "ENGROH": {
-      "pe": 7.5,
+      "pe": 7.45,
       "roe": 22.66,
       "de": 1.45,
-      "eps_growth": -32.97
+      "eps_growth": -26.38
     },
     "EFERT": {
-      "pe": 11.46,
+      "pe": 12.11,
       "roe": 49.44,
       "de": 2.35,
-      "div_yield": 8.15,
+      "div_yield": 7.77,
       "eps_growth": -22.04
     },
     "FCCL": {
-      "pe": 8.54,
+      "pe": 7.91,
       "roe": 17.82,
       "de": 0.37,
-      "div_yield": 2.71,
-      "eps_growth": 21.55
+      "div_yield": 2.88,
+      "eps_growth": 21.5
     },
     "MLCF": {
-      "pe": 8.94,
+      "pe": 8.01,
       "roe": 15.21,
       "de": 0.88,
       "eps_growth": 3.31
     },
     "NML": {
-      "pe": 4.29,
-      "roe": 7.64,
-      "de": 0.53,
-      "div_yield": 1.38,
-      "eps_growth": 626.58
+      "pe": 3.08,
+      "roe": 8.26,
+      "de": 0.48,
+      "div_yield": 1.58,
+      "eps_growth": 183.12
     },
     "PAEL": {
-      "pe": 8.99,
+      "pe": 7.68,
       "roe": 8.34,
       "de": 0.33,
-      "eps_growth": 19.64
+      "eps_growth": 17.4
     },
     "SEARL": {
-      "pe": 24.15,
-      "roe": 6.51,
-      "de": 0.21
+      "pe": 104.43,
+      "roe": 1.59,
+      "de": 0.23,
+      "div_yield": 1.28
     },
     "HCAR": {
-      "pe": 6.95,
+      "pe": 6.1,
       "roe": 19.66,
       "de": 0.08,
-      "div_yield": 3.9,
+      "div_yield": 4.31,
       "eps_growth": 46.71
     },
     "PRL": {
-      "pe": 3.79,
+      "pe": 3.77,
       "roe": 45.49,
       "de": 0.39
     },
     "ATRL": {
-      "pe": 4.52,
+      "pe": 4.99,
       "roe": 15.34,
-      "div_yield": 1.59,
+      "div_yield": 1.44,
       "eps_growth": 191.25
     },
     "SNGP": {
-      "pe": 4.4,
+      "pe": 3.97,
       "roe": 19.36,
       "de": 2.66,
-      "div_yield": 2.94,
+      "div_yield": 3.3,
       "eps_growth": -20.84
     },
     "SSGC": {
       "roe": -16.9,
       "de": 11.36,
-      "div_yield": 1.81
+      "div_yield": 2.16
     },
     "SAZEW": {
-      "pe": 4.78,
+      "pe": 4.17,
       "roe": 70.75,
       "de": 0.12,
-      "div_yield": 2.78,
+      "div_yield": 4.3,
       "eps_growth": 44.49
     },
     "FFL": {
-      "pe": 40.57,
+      "pe": 36.01,
       "roe": 9.11,
       "de": 0.57,
-      "eps_growth": -7.25
+      "eps_growth": -7.02
     },
     "CPHL": {
-      "pe": 15.74,
-      "roe": 13.28,
-      "de": 0.33,
-      "div_yield": 4.86,
-      "eps_growth": 31.94
+      "pe": 18.8,
+      "roe": 7.28,
+      "de": 0.29,
+      "div_yield": 5.38,
+      "eps_growth": -11.28
     },
     "GHNI": {
-      "pe": 8.03,
-      "roe": 45.64,
-      "de": 0.0,
-      "div_yield": 0.76,
-      "eps_growth": 102.79
+      "pe": 6.39,
+      "roe": 38.58,
+      "div_yield": 1.16,
+      "eps_growth": 51.12
     },
     "GAL": {
-      "pe": 5.42,
-      "roe": 41.48,
+      "pe": 4.49,
+      "roe": 36.18,
       "de": 0.03,
-      "div_yield": 1.58,
-      "eps_growth": 160.53
+      "div_yield": 2.37,
+      "eps_growth": 56.69
     },
     "KEL": {
-      "pe": 47.67,
+      "pe": 40.27,
       "roe": 2.29,
       "de": 2.3
     },
     "PIBTL": {
-      "pe": 15.4,
-      "roe": 10.48,
-      "de": 0.29,
-      "eps_growth": 409.34
+      "pe": 7.15,
+      "roe": 19.66,
+      "de": 0.19
     },
     "TELE": {
-      "pe": 15.41,
+      "pe": 14.46,
       "roe": 8.18,
       "de": 0.13
     },
     "DCL": {
-      "roe": -4.48,
-      "de": 0.21
+      "roe": -0.59,
+      "de": 0.16
     },
     "GGL": {
-      "pe": 2.25,
-      "roe": 30.3,
-      "de": 0.48,
-      "eps_growth": 300.01
+      "pe": 4.75,
+      "roe": 15.89,
+      "de": 0.49,
+      "eps_growth": -53.76
     },
     "BNL": {
-      "pe": 9.38,
-      "roe": 18.16,
-      "de": 0.35,
-      "eps_growth": 200.88
+      "pe": 26.89,
+      "roe": 4.71,
+      "de": 0.37,
+      "eps_growth": -59.0
     },
     "ILP": {
-      "pe": 12.97,
-      "roe": 19.47,
-      "de": 1.34,
-      "div_yield": 4.01,
-      "eps_growth": 102.36
+      "pe": 10.64,
+      "roe": 20.1,
+      "de": 1.29,
+      "div_yield": 4.15,
+      "eps_growth": 128.91
     },
     "FCL": {
-      "pe": 8.46,
+      "pe": 8.22,
       "roe": 13.67,
       "de": 0.85,
-      "div_yield": 5.31,
-      "eps_growth": 65.99
+      "div_yield": 5.57,
+      "eps_growth": 66.16
     },
     "JVDC": {
-      "pe": 13.58,
-      "roe": 15.23,
-      "de": 0.19,
-      "div_yield": 3.49,
-      "eps_growth": 77.08
+      "pe": 13.41,
+      "roe": 14.05,
+      "de": 0.16,
+      "div_yield": 4.36,
+      "eps_growth": 138.99
     },
     "AGP": {
-      "pe": 12.72,
+      "pe": 11.93,
       "roe": 26.4,
       "de": 0.73,
-      "div_yield": 4.7,
-      "eps_growth": 8.48
+      "div_yield": 5.04,
+      "eps_growth": 8.09
     },
     "WAVES": {
-      "pe": 6.37,
-      "roe": 3.98,
-      "de": 0.59,
-      "eps_growth": -60.92
+      "pe": 4.41,
+      "roe": 5.03,
+      "de": 0.58,
+      "eps_growth": -53.85
     },
     "TOMCL": {
-      "pe": 17.63,
-      "roe": 5.59,
-      "de": 0.08,
-      "eps_growth": -44.81
+      "pe": 50.16,
+      "roe": 1.8,
+      "de": 0.09,
+      "eps_growth": -77.24
     },
     "IMAGE": {
-      "pe": 7.59,
-      "roe": 17.19,
-      "de": 0.36,
-      "div_yield": 7.57,
-      "eps_growth": 11.25
+      "pe": 7.91,
+      "roe": 14.6,
+      "de": 0.4,
+      "div_yield": 4.42,
+      "eps_growth": -13.28
     },
     "SYM": {
-      "pe": 20.18,
-      "roe": 11.67,
-      "de": 0.23,
-      "div_yield": 0.39,
-      "eps_growth": 1.66
+      "pe": 16.15,
+      "roe": 9.96,
+      "de": 0.29,
+      "div_yield": 0.82,
+      "eps_growth": 26.3
     },
     "FCEPL": {
-      "pe": 19.34,
+      "pe": 17.99,
       "roe": 33.64,
       "de": 0.27,
-      "div_yield": 2.76,
-      "eps_growth": 154.47
+      "div_yield": 2.58,
+      "eps_growth": 154.56
     },
     "KOHC": {
-      "pe": 9.2,
-      "roe": 18.5,
-      "de": 0.13,
-      "eps_growth": -10.63
+      "pe": 7.56,
+      "roe": 20.07,
+      "de": 0.11,
+      "eps_growth": -2.77
     },
     "SLM": {
-      "div_yield": 3.45
+      "div_yield": 3.8
     },
     "SLGL": {
-      "pe": 6.42,
+      "pe": 5.69,
       "roe": 12.63,
       "de": 0.14,
-      "eps_growth": -32.96
+      "eps_growth": -28.33
     },
     "THCCL": {
-      "pe": 10.59,
+      "pe": 9.76,
       "roe": 35.44,
       "de": 0.61,
       "eps_growth": 46.65
