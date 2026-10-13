@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-08T11:00:03.102573+00:00",
+  "fetched_at": "2026-10-13T11:15:08.509668+00:00",
   "window_hours": 24,
-  "cutoff": "2026-10-07T11:00:03.102573+00:00",
+  "cutoff": "2026-10-12T11:15:08.509668+00:00",
   "universe": [
     "PSO",
     "TREET",
@@ -61,518 +61,390 @@
     "profit.pakistantoday.com.pk",
     "news.google.com"
   ],
-  "count": 64,
+  "count": 48,
   "items": [
     {
       "symbol": "_macro",
-      "title": "Bahrain working to 'speed up' approval of Pak-GCC free trade pact, foreign minister says",
-      "url": "https://www.dawn.com/news/2035648/bahrain-working-to-speed-up-approval-of-pak-gcc-free-trade-pact-foreign-minister-says",
-      "published": "2026-10-08T15:58:25+05:00",
-      "summary": "Bahrain on Thursday said it was working to “speed up” the approval of a free trade agreement between Pakistan and the Gulf Cooperation Council (GCC).\nThe remarks came after the two countries held the third session of their Joint Ministerial Commission (JMC) in Islamabad.\nBahrain’s FM Abdullatif bin Rashid Al Zayani — who arrived in Pakistan last night on a two-day visit — co-chaired the JMC sessio",
+      "title": "SE Fruits and Vegetable to refile IPO application with additional disclosures",
+      "url": "https://www.brecorder.com/news/40444003/se-fruits-and-vegetable-to-refile-ipo-application-with-additional-disclosures",
+      "published": "2026-10-13T16:06:21+05:00",
+      "summary": "SE Fruits and Vegetable Limited will withdraw its existing initial public offering (IPO) application and submit a fresh one with additional disclosures about the transition of its underlying business from a partnership to a public limited company, the company said on Tuesday.\n“The Board of Directors of SE Fruits and Vegetable Limited has decided to withdraw the Company’s current IPO application an",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Rupee registers gain against US dollar",
+      "url": "https://www.brecorder.com/news/40444000/intra-day-update-rupee-records-gain-against-us-dollar",
+      "published": "2026-10-13T16:05:18+05:00",
+      "summary": "(function() {\n        var minH = 50;\n        var maxH = 30000;\n\n        // Capture the specific iframe for this script instance synchronously\n        var scripts = document.getElementsByTagName('script');\n        var currentScript = document.currentScript || scripts[scripts.length - 1];\n        var wrapper = currentScript;\n        while (wrapper && (!wrapper.classList || !wrapper.classList.contain",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Copper edges up on mine supply disruption, tight stocks",
+      "url": "https://www.brecorder.com/news/40444002/copper-edges-up-on-mine-supply-disruption-tight-stocks",
+      "published": "2026-10-13T16:02:38+05:00",
+      "summary": "Copper prices rose for a third straight session on Tuesday as persistent concerns over a supply shortage kept the metal within striking distance of an all-time peak.\nBenchmark three-month copper on the London Metal Exchange was up 0.1% at $14,636.50 a metric ton as of 0915 GMT, close to the record $14,875 seen last month.\nSupply concerns remained in focus after Chile’s Codelco partially suspended ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Pakistan’s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF",
+      "url": "https://www.dawn.com/news/2036872/pakistans-growth-during-fy27-projected-at-35pc-inflation-at-99pc-imf",
+      "published": "2026-10-13T16:01:17+05:00",
+      "summary": "ISLAMABAD: The International Monetary Fund (IMF) has projected Pakistan’s economic growth at 3.5 per cent during the current fiscal year and inflation to remain close to double digits for another year, notwithstanding global growth rebounding to 3.4pc.\nIn its flagship World Economic Outlook, released at the launch of the World Bank-IMF annual meetings in Bangkok, the fund estimated Pakistan’s curr",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "Rupee records gain against US dollar",
-      "url": "https://www.brecorder.com/news/40443272/intra-day-update-rupee-records-gain-against-us-dollar",
-      "published": "2026-10-08T15:51:01+05:00",
-      "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday.\nThe local unit closed the day at 277.01, a gain of Re0.01 against the greenback.\n    \n        \n    \n        \n    \n\n        \n    \nOn Wednesday, the Pakistani rupee settled at 277.02 against the dollar.\nInternationally, the US dollar held near its highest level in a year-and-a-half in subdued t",
+      "title": "Palm climbs to two-week high as El Niño supply fears outweigh stocks",
+      "url": "https://www.brecorder.com/news/40444001/palm-climbs-to-two-week-high-as-el-nino-supply-fears-outweigh-stocks",
+      "published": "2026-10-13T15:53:35+05:00",
+      "summary": "KUALA LUMPUR: Malaysian palm oil futures reversed earlier losses to hit a more than two-week high on Tuesday, as concerns over tighter supplies next year — due to El Niño and growing biodiesel demand — outweighed pressure from currently high stockpiles.\nThe benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange rose 45 ringgit, or 0.97%, to 4,682 ringgit ($1,1",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Nepra notifies consumers of Rs1.11 per unit higher fuel costs in Oct billing",
-      "url": "https://www.dawn.com/news/2035673/nepra-notifies-consumers-of-rs111-per-unit-higher-fuel-costs-in-oct-billing",
-      "published": "2026-10-08T15:44:07+05:00",
-      "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) on Thursday notified electricity consumers of an additional burden of Rs16 billion by allowing Rs1.11 per unit in higher fuel costs in October billing.\nIn a notification, Nepra said it had decided that the “positive fuel cost adjustment (FCA) for August 2026, i.e. Rs1.1086/kWh … shall be applicable to all the consumer categories o",
+      "title": "India's ICICI Life posts key quarterly margin below estimates, shares slide",
+      "url": "https://www.brecorder.com/news/40443999/indias-icici-life-posts-key-quarterly-margin-below-estimates-shares-slide",
+      "published": "2026-10-13T15:49:11+05:00",
+      "summary": "BENGALURU: India’s ICICI Life Insurance reported new business margins below expectations on Tuesday, sending shares sliding 3%, while second-quarter profit jumped 25% year-on-year.\nIts value of new business (VNB), which measures the expected profit from new policies sold, rose 24.7% on-quarter to 7.12 billion rupees.\nHowever, its VNB margin fell to 25.4% from 26.7% in the previous quarter, accordi",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Indian benchmark shares jump as encouraging HCLTech earnings propel IT buying",
+      "url": "https://www.brecorder.com/news/40443998/indian-benchmark-shares-jump-as-encouraging-hcltech-earnings-propel-it-buying",
+      "published": "2026-10-13T15:41:46+05:00",
+      "summary": "Indian benchmark shares rose on Tuesday, led by the IT index’s biggest one-day gain in more than 17 months after estimate-beating results from HCLTech and as the central bank’s support for the rupee boosted sentiment.\nThe Nifty 50 rose 1.6% to 22,721.95 and the BSE Sensex added 1.54% to 73,033.78.\nThe Indian rupee rose to 95.28 per dollar, marking its second consecutive session of recovery, as the",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Apple to unveil new smart home products, showcasing updated Siri AI",
+      "url": "https://www.brecorder.com/news/40443997/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai",
+      "published": "2026-10-13T15:35:44+05:00",
+      "summary": "NEW YORK: Apple on Tuesday is expected to show off a new round of smart home products, including an iPad-like device meant to hang on walls or perch on tabletops that will showcase its AI-upgraded Siri virtual assistant.\nThe devices will help users control doorbells, thermostats, and smart locks in a market where Apple has tinkered for a decade without major success. The devices could also include",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "India rupee outpaces Asian peers on fresh FX curbs, RBI intervention",
+      "url": "https://www.brecorder.com/news/40443996/india-rupee-outpaces-asian-peers-on-fresh-fx-curbs-rbi-intervention",
+      "published": "2026-10-13T15:30:16+05:00",
+      "summary": "MUMBAI: The Indian rupee outperformed its regional peers on Tuesday, boosted by new central bank measures to alleviate pressure on the Asian currency and likely spot market intervention that magnified their impact.\nThe Indian currency rose to a peak of 95.0725 per dollar in early trading before trimming gains to settle at 95.28, up 0.5% from the previous close.\nThe Reserve Bank of India has taken ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "India postpones UPI payment fee rollout until after Diwali festival",
+      "url": "https://www.brecorder.com/news/40443995/india-postpones-upi-payment-fee-rollout-until-after-diwali-festival",
+      "published": "2026-10-13T15:18:53+05:00",
+      "summary": "MUMBAI: India has postponed the rollout of a fee on large payments via its popular Unified Payments Interface platform until after the Diwali festival, the National Payments Corporation of India (NPCI) said on Tuesday.\nA 0.4% charge for merchants on transactions exceeding 2,000 rupees ($21) was scheduled to take effect on October 15.\nThe deferral is “keeping in mind the festive season”, and the fe",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Gold gains Rs900 per tola in Pakistan",
+      "url": "https://www.brecorder.com/news/40443993/gold-per-tola-gains-rs500",
+      "published": "2026-10-13T14:48:49+05:00",
+      "summary": "Gold prices in Pakistan increased on Tuesday in line with their gain in the international market. In the local market, gold price per tola reached Rs440,836 after a gain of Rs900 during the day.\nSimilarly, 10-gram gold was sold at 377,945 after it increased by Rs771, according to rates shared by the All-Pakistan Gems and Jewellers Sarafa Association (APGJSA).\nOn Monday, gold price per tola reached",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "European stocks hit one-week high on easing oil, yields; LVMH drags luxury stocks",
+      "url": "https://www.brecorder.com/news/40443992/european-stocks-hit-one-week-high-on-easing-oil-yields-lvmh-drags-luxury-stocks",
+      "published": "2026-10-13T14:36:34+05:00",
+      "summary": "European shares rose to a one-week high on Tuesday as lower oil prices and falling bond yields lifted appetite, although disappointing results from luxury bellwether LVMH pressured the sector.\nThe pan-European STOXX 600 was up 0.61% at 639.54 points by 0849 GMT, to its highest since October 6.\nLondon’s FTSE 100 rose about 0.8%, the biggest gainer among regional indexes, boosted by financials.\nOil ",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Eleven sailors missing after drone sinks ship off Bulgaria",
+      "url": "https://www.brecorder.com/news/40443987/eleven-sailors-missing-after-drone-sinks-ship-off-bulgaria",
+      "published": "2026-10-13T14:31:39+05:00",
+      "summary": "SOFIA: Eleven sailors were missing at sea on Tuesday from a ship sunk by a drone attack off the ​coast of Bulgaria, the second deadly sinking of a cargo vessel in the area in a ‌week, prompting Bulgaria to summon Russia’s ambassador.\nTwo cargo ships were hit by drones overnight and one was sunk, Bulgarian officials said. Bulgaria stopped short of explicitly accusing Russia of carrying out the atta",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "Engro Powergen Qadirpur appoints Khurram Abdullah as CEO, Athar Khwaja resigns",
+      "url": "https://www.brecorder.com/news/40443991/engro-powergen-qadirpur-appoints-khurram-abdullah-as-ceo-athar-khwaja-resigns",
+      "published": "2026-10-13T14:28:10+05:00",
+      "summary": "Engro Powergen Qadirpur Limited (EPQL), a subsidiary of Engro Energy Limited, on Tuesday has appointed Khurram Abdullah as chief executive officer with effect from October 15, replacing Athar Abrar Khwaja, who has resigned from the role and joined the company’s board as a director.\nThe listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on\n“The Board of Direct",
+      "source": "Business Recorder"
+    },
+    {
+      "symbol": "_macro",
+      "title": "'No choice': IMF says developing countries must cut spending despite Iran war shock",
+      "url": "https://www.dawn.com/news/2036858/no-choice-imf-says-developing-countries-must-cut-spending-despite-iran-war-shock",
+      "published": "2026-10-13T13:42:20+05:00",
+      "summary": "The International Monetary Fund (IMF) warned on Tuesday that while low-income developing countries were dealing with the disproportionate impacts of the Iran war-fuelled energy shock, many had “no choice” but to cut spending or potentially face debt restructuring.\nSpeaking to AFP on the sidelines of the organisation’s Annual Meetings in Bangkok, IMF deputy director of research, Petya Koeva Brooks,",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "KE secures interim relief from Sindh High Court in NEPRA tariff dispute",
-      "url": "https://www.brecorder.com/news/40443273/ke-secures-interim-relief-from-sindh-high-court-in-nepra-tariff-dispute",
-      "published": "2026-10-08T15:36:29+05:00",
-      "summary": "The Sindh High Court has suspended NEPRA Appellate Tribunal judgments and related tariff notifications on K-Electric’s petition.\nThe listed power utility disclosed in a filing to the Pakistan Stock Exchange (PSX) on Thursday that the court issued ad-interim orders on October 7.\n“In continuation of the disclosure made by K-Electric Limited (KEL) on 24th September 2026, it is further informed that t",
+      "title": "Ronaldo on target as Al-Nassr win after security delay",
+      "url": "https://www.brecorder.com/news/40443990/ronaldo-on-target-as-al-nassr-win-after-security-delay",
+      "published": "2026-10-13T13:31:05+05:00",
+      "summary": "Cristiano Ronaldo scored Al-Nassr’s second goal as the Saudi Pro League champions overcame an hour-long security delay to beat Uzbekistan’s Neftchi 3-1 in the AFC Champions ​League Elite on Monday.\nKick-off was delayed after Saudi Arabia’s Civil Defence issued a safety ‌warning 15 minutes before the scheduled start time in Riyadh, which has been targeted by missiles fired from Yemen-based Houthis ",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Gold price increase by Rs600 per tola in Pakistan",
-      "url": "https://www.brecorder.com/news/40443271/gold-price-drops-by-rs2700-per-tola-in-pakistan",
-      "published": "2026-10-08T14:53:13+05:00",
-      "summary": "Gold prices in Pakistan increased on Thursday in line with their gain in the international market. In the local market, gold price per tola reached Rs435,036 after a gain of Rs600 during the day.\nSimilarly, 10-gram gold was sold at Rs372,973 after it accumulated  Rs515, according to rates shared by the All-Pakistan Gems and Jewellers Sarafa Association (APGJSA).\nOn Wednesday, gold price per tola c",
+      "title": "Swiatek aiming to end year on a positive note as WTA Finals spot hangs in balance",
+      "url": "https://www.brecorder.com/news/40443989/swiatek-aiming-to-end-year-on-a-positive-note-as-wta-finals-spot-hangs-in-balance",
+      "published": "2026-10-13T13:27:41+05:00",
+      "summary": "Iga Swiatek has played at every edition of the WTA Finals since 2021, but with the Pole running out of time to claim ​a place at this year’s season-ending tournament she knows the importance ‌of going deep at her few remaining events.\nThe six-time major champion has won only one tournament this year at the Canadian Open in August and failed to advance beyond the quarter-final stage ​at all four Gr",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Govt says World Bank poverty figures reflect regional reclassification",
-      "url": "https://www.brecorder.com/news/40443270/govt-says-world-bank-poverty-figures-reflect-regional-reclassification",
-      "published": "2026-10-08T14:21:11+05:00",
-      "summary": "The government on Thursday said that the World Bank’s finding that the country accounts for nearly half of the extreme poor in its newly defined Middle East, North Africa, Afghanistan and Pakistan (MENAAP) region partly reflects a change in the lender’s statistical grouping rather than a shift in Pakistan’s geographical or economic classification.\nAdviser to the Finance Minister Khurram Schehzad s",
+      "title": "At least four killed, dozens injured as Rehman Baba Express derails near Multan",
+      "url": "https://www.brecorder.com/news/40443982/at-least-four-killed-dozens-injured-as-rehman-baba-express-derails-near-multan",
+      "published": "2026-10-13T13:25:26+05:00",
+      "summary": "At least four passengers were killed and dozens others injured when 14 coaches of the Rehman Baba Express, travelling from Karachi to Peshawar, derailed near Sher Shah railway station in Multan on Tuesday.\nAccording to a Pakistan Railways information officer, initial reports put the number of injured passengers at 30. Rescue 1122, however, reported 53 victims, including four fatalities and 49 inju",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "European shares dip as banks hit over 3-month low, oil prices weigh",
-      "url": "https://www.brecorder.com/news/40443269/european-shares-dip-as-banks-hit-over-3-month-low-oil-prices-weigh",
-      "published": "2026-10-08T13:45:46+05:00",
-      "summary": "European shares fell on Thursday as banks slid to a more than three-month low, while a fresh bond selloff and elevated oil prices stoked fears that higher inflation could hurt economic growth.\nThe pan-European STOXX 600 index was down 0.9% to 624.24 points, as of 0723 GMT.\nEuropean banks dropped nearly 2%, with Deutsche Bank , Banco Santander, Societe Generale and Unicredit all falling for a secon",
+      "title": "Govt says Khyber Pakhtunkhwa emergency aimed at unified counterterrorism policy",
+      "url": "https://www.brecorder.com/news/40443988/govt-says-khyber-pakhtunkhwa-emergency-aimed-at-unified-counterterrorism-policy",
+      "published": "2026-10-13T13:22:20+05:00",
+      "summary": "Federal ministers on Tuesday defended the imposition of emergency rule in Khyber Pakhtunkhwa, saying the move was taken under the Constitution in response to rising terrorism and the failure of efforts to reach an agreement with the provincial government on a joint counterterrorism strategy.\nAddressing a news conference for foreign media representatives, Law Minister Azam Nazeer Tarar and Informat",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "T20 ties have softened on-field rivalries, says Harmer",
-      "url": "https://www.brecorder.com/news/40443268/t20-ties-have-softened-on-field-rivalries-says-harmer",
-      "published": "2026-10-08T13:16:55+05:00",
-      "summary": "DURBAN: South Africa spinner Simon Harmer expects none of the animosity of Australia’s last Test tour to South Africa to resurface in the three-match series between the two ​countries, which gets underway at Kingsmead on Friday.\nAustralia are playing their first Test ‌series in South Africa since the 2018 “Sandpapergate” scandal, when the tourists used sandpaper to illegally alter the condition of",
+      "title": "EU chief condemns latest attacks on ships off Bulgaria",
+      "url": "https://www.brecorder.com/news/40443986/eu-chief-condemns-latest-attacks-on-ships-off-bulgaria",
+      "published": "2026-10-13T13:16:24+05:00",
+      "summary": "BRUSSELS: EU chief Ursula von der Leyen condemned the latest attacks on merchant ships off Bulgaria’s coast on Tuesday, calling them “another front of escalation of the Russian war in Ukraine”.\n“We stand with Bulgaria and thank its rescuers for their swift response. Those responsible should be held accountable,” she posted on social media.\nBulgaria Prime Minister Rumen Radev confirmed earlier that",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Starc compares Australia's daunting year to McIlroy's major sweep",
-      "url": "https://www.brecorder.com/news/40443267/starc-compares-australias-daunting-year-to-mcilroys-major-sweep",
-      "published": "2026-10-08T13:13:53+05:00",
-      "summary": "Australia’s ageing test side face a defining year with tours of South Africa, India and England, and pace spearhead Mitchell Starc said winning all three ​series and retaining the one-day World Cup would be the equivalent ‌of Rory McIlroy winning golf’s four majors in a single season.\nAustralia begin the daunting 12-month stretch with a three-test series against South Africa in Durban on Friday, b",
+      "title": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say",
+      "url": "https://www.brecorder.com/news/40443985/eight-people-hurt-in-supermarket-stabbing-in-south-koreas-incheon-police-say",
+      "published": "2026-10-13T12:21:03+05:00",
+      "summary": "SEOUL: Eight people were wounded in ​a stabbing incident at a supermarket ‌in the South Korean city of Incheon on Tuesday, with one person suffering cardiac ​arrest, police said.\nOfficers responding to the ​scene arrested a male suspect ⁠and were investigating the motive ​and circumstances of the attack, a ​police spokesperson said by telephone.\nIncheon, west of Seoul, is home to South ​Korea’s ma",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Portugal jumps into top 5 of FIFA world rankings",
-      "url": "https://www.brecorder.com/news/40443266/portugal-jumps-into-top-5-of-fifa-world-rankings",
-      "published": "2026-10-08T13:10:33+05:00",
-      "summary": "Portugal was the only team that moved up in the top 10 of the updated FIFA/Coca-Cola World Rankings ​on Wednesday, climbing two spots to No. 5.\nBrazil ‌and Morocco each fell one spot in the only other changes within the top 10, after each drew a friendly during the ​just-concluded international window. Portugal won all four UEFA ​Nations League matches during this window, beating Norway ⁠twice and",
+      "title": "Indian police detain 'cockroach' movement leaders demanding election chief's resignation",
+      "url": "https://www.brecorder.com/news/40443984/indian-police-detain-cockroach-movement-leaders-demanding-election-chiefs-resignation",
+      "published": "2026-10-13T12:16:29+05:00",
+      "summary": "NEW DELHI: Top leaders of India’s “cockroach” youth movement were detained ​on Tuesday after they jumped barricades to enter the grounds of a historic observatory popular ‌for protests, chanting slogans demanding the chief election commissioner’s resignation over a controversial revision of voter lists.\nSupporters of the Cockroach Janta Party (CJP) and opposition groups have held almost daily prot",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Pakistan expects early EV target amid oil price surge: report",
-      "url": "https://www.brecorder.com/news/40443265/pakistan-expects-early-ev-target-amid-oil-price-surge-report",
-      "published": "2026-10-08T13:09:34+05:00",
-      "summary": "Amid the growing popularity of electric vehicles (EVs), Pakistan expects to reach its EV adoption target ahead of schedule as consumers increasingly switch from petrol- or diesel-powered cars.\n“I feel that the target we had set in our electric-vehicle policy last year, we will achieve it much earlier as the rise in oil prices has brought cost recovery of EVs to one to one-and-a-half year,” Haroon ",
+      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says",
+      "url": "https://www.brecorder.com/news/40443983/ai-investment-props-up-global-growth-but-war-and-debt-threaten-outlook-imf-says",
+      "published": "2026-10-13T12:07:28+05:00",
+      "summary": "BANGKOK: The global economy will still manage to top 3% real GDP growth this year as strong AI investment offsets the energy ​shock from the war in the Middle East, but downside risks are mounting and more countries are being left behind and vulnerable to rising debt loads, the International Monetary Fund said on Tuesday.\nDespite a more protracted ‌conflict that has kept oil prices above $100 a ba",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Ronaldo hails Messi after Argentina great says he already misses national team",
-      "url": "https://www.brecorder.com/news/40443264/ronaldo-hails-messi-after-argentina-great-says-he-already-misses-national-team",
-      "published": "2026-10-08T13:04:42+05:00",
-      "summary": "Portugal captain Cristiano Ronaldo set aside one of soccer’s great rivalries on Wednesday to pay tribute to Lionel Messi after the Argentine said he already missed representing ​his country following his emotional international retirement.\nMessi, 39, delivered one final masterclass in ‌Argentina’s blue and white on Tuesday, scoring once and setting up two goals in a 3-0 friendly win over Benin bef",
+      "title": "'Breaking Bad' actor and disability rights activist RJ Mitte dead at 34",
+      "url": "https://www.brecorder.com/news/40443981/breaking-bad-actor-and-disability-rights-activist-rj-mitte-dead-at-34",
+      "published": "2026-10-13T11:58:48+05:00",
+      "summary": "LOS ANGELES: Actor RJ Mitte, whose personal experience living with cerebral palsy informed ​his role as Walter White Jr, the physically disabled son of a methamphetamine kingpin in the landmark television series “Breaking Bad,” died on Monday ‌at age 34.\nNews of Mitte’s death in Brownsville, Texas, was announced in a statement released through his talent management agency. A publicist for the acto",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "US wants a 'strong Europe': Rubio",
-      "url": "https://www.brecorder.com/news/40443263/us-wants-a-strong-europe-rubio",
-      "published": "2026-10-08T12:55:39+05:00",
-      "summary": "ATHENS: US Secretary of State Marco Rubio on Thursday said Washington wanted strong allies in Europe as he headed to Portugal for the last leg of a four-day European trip.\n“We want our allies to be strong. The stronger they are, the stronger we are collectively…We want a strong Europe. We want strong partners in Europe,” Rubio told reporters at Athens airport.\n“The stronger the individual members ",
+      "title": "IMF sees Pakistan's inflation rising to 9.9% in 2027 as growth slows",
+      "url": "https://www.brecorder.com/news/40443980/imf-sees-pakistans-inflation-rising-to-99-in-2027-as-growth-slows",
+      "published": "2026-10-13T11:56:19+05:00",
+      "summary": "Pakistan’s inflation rate is projected to rise to 9.9% in 2027, while economic growth is expected to ease to 3.5%, according to data released by the International Monetary Fund’s (IMF) World Economic Outlook (WEO) released on Tuesday.\nThe IMF data showed inflation at 7.1% in 2026, up from 4.5% in 2025. Pakistan’s gross domestic product (GDP) growth is projected at 3.6% in 2026, compared with 3.2% ",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Australian shares slip on Fortescue-led miner selloff; banks limit losses",
-      "url": "https://www.brecorder.com/news/40443262/australian-shares-slip-on-fortescue-led-miner-selloff-banks-limit-losses",
-      "published": "2026-10-08T11:49:24+05:00",
-      "summary": "Australian shares fell on Thursday after a selloff in miners following Fortescue’s weak preliminary quarterly update, combined with investor caution after US Federal Reserve minutes showed officials were divided over further rate hikes.\nThe S&amp;P/ASX 200 index fell 0.4% to 8,693.30 points by 2328 GMT, after ending 0.1% lower on Wednesday.\nFed minutes highlighted growing debate among policymakers",
+      "title": "Hong Kong dollar nears weak end of trading band, HKMA intervention looms",
+      "url": "https://www.brecorder.com/news/40443979/hong-kong-dollar-nears-weak-end-of-trading-band-hkma-intervention-looms",
+      "published": "2026-10-13T11:54:08+05:00",
+      "summary": "SHANGHAI/HONG KONG: The Hong Kong dollar edged towards the weak side of its trading band at 7.85 per US dollar on Tuesday, a level that could prompt the Hong Kong Monetary Authority (HKMA) to step in and buy the local currency to defend its peg.\nThe Hong Kong dollar is pegged to a tight band of between 7.75 and 7.85 versus the US currency.\nThe currency was trading at 7.8475 per dollar as of 0325 G",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "South Korea shares on track for second weekly decline as chipmakers drag",
-      "url": "https://www.brecorder.com/news/40443261/south-korea-shares-on-track-for-second-weekly-decline-as-chipmakers-drag",
-      "published": "2026-10-08T11:39:44+05:00",
-      "summary": "SEOUL: Round-up of South Korean financial markets:\n South Korean shares fell on Thursday and were headed for a second weekly loss in a holiday-shortened week, hurt by weakness in chipmakers and inflation concerns fuelled by higher oil prices.\nThe won firmed, while the benchmark bond yield fell.  The benchmark KOSPI was down 59.48 points, or 0.87%, at 6,744.42 as of 0058 GMT.\nFor the week, the inde",
+      "title": "Explosion heard in Ukraine's Kyiv, Reuters witness says",
+      "url": "https://www.brecorder.com/news/40443978/explosion-heard-in-ukraines-kyiv-reuters-witness-says",
+      "published": "2026-10-13T11:50:09+05:00",
+      "summary": "An explosion was heard in Ukraine’s capital of Kyiv in the early hours of Tuesday, a Reuters witness said.\nRussia hit at least six energy targets during airstrikes across Ukraine on Monday.\nRussia strikes Ukraine’s Kyiv in fresh wave of attacks\nThree bodies were pulled from the rubble in the northeastern city of Kharkiv following the Monday attack, Mayor Ihor Terehov said on Telegram on Tuesday.",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "India bonds may weaken mildly after RBI hike; 10-year yield seen near 7.25%",
-      "url": "https://www.brecorder.com/news/40443260/india-bonds-may-weaken-mildly-after-rbi-hike-10-year-yield-seen-near-725",
-      "published": "2026-10-08T11:37:36+05:00",
-      "summary": "MUMBAI: Indian government bonds may continue to weaken in early deals on Thursday, a day after the central bank raised interest rates for the first time in nearly four years and shifted its stance to suggest that more hikes were likely.\nThe benchmark 6.94% 2036 bond yield may trade in a 7.21%-7.25% band, a trader with a primary dealership said, after ending at 7.2410% on Wednesday.\nBond yields ris",
+      "title": "IMF sees higher energy prices and interest rates hitting UK growth",
+      "url": "https://www.brecorder.com/news/40443977/imf-sees-higher-energy-prices-and-interest-rates-hitting-uk-growth",
+      "published": "2026-10-13T11:48:29+05:00",
+      "summary": "BANGKOK: Higher energy prices and a rise in long-term interest rates are likely to weigh on British economic growth next year, the International Monetary Fund warned on Tuesday, even as it revised up its forecast for expansion this year.\nThe IMF predicts Britain’s economy will grow 1.3% this year, up from predictions of 1.0% in July and 0.8% in April, before slowing to 1.2% growth in 2027, putting",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Japan shares extend losses as rate uncertainty, geopolitical woes curb appetite",
-      "url": "https://www.brecorder.com/news/40443259/japan-shares-extend-losses-as-rate-uncertainty-geopolitical-woes-curb-appetite",
-      "published": "2026-10-08T11:36:13+05:00",
-      "summary": "TOKYO: Japanese shares fell roughly 1% on Thursday, down for a second consecutive session, as investors paused after recent rallies, wary of the US rate outlook and geopolitical tensions.\nThe Nikkei 225 Index fell 0.9% to 69,366.14, while the broader Topix slid 1.54% to 4,090.19.\n“Japanese shares had risen at a rapid pace through yesterday, and profit-taking has since picked up.\nThat selling press",
+      "title": "Japan bond yields diverge as investors weigh inflation, BOJ outlook",
+      "url": "https://www.brecorder.com/news/40443976/japan-bond-yields-diverge-as-investors-weigh-inflation-boj-outlook",
+      "published": "2026-10-13T11:43:20+05:00",
+      "summary": "TOKYO: Japanese government bond (JGB) yields moved in opposite directions on Tuesday, with shorter-term yields edging higher while the long end declined as investors weighed persistent inflation signals and the central bank’s policy outlook.\n The 2-year yield, the tenor most sensitive to Bank of Japan policy rates, rose 1 basis point (bp) to 1.915%, while the 5-year yield climbed 1.5 bps to 2.350%",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "TPL Insurance changes name to JazzSure",
-      "url": "https://www.brecorder.com/news/40443258/tpl-insurance-changes-name-to-jazzsure",
-      "published": "2026-10-08T11:35:02+05:00",
-      "summary": "TPL Insurance Limited has been renamed JazzSure Insurance Limited effective October 7, after Jazz International Holding Limited, a VEON subsidiary, acquired a 76.33% controlling stake on July 13, the company said.\nThe listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Thursday.\n“Consequent upon completion of the acquisition on 13th July 2026 of a controlli",
+      "title": "South Korea shares tumble over 6% as chip selloff triggers trading curb",
+      "url": "https://www.brecorder.com/news/40443975/south-korea-shares-tumble-over-6-as-chip-selloff-triggers-trading-curb",
+      "published": "2026-10-13T11:41:41+05:00",
+      "summary": "SEOUL: South Korea’s benchmark KOSPI index plunged over 6% on Tuesday, triggering a temporary trading curb, after US memory-chip maker Micron Technology fell overnight on reports of rapid tech advances by Chinese rival ChangXin Memory Technologies (CXMT).\nThe Korea Exchange halted programme sell orders for five minutes at 9:47 a.m. local time after the KOSPI 200 futures index fell 5.08%, or 51.20 ",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Dalian iron ore hits 15-month low on thin steel margins",
-      "url": "https://www.brecorder.com/news/40443257/dalian-iron-ore-hits-15-month-low-on-thin-steel-margins",
-      "published": "2026-10-08T11:32:03+05:00",
-      "summary": "Dalian iron ore prices touched a 15-month low on Thursday, the first working day after a week-long holiday break in top consumer China, weighed down by concerns over demand prospects amid weak steel margins.\nBy 0204 GMT, the most-traded iron ore contract on China’s Dalian Commodity Exchange (DCE) fell 1.85% to 691.5 yuan ($103.19) a metric ton, the weakest since June 2025.\nSome Chinese steelmakers",
+      "title": "Bank of England's Greene says IMF forecasts show UK monetary policy not very restrictive",
+      "url": "https://www.brecorder.com/news/40443974/bank-of-englands-greene-says-imf-forecasts-show-uk-monetary-policy-not-very-restrictive",
+      "published": "2026-10-13T11:39:26+05:00",
+      "summary": "BANGKOK: The International Monetary Fund’s upward revision to its forecast for British economic growth this year adds to signs that Bank of England interest rates are not very restrictive, BoE policymaker Megan Greene said on Tuesday.\nGreene – who is part of a minority on the BoE’s Monetary Policy Committee that has voted for higher rates – restated her view that the dangers of keeping rates on ho",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Thai baht/US dollar little changed on Thursday",
-      "url": "https://www.brecorder.com/news/40443256/thai-bahtus-dollar-little-changed-on-thursday",
-      "published": "2026-10-08T11:29:48+05:00",
-      "summary": "BANGKOK: The Thai baht was steady against the US dollar on Thursday.\nAt 0214 GMT, the baht was 0.08% higher at 33.60 versus the dollar, after trading in a range of 33.610 to 33.660.\nIt ended the previous session at 33.63 per dollar, as per LSEG data.",
+      "title": "Philippines raises $404 million from T-bond offer",
+      "url": "https://www.brecorder.com/news/40443973/philippines-raises-404-million-from-t-bond-offer",
+      "published": "2026-10-13T11:37:31+05:00",
+      "summary": "MANILA: Following are results of the Philippine Bureau of the Treasury’s auction of T-bonds on Tuesday:\nPartially awards 25.38 billion pesos ($404.33 million), below 35 billion pesos offer, of which:\nAwards 15.42 billion pesos offer of reissued 2030 T-bonds at an average rate of 7.678%.\nAwards 9.96 billion pesos offer of reissued 2050 T-bonds at an average rate of 8.002%.\nTenders total 40.97 billi",
       "source": "Business Recorder"
     },
     {
       "symbol": "_macro",
-      "title": "Australia, NZ dollars on defensive as spreads shrink",
-      "url": "https://www.brecorder.com/news/40443255/australia-nz-dollars-on-defensive-as-spreads-shrink",
-      "published": "2026-10-08T11:25:37+05:00",
-      "summary": "SYDNEY: The Australian and New Zealand dollars were back on the defensive on Thursday as jitters in European debt markets benefited the super-liquid greenback most, while adding to pressure on local bonds.\nConcerns about French deficits widened the spread between French and German 10-year bond yields to the largest since 2012, with the strain spreading to Italian and Greek bonds overnight.\nThe str",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Palm rises about 2% on India demand hopes, stronger crude, Dalian",
-      "url": "https://www.brecorder.com/news/40443254/palm-rises-about-2-on-india-demand-hopes-stronger-crude-dalian",
-      "published": "2026-10-08T11:24:30+05:00",
-      "summary": "KUALA LUMPUR: Malaysian palm oil futures rosenearly 2% on Thursday, after two consecutive losses, as expectations of increased Indian purchases, stronger crude oil prices, and firmer rival Dalian oils boosted sentiment.\nThe benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange gained 81 ringgit, or 1.79%, to 4,605 ringgit ($1,127.57) a metric ton in early tra",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Award-winning Kashmiri filmmaker Arfat Sheikh detained by US immigration authorities",
-      "url": "https://www.brecorder.com/news/40443253/award-winning-kashmiri-filmmaker-arfat-sheikh-detained-by-us-immigration-authorities",
-      "published": "2026-10-08T11:23:02+05:00",
-      "summary": "WASHINGTON: An award-winning filmmaker whose work has ​explored conflict in his native Kashmir has been detained by US immigration officials after ‌legally coming to the United States to study and later claiming asylum, his family and friends said on Wednesday.\nThe Department of Homeland Security separately confirmed on Wednesday that Arfat Sheikh was arrested on September 24. The department said ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Soybeans, corn rebound on higher oil prices; US harvest caps upside",
-      "url": "https://www.brecorder.com/news/40443252/soybeans-corn-rebound-on-higher-oil-prices-us-harvest-caps-upside",
-      "published": "2026-10-08T11:08:32+05:00",
-      "summary": "SINGAPORE: Chicago soybeans and corn firmed on Thursday, recouping some of the previous session’s losses as higher oil prices and positioning ahead of a monthly agricultural supply-demand report underpinned prices.\nWheat eased, though a lack of supplies from the Black Sea region amid the Russia-Ukraine war limited losses.\n“This is typical time of the year when we see pressure on prices because of ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Yuan steady despite dollar strength during China's Golden Week holiday",
-      "url": "https://www.brecorder.com/news/40443251/yuan-steady-despite-dollar-strength-during-chinas-golden-week-holiday",
-      "published": "2026-10-08T11:06:32+05:00",
-      "summary": "SHANGHAI: China’s onshore yuan was steady on Thursday as mainland markets reopened after a week-long holiday during which the Chinese currency strengthened offshore despite a strong dollar.\nThe yuan has gained nearly 9% against the dollar since late 2024 in a seven-quarter rising streak buoyed by robust exports and policies designed to attract foreign inflows.\nDespite the dollar index climbing hig",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "India's central bank likely intervened near open to support rupee, traders say",
-      "url": "https://www.brecorder.com/news/40443249/indias-central-bank-likely-intervened-near-open-to-support-rupee-traders-say",
-      "published": "2026-10-08T11:02:04+05:00",
-      "summary": "MUMBAI: The Reserve Bank of India likely sold dollars near the market open on Thursday to support the rupee, four traders said, with the currency within striking distance of its all-time low.\nThe rupee opened stronger at 96.6825 per dollar firmer than market indications of an opening near 96.80, amid signs of RBI intervention.\nThe currency’s all-time low is 96.96, hit in May.‑Reuters",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Malaysia PM says he will do whatever possible to ensure Myanmar's acceptance in regional community",
-      "url": "https://www.brecorder.com/news/40443248/malaysia-pm-says-he-will-do-whatever-possible-to-ensure-myanmars-acceptance-in-regional-community",
-      "published": "2026-10-08T10:56:31+05:00",
-      "summary": "KUALA LUMPUR: Malaysian Prime Minister Anwar Ibrahim said his government would do “whatever possible” to work with Myanmar and ensure the war-torn nation can be fully re-integrated into the Southeast Asian ASEAN bloc, following a meeting with Myanmar’s military-backed leader Min Aung Hlaing on Thursday.\nThe former junta chief is on a two-day visit to Malaysia as he looks for greater international ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "MSC restores Karachi-Europe shipping link amid exporter concerns over freight costs",
-      "url": "https://www.brecorder.com/news/40443247/msc-restores-karachi-europe-shipping-link-amid-exporter-concerns-over-freight-costs",
-      "published": "2026-10-08T10:54:09+05:00",
-      "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry on Thursday said that direct shipping connectivity between Karachi and major European ports had been restored, providing relief to exporters facing longer transit times and increased freight costs due to disruptions on international shipping routes, read a statement.\nThe minister said Mediterranean Shipping Company (MSC) had rein",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Copper rallies on mine supply fears, China's return from holiday",
-      "url": "https://www.brecorder.com/news/40443246/copper-rallies-on-mine-supply-fears-chinas-return-from-holiday",
-      "published": "2026-10-08T10:53:06+05:00",
-      "summary": "SINGAPORE: Copper prices gained on Thursday, supported by expectations of Chinese restocking after the National Day holiday and concerns about supply from key mines.\nBenchmark three-month copper on the London Metal Exchange was up 0.96% at $14,614.5 a metric ton by 0300 GMT.\nEarlier, it touched $14,646.5 a ton, its highest in nearly two weeks.\nThe most-traded copper contract on the Shanghai Future",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "QatarEnergy offers naphtha for loading inside Hormuz via tender, traders say",
-      "url": "https://www.brecorder.com/news/40443245/qatarenergy-offers-naphtha-for-loading-inside-hormuz-via-tender-traders-say",
-      "published": "2026-10-08T10:50:38+05:00",
-      "summary": "NEW DELHI: QatarEnergy has issued a spot tender offering up to 50,000 metric tons of naphtha on a free-on-board basis from Ras Laffan port inside the Strait of Hormuz, multiple traders who participate in the market said on Thursday.\nThe cargo is scheduled to load between October 20 and 25.\nBidders can submit quotes by 1100 GMT on Thursday.\nThe state-owned refiner’s last naphtha tender was awarded ",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Alcaraz, Sinner among stars locked in for Australian Open 1 Point Slam",
-      "url": "https://www.brecorder.com/news/40443244/alcaraz-sinner-among-stars-locked-in-for-australian-open-1-point-slam",
-      "published": "2026-10-08T10:47:41+05:00",
-      "summary": "MELBOURNE: Defending Australian Open champion Carlos Alcaraz will headline the popular AO 1 Point Slam alongside Jannik Sinner, Coco Gauff and Naomi Osaka next year as top professionals take on amateurs again for a million-dollar payday ahead of the Grand Slam.\nThe event, part of the Australian Open’s opening week, sees professionals and amateurs battle in a knockout contest where a game of ‘Rock,",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "At least 32 killed in Ukraine, Zelenskiy condemns one of Russia's most 'vile strikes'",
-      "url": "https://www.brecorder.com/news/40443243/at-least-32-killed-in-ukraine-zelenskiy-condemns-one-of-russias-most-vile-strikes",
-      "published": "2026-10-08T10:44:12+05:00",
-      "summary": "KYIV: Russia pounded Ukraine with waves of missiles and drones in one of its most “vile strikes” on Wednesday, President Volodymyr Zelenskiy said, killing at least 32 people, including children, and damaging industrial facilities and energy infrastructure.\nThe heaviest losses were in Pryluky in Ukraine’s northern Chernihiv region, where a Russian missile destroyed a five-storey residential buildin",
-      "source": "Business Recorder"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Pakistan, IMF reach staff-level agreement for $1.2bn tranche",
-      "url": "https://www.dawn.com/news/2035602/pakistan-imf-reach-staff-level-agreement-for-12bn-tranche",
-      "published": "2026-10-08T10:40:17+05:00",
-      "summary": "ISLAMABAD: The International Monetary Fund (IMF) on Thursday reached a staff-level agreement (SLA) with the Pakistani authorities on the fourth review under the $7 billion Extended Fund Facility (EFF) and the third review under the $1.4bn Resilience and Sustainability Facility (RSF), qualifying Pakistan to draw about $1.2bn from the Fund’s resources within four to five weeks.\n“The IMF team has rea",
-      "source": "Dawn Business"
-    },
-    {
-      "symbol": "LUCK",
-      "title": "Lucky Cement led consortium submits bid interest for Pakistan's GEPCO privatization - Bol News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzhZeHFtZHZGWXRpWEdjMDVlQkZkcW9fcDAxbkl6bGtZMDBxYkdtMFRFSWdMVTZ4VGtFeFFSd1Z1MEd3aEo2YkY1WW9MUXNlWEJZdEstREtuUWgtNzFfaF9tNFpla0djLXF2M2RwX050aGhiVFkzYTVyd25KMWVteExoYTMzNWFINjBpVGdjN1NIX1lhNEwweXdwLW1xcDlvVFdiSkV4Rm9jR0hGR19hV0ZzZDdOZw?oc=5",
-      "published": "2026-10-08T10:34:27+00:00",
-      "summary": "Lucky Cement led consortium submits bid interest for Pakistan's GEPCO privatization&nbsp;&nbsp;Bol News",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "KEL",
-      "title": "Court Temporarily Suspends NEPRA Ruling Against K-Electric - ProPakistani",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHJjT3NHVW5YX1JDT0RzSFRjRFFoWGN5NnBUYjFNbl95b2VIWENJQnFGbHo2WFZZUGtMUGxLMkpVU1pSekM4U210TE5JaUZRN29TSjdBZTFxYXZNRm5IenZ5UWFaTWp0VW1BTWZUekNBV3Vfb1RLOVVjMGc0Qk1BMHh4ZF9DUHMzUXdtWHVPLUtnN3ZwcVQ5eUZn0gGfAUFVX3lxTE9NZkpOZGJFZjdkSXhuR2F6TEw3Z1hjOFBPUDZ6TE56dlNZSlBJVjhYOUJwMGlhcGhKT2VrVjdUeWh3UTFRSkN5RUJqMUwxdmRDYUp6ajJpZjV0VDNxckhZZjIzMmJSWnhYcF81MHFaSWVicG5YSXBFY0Z4aVFWTjA3X2NGWlRjeDlFVGRzQ3RVQ29Pb3ctV3hybmZpU0hSNA?oc=5",
-      "published": "2026-10-08T09:06:04+00:00",
-      "summary": "Court Temporarily Suspends NEPRA Ruling Against K-Electric&nbsp;&nbsp;ProPakistani",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "KEL",
-      "title": "Sindh High Court suspends NEPRA tariff orders against K-Electric - Profit by Pakistan Today",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWw1Y3o4cDNTWVA4YzFFdDJtZUpQNVlhUkZUYW51SEw1NE04MXZnRnFpM0d5cGwwY2pMMGZ6VklUTzNRUXkyUFg1QlpwUWZNSWtCdE9RVHpGUTQyY1RCY1FqeE1hbVJCNDJ3a0JkTjhVQ2R0Y2h5UlFRQWgwaG1EWHhjTmJLdW1mM05kUHZpeG10clljWk9BMG43elRSWUxRbngtUFJMenBmaF9yaGNPag?oc=5",
-      "published": "2026-10-08T08:55:51+00:00",
-      "summary": "Sindh High Court suspends NEPRA tariff orders against K-Electric&nbsp;&nbsp;Profit by Pakistan Today",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Equities eke out gains in volatile session",
-      "url": "https://www.dawn.com/news/2035518/equities-eke-out-gains-in-volatile-session",
-      "published": "2026-10-08T08:14:50+05:00",
-      "summary": "KARACHI: The Pakistan Stock Exchange (PSX) witnessed extreme volatility on Wednesday. It opened in positive territory, extending the previous session’s bullish momentum, but mid-session profit-taking pushed the benchmark KSE-100 index into the red.\nThe index recovered on value-hunting toward the close, ending with a marginal gain as regional and political uncertainty weighed on investor sentiment.",
+      "title": "PM sets Rs2.2tr SME financing target by 2028",
+      "url": "https://www.dawn.com/news/2036763/pm-sets-rs22tr-sme-financing-target-by-2028",
+      "published": "2026-10-13T09:04:49+05:00",
+      "summary": "• Directs Smeda to expand access to business loans, prepare feasibility studies in local languages• Orders audit of Daanish IT Park, urges collaboration with global technology firms\nISLAMABAD: Prime Minister Sheh­baz Sharif on Monday directed the auth­orities to increase financing for small and medium-sized enterprises (SMEs) from Rs1.1 trillion to Rs2.2tr by 2028, citing their potential to drive ",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "Discos’ sell-off faces investor trust deficit",
-      "url": "https://www.dawn.com/news/2035520/discos-sell-off-faces-investor-trust-deficit",
-      "published": "2026-10-08T08:11:28+05:00",
-      "summary": "ISLAMABAD: To attract bidders for the successful privatisation of distribution companies (Discos) and allay concerns about contract sanctity, the government is expediting measures to improve regulatory predictability and considering political risk guarantees from multilateral agencies.\nInformed sources told Dawn that the reopening of independent power producers’ (IPPs) contracts and recent legal d",
+      "title": "Governor’s rule in KP rattles stock market",
+      "url": "https://www.dawn.com/news/2036747/governors-rule-in-kp-rattles-stock-market",
+      "published": "2026-10-13T08:56:55+05:00",
+      "summary": "KARACHI: The imposition of governor’s rule and an emergency in PTI-ruled Khyber Pakhtunkhwa further weakened already fragile investor sentiment on Monday. The Pakistan Stock Exchange (PSX) remained under pressure from Middle East tensions, elevated oil and petroleum prices, inflationary pressures and political instability, all contributing to continued economic uncertainty.\nAs a result, the market",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "Wheat output targets delayed till finalisation of price",
-      "url": "https://www.dawn.com/news/2035523/wheat-output-targets-delayed-till-finalisation-of-price",
-      "published": "2026-10-08T07:58:13+05:00",
-      "summary": "ISLAMABAD: Although the wheat sowing season is due to start within the next few weeks, the Federal Committee on Agriculture (FCA) was unable to set production targets for Rabi crops during a meeting on Wednesday.\nThe meeting was chaired by the Minister for National Food Security Rana Tanveer Hussain. A press release of the ministry said the targets for Rabi crops would be finalised after the “anno",
-      "source": "Dawn Business"
-    },
-    {
-      "symbol": "PRL",
-      "title": "PRL Share Price Today - Pakistan Refinery Ltd - Investify",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfeWRzYXEtbG1LVVlqaC1zVjlCNUJpcm9oZGZHMjMyZmp2cTkxU29PTTNxdHJvc0UwWC1tc3djdjQwQ3VDUjhQTzEyOWZ1ZFRHendzNg?oc=5",
-      "published": "2026-10-08T07:56:29+00:00",
-      "summary": "PRL Share Price Today - Pakistan Refinery Ltd&nbsp;&nbsp;Investify",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "KEL",
-      "title": "Karachi Power Outage Alert: 65 K-Electric Feeders to Remain Shut on October 8 - Hamariweb.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelRJRW81LXVSUU9DakVFVFpCZk1YNEhBZ205ZGJxVTdFSXdfT2ZJWTd4cXZYZEtvcWVRTUY5NlMxUUdMaUJVdDJZQmJVSkdPelB5eWhmZHpaM3BrM3NSSW10d1BST2hGSXNONHZjVVgwdU1wS1Y2cXVIT25YOU9yLWlLd1hMNWJqdDh6QWVyZGZCVjhfTWFHcU45TVdLRHJ4SGlQVUNSX2x5YTVTaktiWmZXUWk?oc=5",
-      "published": "2026-10-08T07:51:11+00:00",
-      "summary": "Karachi Power Outage Alert: 65 K-Electric Feeders to Remain Shut on October 8&nbsp;&nbsp;Hamariweb.com",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Flour prices raised by Rs14 per kg",
-      "url": "https://www.dawn.com/news/2035524/flour-prices-raised-by-rs14-per-kg",
-      "published": "2026-10-08T07:01:13+05:00",
-      "summary": "KARACHI: Over the past three days, millers have raised the prices of various flour varieties by an average of Rs14 per kg.\n\nIn the last week of September, they cut prices for various flour varieties by Rs3 per kg, but this failed to provide any price relief to consumers, as retailers kept the prices unchanged.\n\nConsumers continue to see price fluctuations in flour ahead of wheat imports, but the f",
+      "title": "Foreign-funded project portfolio halved",
+      "url": "https://www.dawn.com/news/2036751/foreign-funded-project-portfolio-halved",
+      "published": "2026-10-13T08:36:51+05:00",
+      "summary": "ISLAMABAD: The government said on Monday it had to cut the foreign-funded project portfolio by more than half, from Rs537 billion to Rs255bn, due to a shortage of matching funds in local currency for the current fiscal year.\nThis was reported to the Senate Standing Committee on Planning, Development and Special Initiatives by a team led by Planning Secretary Dr Tahir Noor.\nMr Noor also informed th",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "FBR expands electronic production monitoring",
-      "url": "https://www.dawn.com/news/2035519/fbr-expands-electronic-production-monitoring",
-      "published": "2026-10-08T07:01:13+05:00",
-      "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has extended electronic production monitoring to the leather, paper and paperboard sectors, authorising four private vendors to install and operate camera-based monitoring systems across industrial sectors.\n\nThe move is part of the FBR’s efforts to strengthen sales tax monitoring and curb tax evasion by obtaining production data directly from manufactu",
+      "title": "Pakistan’s poverty rate higher than India, Bangladesh, UNDP says",
+      "url": "https://www.dawn.com/news/2036826/pakistans-poverty-rate-higher-than-india-bangladesh-undp-says",
+      "published": "2026-10-13T08:13:03+05:00",
+      "summary": "https://www.dawn.com/news/2036753",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "Outstanding SME loans hit Rs1.137tr",
-      "url": "https://www.dawn.com/news/2035521/outstanding-sme-loans-hit-rs1137tr",
-      "published": "2026-10-08T07:01:13+05:00",
-      "summary": "ISLAMABAD: High­lighting data gaps hampering decision-making, the government on Wednesday said its four top-priority sectors — housing, SMEs, agriculture and electric vehicles — received about Rs222 billion in financing during the July-September quarter of 2026-27.\n\nFollowing the fifth meeting of the Access to Finance Steering Committee, Finance Minister Muhammad Aurangzeb said in an official stat",
+      "title": "Digital push could yield $80bn",
+      "url": "https://www.dawn.com/news/2036752/digital-push-could-yield-80bn",
+      "published": "2026-10-13T08:02:33+05:00",
+      "summary": "ISLAMABAD: Pakis­tan could realise economic benefits of $60 billion to $80bn over the next five years through digital transformation, with agriculture, real estate and healthcare expected to gain significantly.\nA working paper issued by the Pakistan Digital Authority (PDA) says digitalisation is a major opportunity to accelerate economic growth, improve public service delivery, and streamline gove",
       "source": "Dawn Business"
     },
     {
-      "symbol": "FCCL",
-      "title": "FCCL Share Price Today - Fauji Cement Company Ltd - Investify",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5WVNfdmRuYURQdVg0T2NwaDktWWVwY3Vfa2lhSEktbXpWSTJTS3Etbk5WMm1PMzQ1NkJYNmVBZlk2QnVpRVhoMmhvTFlBS1pZOE5qekx3?oc=5",
-      "published": "2026-10-08T05:03:23+00:00",
-      "summary": "FCCL Share Price Today - Fauji Cement Company Ltd&nbsp;&nbsp;Investify",
-      "source": "google_news_rss"
+      "symbol": "_macro",
+      "title": "MSC Europe service from 26th",
+      "url": "https://www.dawn.com/news/2036749/msc-europe-service-from-26th",
+      "published": "2026-10-13T07:00:18+05:00",
+      "summary": "KARACHI: A new MSC direct Europe service will commence from Oct 26, while KPT aims to double direct shipping services by December to cut transshipment depen­dence, Chairman retired Rear Admiral Shahid Ahmed told the Karachi Chamber of Commerce and Industry on Monday.\n\nHe said improved vessel operations could save Rs30-40bn annually, cutting unloading time from seven days to 1-1.5 days. Over 160 ve",
+      "source": "Dawn Business"
     },
     {
-      "symbol": "KEL",
-      "title": "KEL AGM / EGM: K-Electric applies for extension to hold AGM and file audited financial statements - Investify",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTVBOckJoWlluS05fcFMtazR5YUVzTmpKNGc2T0R3QXc1bWNONHJ6UmduN1dvd01TYVFMMmtoYnVscnJUR1RNeEd4SjUzSzZfbXFDd1hBeVlqYm1QeFZYWk10QnRBYmZv?oc=5",
-      "published": "2026-10-08T03:26:49+00:00",
-      "summary": "KEL AGM / EGM: K-Electric applies for extension to hold AGM and file audited financial statements&nbsp;&nbsp;Investify",
-      "source": "google_news_rss"
+      "symbol": "_macro",
+      "title": "Banks ordered to pay Rs1.2bn",
+      "url": "https://www.dawn.com/news/2036748/banks-ordered-to-pay-rs12bn",
+      "published": "2026-10-13T07:00:18+05:00",
+      "summary": "KARACHI: Banking Mohtasib Pakistan Sirajuddin Aziz has said fraudulent activities are widespread and pose a significant risk to banks and their clients.\n\nIn a statement on Monday, Mr Aziz said his office disposed of over 29,001 complaints during January-September of CY2026, awarding complainants Rs1.2 billion.\n\nThe Banking Mohtasib received 33,625 new complaints during the period, including 5,927 ",
+      "source": "Dawn Business"
     },
     {
       "symbol": "ENGROH",
-      "title": "Engro Holdings reports buyback of 196,676 shares - Investify",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02NkliSEY0VmZYZEJGdHd1akNxUGE2ZTQ4blhXbllRd0JidTg0bk5XMEl6UXdKd19MbndkRGxtTUYwSGVMWmNsZkFNSHZhZkJkOFRmUl9ySGxkV2M5cWVmRFE1SDZvU01FS1Y0cw?oc=5",
-      "published": "2026-10-08T03:11:49+00:00",
-      "summary": "Engro Holdings reports buyback of 196,676 shares&nbsp;&nbsp;Investify",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "TREET",
-      "title": "Treet Corporation Limited: performance and outlook - Business Recorder",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWjVyUlVJT3VmYVhRdmJFci1UNmlpblBUX2tjaW9hVDBqU2YydnVGN21jZ1cyYjZzamw4dzc3WVB5NnZFdnlYV1ZSaEpwdVlU0gFWQVVfeXFMT1FOYVpGSENSQThwMVdQeWtYMURLdmxsRkprLXBQMF9oUlhYM0FDYzlxd3BOMVk2UnBMelI4Q19zNmhmZmtreS1qV0hYQzZaWDhTSW1MMmc?oc=5",
-      "published": "2026-10-08T00:42:51+00:00",
-      "summary": "Treet Corporation Limited: performance and outlook&nbsp;&nbsp;Business Recorder",
+      "title": "Engro Holdings reports buyback of 742,601 shares - Investify",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zeklOUHFIQlFmQVVDVklyd2FPVnN3aHp1emh3X2JxYWh5MENEbkl0eWJnZVhDWGpDekdmOUZQVlU4RVRxSjA5NGc4Uzk1Y01HdEUwNzR3a1hBcVFBTFNXakIxaGtzZklFOFJONA?oc=5",
+      "published": "2026-10-13T03:18:41+00:00",
+      "summary": "Engro Holdings reports buyback of 742,601 shares&nbsp;&nbsp;Investify",
       "source": "google_news_rss"
     },
     {
       "symbol": "_macro",
-      "title": "Govt raises petrol price by Rs1.82 per litre, reduces high-speed diesel rate by Re0.91",
-      "url": "https://www.dawn.com/news/2035445/govt-raises-petrol-price-by-rs182-per-litre-reduces-high-speed-diesel-rate-by-re091",
-      "published": "2026-10-07T22:53:18+05:00",
+      "title": "Petrol price down by Rs2.93 per litre, high-speed diesel rate up by Re0.61",
+      "url": "https://www.dawn.com/news/2036662/petrol-price-down-by-rs293-per-litre-high-speed-diesel-rate-up-by-re061",
+      "published": "2026-10-13T00:19:26+05:00",
       "summary": "(function() {\n        var minH = 50;\n        var maxH = 30000;\n\n        // Capture the specific iframe for this script instance synchronously\n        var scripts = document.getElementsByTagName('script');\n        var currentScript = document.currentScript || scripts[scripts.length - 1];\n        var wrapper = currentScript;\n        while (wrapper && (!wrapper.classList || !wrapper.classList.contain",
       "source": "Dawn Business"
     },
     {
       "symbol": "_macro",
-      "title": "Bahrain's foreign minister arrives in Islamabad for 2-day visit",
-      "url": "https://www.dawn.com/news/2035375/bahrains-foreign-minister-arrives-in-islamabad-for-2-day-visit",
-      "published": "2026-10-07T20:54:01+05:00",
-      "summary": "Bahraini Foreign Minister Abdullatif bin Rashid Al Zayani arrived in Islamabad on Wednesday evening for a two-day visit, where he is expected to co-chair the third session of the Joint Ministerial Commission (JMC), the Foreign Office (FO) said.\nAccording to the FO, Al Zayani was received at the airport by Economic Affairs Division Secretary Muhammad Humair Karim and Additional Secretary (Middle Ea",
+      "title": "PM Shehbaz directs FBR to complete digital production monitoring system across major industries by year end",
+      "url": "https://www.dawn.com/news/2036676/pm-shehbaz-directs-fbr-to-complete-digital-production-monitoring-system-across-major-industries-by-year-end",
+      "published": "2026-10-13T00:11:33+05:00",
+      "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday directed the Federal Board of Revenue (FBR) to complete the digital monitoring system of sales production in major industries by the end of December, as part of efforts to narrow the gap between actual and potential tax collection.\nChairing a meeting in Islamabad to review FBR reforms, the premier instructed tax authorities to ensure production mo",
       "source": "Dawn Business"
-    },
-    {
-      "symbol": "_macro",
-      "title": "Indian central bank hikes rates for first time since 2023",
-      "url": "https://www.dawn.com/news/2035423/indian-central-bank-hikes-rates-for-first-time-since-2023",
-      "published": "2026-10-07T18:01:19+05:00",
-      "summary": "India’s central bank hiked interest rates on Wednesday for the first time since 2023 as the Middle East conflict stoked inflation in Asia’s third-largest economy and battered a weakened rupee.\nThe Reserve Bank of India (RBI) said the benchmark repurchase rate, the level at which it lends to commercial banks, would be raised by 25 basis points to 5.50 per cent after a unanimous vote by a six-member",
-      "source": "Dawn Business"
-    },
-    {
-      "symbol": "MEBL",
-      "title": "Meezan Bank to Launch Two Shariah Compliant Credit Cards in 2027 - TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSU1JbE9jS2NqM1BmMmRHeC1PbUlFbC1xUTdXVzFLTHhIOXlqMEJZcG1qbXZray16NlRNa1VNRUo3QUVaQW92dXpfZjdoLTZFekxVd21nVVJ0QmlGUGhpQ3haekk1VU84eUp2TzB1U3lTZm84Qkt0V3NJbmpSR21tMjNjRWljbTVmejRXMHpHLVpPdEpl?oc=5",
-      "published": "2026-10-07T17:58:24+00:00",
-      "summary": "Meezan Bank to Launch Two Shariah Compliant Credit Cards in 2027&nbsp;&nbsp;TechJuice",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "KEL",
-      "title": "K-Electric | Shehryar Chishti | Fahad Haroon | Digital Technology Talks - Aaj English TV",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1BjWHRjbTV1TTI3N2FLbGl3eVJWckNQQ0ZlTC1neVI1TEF4UE5mVzZ1TVROc2FtNXBxUXNZeXdaYzUtdGVUeGJqdVFtSGVEQTlhSUlycVMzb1Vpc1dMZ1ZrMmlCbVFKSGs1V0xsMmppRFozS25LMEVaVDNBXzRIMV9OVndLVlVSb0JqQXhlNEJCa1NObWhaOUZtRW1WWTdEbEJXMVZLTXRHWW9rR2p6eG53?oc=5",
-      "published": "2026-10-07T14:45:12+00:00",
-      "summary": "K-Electric | Shehryar Chishti | Fahad Haroon | Digital Technology Talks&nbsp;&nbsp;Aaj English TV",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "KEL",
-      "title": "K-Electric | Shehryar Chishti | Fahad Haroon | Digital Technology Talks - Aaj News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wQWhBWjRleDgxYVBnTjZXdjdXZ2hjTDRoNEkyaFBsX2dhbklEWjBTOGZqcWFwQTQ1SjQ3UDJlMXVsZjhUZGZ4Z2s3SnE?oc=5",
-      "published": "2026-10-07T14:40:10+00:00",
-      "summary": "K-Electric | Shehryar Chishti | Fahad Haroon | Digital Technology Talks&nbsp;&nbsp;Aaj News",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "KEL",
-      "title": "K-Electric chairman, Fahd Haroon discuss Pakistan’s digital growth - Aaj English TV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXhaV1Nqb0ZJMXRRVVNUaUxOVnp0SXNWaXBDYWo4a2l1SVBFQWxiNS1xQmwtdkdOYU5ZY0VsTDRpaWg5dWZBcThoRG1hczJTU0lSYnhaTFRuNTJvcGlRb3Y3M0pXMG5uYVBydDVWRkFMa2FrbTlkek9YNjh4eXoyeGZyOENKY3IxM3d0WGNhQXlWWDc1eTF3WGc2bUI5UmFZNG1pQw?oc=5",
-      "published": "2026-10-07T14:28:49+00:00",
-      "summary": "K-Electric chairman, Fahd Haroon discuss Pakistan’s digital growth&nbsp;&nbsp;Aaj English TV",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "KEL",
-      "title": "K-Electric chairman, Fahd Haroon discuss Pakistan’s digital growth - Aaj English TV",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENk55QjBsRjZqQkstdzQ0dHRYNHY0ZFh0QXB4cGRmZEx2czlabzNoNkpyemQ3RWdnM3Z1UU8zMWtVUzhJa2k5WTdLZFhuc2Mta1Nn?oc=5",
-      "published": "2026-10-07T14:28:49+00:00",
-      "summary": "K-Electric chairman, Fahd Haroon discuss Pakistan’s digital growth&nbsp;&nbsp;Aaj English TV",
-      "source": "google_news_rss"
     },
     {
       "symbol": "MEBL",
       "title": "Meezan Bank Announces App Downtime on First Day of Ramadan - TechJuice",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjNKV3hadDQ2U1B6NUZTaF9HQWtZSWZObnZMc1I5ejYtWU15R3hGeXhnT3cydjhUWWRkMGl0UFhlNnh0RU85ak10aVQwTnVUZG5XSkRoYlBQQUhyWmw4QnhadWdiaFNnQVRHMTl4UXFVbzZONzNnd1Z4RmM2STZHVTgxNzBDR0huOVY2Mg?oc=5",
-      "published": "2026-10-07T13:52:12+00:00",
+      "published": "2026-10-12T18:46:43+00:00",
       "summary": "Meezan Bank Announces App Downtime on First Day of Ramadan&nbsp;&nbsp;TechJuice",
       "source": "google_news_rss"
     },
     {
-      "symbol": "BNL",
-      "title": "BNL Company Profile - Bunnys Ltd - Investify",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kVlJUSUVsLXMweWptaXpjMHRzZmJvMzkxUC05Ymt2VGdEeHpFZ2Z6ZkxSME1mQlh4cnRjVFVEV2wzZU5uRFJDSEIyM01HVTFfaXpTaVNTUQ?oc=5",
-      "published": "2026-10-07T13:06:41+00:00",
-      "summary": "BNL Company Profile - Bunnys Ltd&nbsp;&nbsp;Investify",
+      "symbol": "HUBC",
+      "title": "HUBC Share Price Today - Hub Power Company Ltd - Investify",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54TnFRbWhDV056UFg5OWh0NUNVZXQxTkI4QTl1SFBOMTZUY0E2QXNzNEZpd1BuQnVveTZ5U2YxaEsxVnFqZnAxTDdEQW12U2ZEYVNwekNB?oc=5",
+      "published": "2026-10-12T16:29:37+00:00",
+      "summary": "HUBC Share Price Today - Hub Power Company Ltd&nbsp;&nbsp;Investify",
+      "source": "google_news_rss"
+    },
+    {
+      "symbol": "ENGROH",
+      "title": "ENGROH Share Price Today - Engro Holdings Ltd - Investify",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EUzdyY2NGcTFXMkJQYVEyVS1qTzk2VlpuXzFYdXFENG80WWxRblR0bUtLQU9fTjJYLXRwMDJ5ZTVDRldfTWROTVVaVmk5SkN4N3dWemZZbUI?oc=5",
+      "published": "2026-10-12T13:36:44+00:00",
+      "summary": "ENGROH Share Price Today - Engro Holdings Ltd&nbsp;&nbsp;Investify",
       "source": "google_news_rss"
     },
     {
       "symbol": "KEL",
-      "title": "SAPM Fahd Haroon, K-Electric chairman discuss digital growth and investment - Daily Ausaf",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3BDZFpMLS1kTkxXX0Zib2hCczViQ2gwbXlVOWgzb0o3THhpSUtoZmdwUXZkNTdwUzNNWGJxQm94ZUhVZ2hTUjNWRUFMcE5QT0xsMWlSRm5DRFJyRVc4UDl4Q3g4Yll1d01hRFF0NUUyM2dxaFlQRW5MUWFENWxNaDRBVnM3TGJseHpUcWRhUVYtRlZNU2dCQTVXaHlCWkhmd21KT2pyZ1BfMTlyMUJV0gG0AUFVX3lxTE43WEF3SjlYTmM2eFdRRV9RUUhMU2dxT1diSi04UTlqY2UzS1o0X1M0djBCbFRqQ1I3NG8yR0Z6eGR3WWhzNnZNUUxPTm02OXhKeVdCMHBvUHJIdVJ0dU9CYTF4UEVaN2x0TWRFSUMyVlBMMDQ4bnIwY0tySFkxWjI3LTNtU1BlNUY1WVJxbHlfNEFWaGRTM3UxQjhIbkU4dzhWX2J2VmYwQ0w5MGlOMVNHVXljTw?oc=5",
-      "published": "2026-10-07T12:47:40+00:00",
-      "summary": "SAPM Fahd Haroon, K-Electric chairman discuss digital growth and investment&nbsp;&nbsp;Daily Ausaf",
+      "title": "K-Electric Announces 10-Hour Power Outage in Karachi: Check Affected Areas - TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVNsdGUxX2hjd04yTTB6QXJBYW9RM1Z2N0wyVVVJUkI0NFh2UDB3cDNQX0J4VUhuMDVEWXE5WDdXcV94YU4ySENXbV9Ob0d6cUxZcjRJQ0QyUGVIWk1LaTZsZVM0Q19OaHJBLURuVUNwd0N0OEo3dmRhM2UyM3hkMkp0d3R0LTFNR3NqbUwyV2pmbF90ekpxR1dfa1ZQSFlx?oc=5",
+      "published": "2026-10-12T12:58:26+00:00",
+      "summary": "K-Electric Announces 10-Hour Power Outage in Karachi: Check Affected Areas&nbsp;&nbsp;TechJuice",
       "source": "google_news_rss"
     },
     {
-      "symbol": "LUCK",
-      "title": "Lucky Cement-Led Consortium Pre-Qualified for GEPCO Privatisation Due Diligence - Energy Update",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0NNeWtxalp5N2h6clZzamQ3cU15MWUxclhaWlNnWTVhbnctbGJBcWdwSldyRHpXSFdFemhWMUt1T19nTFRkQ3Fubk1DZld2aFh5NFJvRUZEMDJuU24xTGVoRExyM3BTRHI4aWFyUkllOXJVQjBIV0lUcUptLVFRd1RDWVB3MXVfd2EwbnFXV240Ti1oWjlrZkpzTWh4SEQzRU1MY2h2cGVxR0lZR01MQ253?oc=5",
-      "published": "2026-10-07T12:20:58+00:00",
-      "summary": "Lucky Cement-Led Consortium Pre-Qualified for GEPCO Privatisation Due Diligence&nbsp;&nbsp;Energy Update",
+      "symbol": "SNGP",
+      "title": "Departmental One Day Cup, 2016/17 - Sui Northern Gas Pipelines Limited Cricket Team Records & Stats - Cricinfo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjd5VmRZdmM0NWNxQVhwV1NTcDdISnExRlpCWVI4T2c3SzM3QmtfUW5pVnZ2YW1NQzRXWjBnTDdWaWdHcjJFWDlVSS1jSjNNZm8zZnNPZXVHSUQwR0JFUElNSkZTVHRUeGZFQzQ4RFhwbjFvNmg4R1FmdEFIdzYtMHYwcUFuZkduUlFEV3dWQ3VOTlEyYlhhdkFMc2Z3bk9hMDEyY3BILWR0N043cnEtZGdTU0Z6dw?oc=5",
+      "published": "2026-10-12T12:20:43+00:00",
+      "summary": "Departmental One Day Cup, 2016/17 - Sui Northern Gas Pipelines Limited Cricket Team Records & Stats&nbsp;&nbsp;Cricinfo",
       "source": "google_news_rss"
     },
     {
-      "symbol": "KEL",
-      "title": "Minister of State/Special Assistant to the Prime Minister on Digital Media, Fahd Haroon meeting with Chairman K-Electric, Shaheryar Arshad Chishty at his office. - | Associated Press Of Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRlVkNE5uSVJOWHFiSHQ5VHctdi1RYkM5WllJTGQwVW5ObnBNNFVsVmVoMTM0eEI1TjcybGgtR3NTU1FuTjd0S0FlU003MkpGUXBNd1p6eVVPM0hUUFVUMWlxNW9QdXI3MzRSSkZwUzZNZ29odGxNNEIxSlNNMHlUUVpCSXZFRnc0Nkk3VDZoZlo0WFdGdEdVZWMtcUE3Q3BoR0V0UHppWl9tamk5Qkl3X2EtQkFSa1pQQ3dldjRSSnlNb3pCSzEtSWpYZkI4b0UzaldMd3hXblozanBsN1dHUVVBQlRCTHpLZ3F5cjhuUXhpOXl5WVgtSjU1UjYxcEFoWXZ5Rk5od2NaUmNDSmJ1eWZoMUxZVGhlcVg3eVgxT3d5ckU?oc=5",
-      "published": "2026-10-07T11:35:45+00:00",
-      "summary": "Minister of State/Special Assistant to the Prime Minister on Digital Media, Fahd Haroon meeting with Chairman K-Electric, Shaheryar Arshad Chishty at his office.&nbsp;&nbsp;| Associated Press Of Pakistan",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "MEBL",
-      "title": "Just Rs 27,000 Down Payment for iPhone 18 Pro! Here’s Meezan Bank’s Complete Plan - MM News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNi0yRkdyMmNSVnNvb0hBT3hvMWxjVU1nZGpOS2ZHSjBiNklpZmx1ek9oM1RjYl8zbDdsMWQ1RC1nTzYzRGlIVWh3MXotS0JSS2ZCVTlFb05DWF85Y2w5OVZmUk1yV1BZYzJYREx1LWJ5RXpNR2N1eEh4MlFTa1hFaTh3ZW83bnE4dmtkVUdxYkFZOW9BSGhMTmZDODQ?oc=5",
-      "published": "2026-10-07T11:21:15+00:00",
-      "summary": "Just Rs 27,000 Down Payment for iPhone 18 Pro! Here’s Meezan Bank’s Complete Plan&nbsp;&nbsp;MM News",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "FABL",
-      "title": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXgyMWVDTGthOWFkcUNvTDJnbGJsbERlejd1WGNfcllfdFAxQkZSbld1c1l3WFZNR2pBNWdodVNBN1VOS04wbkxDdWpUMjh4bDRnQUpCSmE0R0JIdVlqUVFpUzhRZDlvbDlaT0dGYkVpUUlMbzN2WFliNkU1V3licjl2MHM0SHNLaVZwSWd3dzVRSjlmdGswZmRxYVRWRDY0Q2tHeDNjNV9wMGR5Uzdjd0NGd3NsODdCeFdqZA?oc=5",
-      "published": "2026-10-07T11:16:13+00:00",
-      "summary": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank&nbsp;&nbsp;TechJuice",
-      "source": "google_news_rss"
-    },
-    {
-      "symbol": "MLCF",
-      "title": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank - TechJuice",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXgyMWVDTGthOWFkcUNvTDJnbGJsbERlejd1WGNfcllfdFAxQkZSbld1c1l3WFZNR2pBNWdodVNBN1VOS04wbkxDdWpUMjh4bDRnQUpCSmE0R0JIdVlqUVFpUzhRZDlvbDlaT0dGYkVpUUlMbzN2WFliNkU1V3licjl2MHM0SHNLaVZwSWd3dzVRSjlmdGswZmRxYVRWRDY0Q2tHeDNjNV9wMGR5Uzdjd0NGd3NsODdCeFdqZA?oc=5",
-      "published": "2026-10-07T11:16:13+00:00",
-      "summary": "Competition Commission of Pakistan Approves Maple Leaf Cement Share Acquisition in Faysal Bank&nbsp;&nbsp;TechJuice",
+      "symbol": "ENGROH",
+      "title": "ENGROH Company Announcements - Engro Holdings Ltd - Investify",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HNF9HWlBBbjZFSFRIZElIU1VsUnZqOVFzaFVKc2Y3OWhFU1E5Umo0WFdCb0N1cGdJWjdRLU1ZaUlIOG13emFnNEt0WGVjU05pVkZyMHBScVc5UTVfNFU5QzgyTQ?oc=5",
+      "published": "2026-10-12T11:41:05+00:00",
+      "summary": "ENGROH Company Announcements - Engro Holdings Ltd&nbsp;&nbsp;Investify",
       "source": "google_news_rss"
     }
   ]
